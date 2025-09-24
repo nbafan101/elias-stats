@@ -14,34 +14,34 @@ urls <- list(
   team_opp_misc = "https://cdn.nba.com/static/json/staticData/EliasGameStats/00/team_opp_misc.txt"
 )
 
-# Function to clean and parse JSON-like text
-fetch_json <- function(url) {
+fetch_and_save <- function(url, name) {
+  message("Processing: ", name)
   res <- GET(url)
   raw_txt <- content(res, as = "text", encoding = "UTF-8")
 
-  # remove non-printable chars
+  # Always save raw text for debugging
+  write_file(raw_txt, file.path("data", paste0(name, "_raw.txt")))
+
+  # Clean text
   clean_txt <- gsub("[[:cntrl:]]", "", raw_txt)
 
-  # attempt parse
+  # Try parsing JSON
   parsed <- tryCatch(
     fromJSON(clean_txt, flatten = TRUE),
     error = function(e) {
-      message("⚠️ Failed to parse: ", url)
+      message("⚠️ Failed to parse JSON for ", name, ": ", e$message)
       return(NULL)
     }
   )
-  parsed
+
+  if (!is.null(parsed)) {
+    saveRDS(parsed, file = file.path("data", paste0(name, ".rds")))
+    write_json(parsed, path = file.path("data", paste0(name, ".json")),
+               pretty = TRUE, auto_unbox = TRUE)
+  }
 }
 
-# Iterate and save each dataset
-walk2(urls, names(urls), function(url, name) {
-  message("Processing: ", name)
-  data <- fetch_json(url)
-  if (!is.null(data)) {
-    saveRDS(data, file = file.path("data", paste0(name, ".rds")))
-    write_json(data, path = file.path("data", paste0(name, ".json")), pretty = TRUE, auto_unbox = TRUE)
-  }
-})
+walk2(urls, names(urls), fetch_and_save)
 
 # Always write a log so data/ isn’t empty
 log_file <- file.path("data", "scrape_log.txt")
