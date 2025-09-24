@@ -14,20 +14,19 @@ urls <- list(
 
 # Function: fetch, clean, parse JSON safely
 fetch_json <- function(url) {
-  res <- GET(url)
+  res <- httr::GET(url)
   stop_for_status(res)
 
-  raw_txt <- content(res, as = "text", encoding = "UTF-8")
+  raw_txt <- httr::content(res, as = "text", encoding = "UTF-8")
 
   # Clean invalid characters and trim to valid JSON
-  clean_txt <- raw_txt |>
-    gsub("[[:cntrl:]]", "", .) |>   # remove hidden control chars (^L etc.)
-    sub("^[^{]*", "", .) |>         # drop everything before first {
-    sub("[^}]*$", "", .)            # drop everything after last }
+  clean_txt <- gsub("[[:cntrl:]]", "", raw_txt)   # remove hidden control chars (^L, etc.)
+  clean_txt <- sub("^[^{]*", "", clean_txt)       # drop everything before first {
+  clean_txt <- sub("[^}]*$", "", clean_txt)       # drop everything after last }
 
   # Try parsing; return NULL if fails
   out <- tryCatch(
-    fromJSON(clean_txt, flatten = TRUE),
+    jsonlite::fromJSON(clean_txt, flatten = TRUE),
     error = function(e) {
       warning(paste("Failed to parse JSON from:", url, "->", e$message))
       return(NULL)
