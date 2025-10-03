@@ -1,157 +1,39 @@
 
-ROOKIE LEADERS / PLAYOFFS / INCLUDES GAMES OF SUNDAY, JUNE 22, 2025
+ROOKIE LEADERS / PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Edey, Mem.             4   10   5   25  6.3     Edey, Mem.            4   11   20   31  7.8     Edey, Mem.             4    7  1.8
-Tyson, Cle.            4    7   5   24  6.0     Ware, Mia.            4    4   15   19  4.8     Tyson, Cle.            4    7  1.8
-Larsson, Mia.          4    8   1   20  5.0     Post, G.S.           12    6   22   28  2.3     Larsson, Mia.          4    4  1.0
-Ware, Mia.             4    8   0   19  4.8     Larsson, Mia.         4    2    7    9  2.3     Post, G.S.            12   12  1.0
-Shannon Jr., Min.      9   13  12   41  4.6     da Silva, Orl.        2    0    4    4  2.0     Ware, Mia.             4    4  1.0
-Post, G.S.            12   16   3   45  3.8     Tyson, Cle.           4    3    4    7  1.8     Mitchell, OKC.        12    9  0.8
-Mitchell, OKC.        12   16   4   41  3.4     Knecht, LA-L          2    2    1    3  1.5     Jones, OKC.           10    5  0.5
-Knecht, LA-L           2    2   0    5  2.5     Holland II, Det.      5    3    3    6  1.2     da Silva, Orl.         2    1  0.5
-Jones, OKC.           10    9   2   23  2.3     Shannon Jr., Min.     9    1    9   10  1.1     Shannon Jr., Min.      9    3  0.3
-Scheierman, Bos.       4    3   0    8  2.0     Scheierman, Bos.      4    1    3    4  1.0     Sheppard, Hou.         3    1  0.3
-Holland II, Det.       5    0   9    9  1.8     Jones, OKC.          10    3    6    9  0.9     Furphy, Ind.          11    1  0.1
-Christie, LA-C         3    2   0    5  1.7     Mitchell, OKC.       12    3    6    9  0.8     B. James, LA-L         2    0  0.0
-Johnson, Mia.          2    1   0    2  1.0     Christie, LA-C        3    0    2    2  0.7     Christie, LA-C         3    0  0.0
-Furphy, Ind.          11    1   0    2  0.2     Furphy, Ind.         11    1    5    6  0.5     Holland II, Det.       5    0  0.0
-B. James, LA-L         2    0   0    0  0.0     Johnson, Mia.         2    1    0    1  0.5     Johnson, Mia.          2    0  0.0
-Sheppard, Hou.         3    0   0    0  0.0     Sheppard, Hou.        3    0    1    1  0.3     Knecht, LA-L           2    0  0.0
-da Silva, Orl.         2    0   0    0  0.0     B. James, LA-L        2    0    0    0  0.0     Scheierman, Bos.       4    0  0.0
+Edgecombe, Phi.        1    4   5   14 14.0     Edgecombe, Phi.       1    1    5    6  6.0     Edgecombe, Phi.        1    3  3.0
+Sallis, Phi.           1    2   4    8  8.0     Broome, Phi.          1    2    2    4  4.0     Sallis, Phi.           1    1  1.0
+Broome, Phi.           1    2   1    5  5.0     Diawara, N.Y.         1    1    2    3  3.0     Broome, Phi.           1    0  0.0
+Diawara, N.Y.          1    0   0    0  0.0     Sallis, Phi.          1    0    3    3  3.0     Diawara, N.Y.          1    0  0.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Edey, Mem.              10   15  .667     Tyson, Cle.              5   9  .556     Shannon Jr., Min.       12  12 1.000
-Larsson, Mia.            8   15  .533     Larsson, Mia.            3   8  .375     Holland II, Det.         9  10  .900
-Ware, Mia.               8   18  .444     Post, G.S.              10  32  .313     Edey, Mem.               5   7  .714
-                                          Ware, Mia.               3  11  .273                                         
+Sallis, Phi.             2    4  .500     Edgecombe, Phi.          1   6  .167     Edgecombe, Phi.          5   5 1.000
+Edgecombe, Phi.          4   13  .308                                              Sallis, Phi.             4   4 1.000
+Broome, Phi.             2    7  .286                                              Broome, Phi.             1   2  .500
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Sheppard, Hou.             3    2 0.67     Edey, Mem.                4  10 2.50     Edey, Mem.                4  108 27.0
-Tyson, Cle.                4    2 0.50     Ware, Mia.                4   2 0.50     Ware, Mia.                4   73 18.2
-Shannon Jr., Min.          9    4 0.44     Sheppard, Hou.            3   1 0.33     Larsson, Mia.             4   52 13.0
-Christie, LA-C             3    1 0.33     Post, G.S.               12   3 0.25     Post, G.S.               12  146 12.2
-Larsson, Mia.              4    1 0.25     Tyson, Cle.               4   1 0.25     Tyson, Cle.               4   31  7.7
-Post, G.S.                12    3 0.25     Holland II, Det.          5   1 0.20     Mitchell, OKC.           12   84  7.0
-Ware, Mia.                 4    1 0.25     Jones, OKC.              10   1 0.10     Holland II, Det.          5   34  6.7
-Mitchell, OKC.            12    2 0.17     Furphy, Ind.             11   1 0.09     Shannon Jr., Min.         9   57  6.3
-Jones, OKC.               10    1 0.10     B. James, LA-L            2   0 0.00     Scheierman, Bos.          4   22  5.6
-B. James, LA-L             2    0 0.00     Christie, LA-C            3   0 0.00     Jones, OKC.              10   46  4.6
+Broome, Phi.               1    2 2.00     Broome, Phi.              1   0 0.00     Edgecombe, Phi.           1   31 30.5
+Diawara, N.Y.              1    0 0.00     Diawara, N.Y.             1   0 0.00     Sallis, Phi.              1   22 22.3
+Edgecombe, Phi.            1    0 0.00     Edgecombe, Phi.           1   0 0.00     Broome, Phi.              1   15 15.0
+Sallis, Phi.               1    0 0.00     Sallis, Phi.              1   0 0.00     Diawara, N.Y.             1   10 10.2
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PLAYOFFS / INCLUDES GAMES OF SUNDAY, JUNE 22, 2025
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Edey, Mem.             4   10   5   25  6.3     Edey, Mem.            4   11   20   31  7.8     Edey, Mem.             4    7  1.8
-Larsson, Mia.          4    8   1   20  5.0     Ware, Mia.            4    4   15   19  4.8     Larsson, Mia.          4    4  1.0
-Ware, Mia.             4    8   0   19  4.8     Post, G.S.           12    6   22   28  2.3     Post, G.S.            12   12  1.0
-Post, G.S.            12   16   3   45  3.8     Larsson, Mia.         4    2    7    9  2.3     Ware, Mia.             4    4  1.0
-Holland II, Det.       5    0   9    9  1.8     Holland II, Det.      5    3    3    6  1.2     Holland II, Det.       5    0  0.0
+Edgecombe, Phi.        1    4   5   14 14.0     Edgecombe, Phi.       1    1    5    6  6.0     Edgecombe, Phi.        1    3  3.0
+Sallis, Phi.           1    2   4    8  8.0     Broome, Phi.          1    2    2    4  4.0     Sallis, Phi.           1    1  1.0
+Broome, Phi.           1    2   1    5  5.0     Diawara, N.Y.         1    1    2    3  3.0     Broome, Phi.           1    0  0.0
+Diawara, N.Y.          1    0   0    0  0.0     Sallis, Phi.          1    0    3    3  3.0     Diawara, N.Y.          1    0  0.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
+Edgecombe, Phi.          4   13  .308     Edgecombe, Phi.          1   6  .167     Edgecombe, Phi.          5   5 1.000
+                                                                                   Sallis, Phi.             4   4 1.000
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Larsson, Mia.              4    1 0.25     Edey, Mem.                4  10 2.50     Edey, Mem.                4  108 27.0
-Post, G.S.                12    3 0.25     Ware, Mia.                4   2 0.50     Ware, Mia.                4   73 18.2
-Ware, Mia.                 4    1 0.25     Post, G.S.               12   3 0.25     Larsson, Mia.             4   52 13.0
-Edey, Mem.                 4    0 0.00     Holland II, Det.          5   1 0.20     Post, G.S.               12  146 12.2
-Holland II, Det.           5    0 0.00     Larsson, Mia.             4   0 0.00     Holland II, Det.          5   34  6.7
-
-
-ROOKIE LEADERS / INCLUDES GAMES OF SUNDAY, APRIL 13, 2025
-
-SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Castle, S.A.          81  423 249 1190 14.7     Edey, Mem.           66  232  316  548  8.3     Collier, Utah         71  446  6.3
-Sarr, Was.            67  326 112  869 13.0     Missi, N.O.          73  255  346  601  8.2     Carrington, Was.      82  364  4.4
-Risacher, Atl.        75  357 106  942 12.6     Clingan, Por.        67  217  310  527  7.9     Shead, Tor.           75  316  4.2
-Wells, Mem.           79  287 111  823 10.4     Ware, Mia.           64  116  357  473  7.4     Castle, S.A.          81  332  4.1
-Edwards, Phi.         44  172  32  445 10.1     Sarr, Was.           67  124  311  435  6.5     Simpson, Cha.         36  112  3.1
-Carrington, Was.      82  300  69  807  9.8     Filipowski, Utah     72  112  328  440  6.1     Johnson, Mil.-Was.    29   76  2.6
-Filipowski, Utah      72  260  93  690  9.6     Matkovic, N.O.       42   64  145  209  5.0     Wallace, Atl.         31   81  2.6
-Ware, Mia.            64  257  46  595  9.3     Mogbo, Tor.          63  109  202  311  4.9     George, Was.          68  169  2.5
-Edey, Mem.            66  251  90  610  9.2     Salaun, Cha.         60   70  210  280  4.7     Sarr, Was.            67  161  2.4
-Missi, N.O.           73  269 127  665  9.1     Bona, Phi.           58   92  153  245  4.2     Mogbo, Tor.           63  146  2.3
-Knecht, LA-L          78  257  64  706  9.1     George, Was.         68   49  236  285  4.2     Dillingham, Min.      49   98  2.0
-George, Was.          68  203  70  590  8.7     Carrington, Was.     82   33  308  341  4.2     Filipowski, Utah      72  140  1.9
-Collier, Utah         71  234 105  615  8.7     Castle, S.A.         81   89  208  297  3.7     Mitchell, OKC.        36   64  1.8
-Walter, Tor.          52  159  66  449  8.6     Ighodaro, Pho.       61   66  156  222  3.6     Beekman, G.S.-Bkn.    36   63  1.8
-Buzelis, Chi.         80  252  88  688  8.6     Dunn, Pho.           74   92  175  267  3.6     Wells, Mem.           79  135  1.7
-Post, G.S.            42  123  21  340  8.1     Risacher, Atl.       75   86  182  268  3.6     Kolek, N.Y.           41   70  1.7
-Simpson, Cha.         36  104  41  282  7.8     Post, G.S.           42   35  113  148  3.5     Edwards, Phi.         44   69  1.6
-Matkovic, N.O.        42  135  34  325  7.7     Buzelis, Chi.        80   55  223  278  3.5     Walter, Tor.          52   81  1.6
-Johnson, Mil.-Was.    29   82  32  220  7.6     Wells, Mem.          79   87  181  268  3.4     da Silva, Orl.        74  113  1.5
-da Silva, Orl.        74  199  55  533  7.2     Edwards, Phi.        44   46  102  148  3.4     Sheppard, Hou.        52   75  1.4
-
-FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Edey, Mem.             251  433  .580     Post, G.S.              73 179  .408     Wells, Mem.            111 135  .822
-Ware, Mia.             257  464  .554     Battle, Tor.           105 259  .405     Buzelis, Chi.           88 108  .815
-Missi, N.O.            269  492  .547     Reeves, N.O.            51 129  .395     Carrington, Was.        69  85  .812
-Clingan, Por.          180  334  .539     McCain, Phi.            51 133  .383     Walter, Tor.            66  83  .795
-Filipowski, Utah       260  518  .502     Knecht, LA-L           128 340  .376     Knecht, LA-L            64  84  .762
-Holland II, Det.       197  416  .474     Edwards, Phi.           69 190  .363     Holland II, Det.        92 122  .754
-Knecht, LA-L           257  557  .461     Buzelis, Chi.           96 266  .361     George, Was.            70  93  .753
-Risacher, Atl.         357  779  .458     Risacher, Atl.         122 344  .355     Castle, S.A.           249 344  .724
-Edwards, Phi.          172  378  .455     Wells, Mem.            138 392  .352     Salaun, Cha.            67  94  .713
-Buzelis, Chi.          252  555  .454     Filipowski, Utah        77 220  .350     Risacher, Atl.         106 149  .711
-
-STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Edwards, Phi.             44   45 1.02     Clingan, Por.            67 110 1.64     Carrington, Was.         82 2458 30.0
-George, Was.              68   68 1.00     Sarr, Was.               67 101 1.51     Sarr, Was.               67 1814 27.1
-Simpson, Cha.             36   34 0.94     Missi, N.O.              73  98 1.34     Missi, N.O.              73 1956 26.8
-Collier, Utah             71   66 0.93     Edey, Mem.               66  85 1.29     Castle, S.A.             81 2162 26.7
-Beekman, G.S.-Bkn.        36   33 0.92     Bona, Phi.               58  69 1.19     George, Was.             68 1802 26.5
-Castle, S.A.              81   74 0.91     Ware, Mia.               64  71 1.11     Edwards, Phi.            44 1155 26.2
-Wallace, Atl.             31   28 0.90     Matkovic, N.O.           42  41 0.98     Collier, Utah            71 1839 25.9
-Clark, Min.               40   36 0.90     Buzelis, Chi.            80  75 0.94     Wells, Mem.              79 2043 25.9
-Mogbo, Tor.               63   55 0.87     George, Was.             68  50 0.74     Risacher, Atl.           75 1843 24.6
-Walter, Tor.              52   43 0.83     Carlson, OKC.            32  21 0.66     Simpson, Cha.            36  842 23.4
-
-
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF SUNDAY, APRIL 13, 2025
-
-SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Castle, S.A.          81  423 249 1190 14.7     Edey, Mem.           66  232  316  548  8.3     Collier, Utah         71  446  6.3
-Sarr, Was.            67  326 112  869 13.0     Missi, N.O.          73  255  346  601  8.2     Carrington, Was.      82  364  4.4
-Risacher, Atl.        75  357 106  942 12.6     Clingan, Por.        67  217  310  527  7.9     Shead, Tor.           75  316  4.2
-Wells, Mem.           79  287 111  823 10.4     Ware, Mia.           64  116  357  473  7.4     Castle, S.A.          81  332  4.1
-Carrington, Was.      82  300  69  807  9.8     Sarr, Was.           67  124  311  435  6.5     George, Was.          68  169  2.5
-Filipowski, Utah      72  260  93  690  9.6     Filipowski, Utah     72  112  328  440  6.1     Sarr, Was.            67  161  2.4
-Ware, Mia.            64  257  46  595  9.3     Mogbo, Tor.          63  109  202  311  4.9     Mogbo, Tor.           63  146  2.3
-Edey, Mem.            66  251  90  610  9.2     Salaun, Cha.         60   70  210  280  4.7     Filipowski, Utah      72  140  1.9
-Missi, N.O.           73  269 127  665  9.1     Bona, Phi.           58   92  153  245  4.2     Wells, Mem.           79  135  1.7
-Knecht, LA-L          78  257  64  706  9.1     George, Was.         68   49  236  285  4.2     da Silva, Orl.        74  113  1.5
-George, Was.          68  203  70  590  8.7     Carrington, Was.     82   33  308  341  4.2     Missi, N.O.           73   99  1.4
-Collier, Utah         71  234 105  615  8.7     Castle, S.A.         81   89  208  297  3.7     Salaun, Cha.          60   74  1.2
-Buzelis, Chi.         80  252  88  688  8.6     Ighodaro, Pho.       61   66  156  222  3.6     Risacher, Atl.        75   92  1.2
-da Silva, Orl.        74  199  55  533  7.2     Dunn, Pho.           74   92  175  267  3.6     Ighodaro, Pho.        61   71  1.2
-Shead, Tor.           75  204  53  533  7.1     Risacher, Atl.       75   86  182  268  3.6     Clingan, Por.         67   77  1.1
-Battle, Tor.          59  149  16  419  7.1     Buzelis, Chi.        80   55  223  278  3.5     Holland II, Det.      81   82  1.0
-Dunn, Pho.            74  205  19  511  6.9     Wells, Mem.          79   87  181  268  3.4     Buzelis, Chi.         80   79  1.0
-Clingan, Por.         67  180  62  436  6.5     da Silva, Orl.       74   73  172  245  3.3     Edey, Mem.            66   65  1.0
-Holland II, Det.      81  197  92  522  6.4     Collier, Utah        71   32  203  235  3.3     Ware, Mia.            64   60  0.9
-Mogbo, Tor.           63  156  60  389  6.2     Knecht, LA-L         78   37  179  216  2.8     Battle, Tor.          59   53  0.9
-
-FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Risacher, Atl.         357  779  .458     Battle, Tor.           105 259  .405     Castle, S.A.           249 344  .724
-Castle, S.A.           423  988  .428     Knecht, LA-L           128 340  .376     Missi, N.O.            127 204  .623
-Carrington, Was.       300  748  .401     Buzelis, Chi.           96 266  .361                                         
-Sarr, Was.             326  828  .394     Risacher, Atl.         122 344  .355                                         
-                                          Wells, Mem.            138 392  .352                                         
-                                          Carrington, Was.       138 407  .339                                         
-                                          George, Was.           114 354  .322                                         
-                                          Dunn, Pho.              82 264  .311                                         
-                                          Sarr, Was.             105 341  .308                                         
-                                          Castle, S.A.            95 333  .285                                         
-
-STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-George, Was.              68   68 1.00     Clingan, Por.            67 110 1.64     Carrington, Was.         82 2458 30.0
-Collier, Utah             71   66 0.93     Sarr, Was.               67 101 1.51     Sarr, Was.               67 1814 27.1
-Castle, S.A.              81   74 0.91     Missi, N.O.              73  98 1.34     Missi, N.O.              73 1956 26.8
-Mogbo, Tor.               63   55 0.87     Edey, Mem.               66  85 1.29     Castle, S.A.             81 2162 26.7
-Shead, Tor.               75   58 0.77     Bona, Phi.               58  69 1.19     George, Was.             68 1802 26.5
-Risacher, Atl.            75   52 0.69     Ware, Mia.               64  71 1.11     Collier, Utah            71 1839 25.9
-Filipowski, Utah          72   48 0.67     Buzelis, Chi.            80  75 0.94     Wells, Mem.              79 2043 25.9
-Carrington, Was.          82   54 0.66     George, Was.             68  50 0.74     Risacher, Atl.           75 1843 24.6
-Sarr, Was.                67   44 0.66     Dunn, Pho.               74  40 0.54     Ware, Mia.               64 1422 22.2
-Ware, Mia.                64   39 0.61     Mogbo, Tor.              63  34 0.54     da Silva, Orl.           74 1629 22.0
+Broome, Phi.               1    2 2.00     Broome, Phi.              1   0 0.00     Edgecombe, Phi.           1   31 30.5
+Diawara, N.Y.              1    0 0.00     Diawara, N.Y.             1   0 0.00     Sallis, Phi.              1   22 22.3
+Edgecombe, Phi.            1    0 0.00     Edgecombe, Phi.           1   0 0.00     Broome, Phi.              1   15 15.0
+Sallis, Phi.               1    0 0.00     Sallis, Phi.              1   0 0.00     Diawara, N.Y.             1   10 10.2
 

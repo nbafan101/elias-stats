@@ -1,144 +1,60 @@
 
-PLAYOFFS / INCLUDES GAMES OF SUNDAY, JUNE 22, 2025
+INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
-Minutes -- 51, Bridges, NY at BOS, 5/5 (OT)
-Minutes -- 47, Harden, LAC vs. DEN, 5/1
-Field Goals -- 17, Murray, DEN vs. LAC, 4/29
-Field Goals -- 17, Jokic, DEN at OKC, 5/13
-FG Attempts -- 33, Brunson, NY at DET, 5/1
-3-Pt. Field Goals -- 9, Trent Jr., MIL vs. IND, 4/25
-3-Pt. Field Goals -- 9, Hield, GS at HOU, 5/4
-3-Pt. FG Attempts -- 18, Ja. Green, HOU vs. GS, 4/23
-Free Throws -- 17, Mitchell, CLE vs. IND, 5/6
-FT Attempts -- 21, Mitchell, CLE vs. IND, 5/6
-FT Attempts -- 21, Mitchell, CLE vs. IND, 5/13
-Off. Rebounds -- 9, Gobert, MIN at LAL, 4/30
-Def. Rebounds -- 18, Antetokounmpo, MIL at IND, 4/29 (OT)
-Def. Rebounds -- 17, Jokic, DEN at OKC, 5/5
-Rebounds -- 24, Gobert, MIN at LAL, 4/30
-Assists -- 15, Haliburton, IND at MIL, 4/27
-Assists -- 15, Haliburton, IND vs. NY, 5/27
-Steals -- 6, Allen, CLE at MIA, 4/28
-Steals -- 6, Nembhard, IND vs. NY, 5/31
-Turnovers -- 8, Jokic, DEN vs. OKC, 5/9 (OT)
-Turnovers -- 8, Nembhard, IND at CLE, 5/6
-Turnovers -- 8, Gilgeous-Alexander, OKC at IND, 6/19
-Blocks -- 7, Edey, MEM vs. OKC, 4/26
-Blocks -- 7, Kornet, BOS vs. NY, 5/14
-Points -- 48, Mitchell, CLE vs. IND, 5/6
+Minutes -- 31, Edgecombe, PHI at NY, 10/2
+Field Goals -- 5, Maxey, PHI at NY, 10/2
+Field Goals -- 5, McBride, NY vs. PHI, 10/2
+FG Attempts -- 13, Edgecombe, PHI at NY, 10/2
+3-Pt. Field Goals -- 3, Mathews, NY vs. PHI, 10/2
+3-Pt. FG Attempts -- 7, Edwards, PHI at NY, 10/2
+Free Throws -- 7, Towns, NY vs. PHI, 10/2
+FT Attempts -- 8, Towns, NY vs. PHI, 10/2
+Off. Rebounds -- 5, Robinson, NY vs. PHI, 10/2
+Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
+Rebounds -- 16, Robinson, NY vs. PHI, 10/2
+Assists -- 4, Brunson, NY vs. PHI, 10/2
+Assists -- 4, Maxey, PHI at NY, 10/2
+Steals -- 3, McBride, NY vs. PHI, 10/2
+Steals -- 3, McCullar Jr., NY vs. PHI, 10/2
+Turnovers -- 5, Maxey, PHI at NY, 10/2
+Blocks -- 2, Oubre Jr., PHI at NY, 10/2
+Points -- 14, Maxey, PHI at NY, 10/2
+Points -- 14, Edgecombe, PHI at NY, 10/2
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
-Field Goals -- 55, Minnesota vs. OKC, 5/24
-Fewest Field Goals -- 25, Denver vs. OKC, 5/11
-FG Attempts -- 104, Oklahoma City at DEN, 5/9 (OT)
-FG Attempts -- 104, Oklahoma City vs. MEM, 4/22
-Fewest FG Attempts -- 70, Cleveland at IND, 5/11
-Fewest FG Attempts -- 70, Indiana at OKC, 6/22
-Field Goal Pct. -- .628, Minnesota vs. GS, 5/14
-Lowest Field Goal Pct. -- .313, Denver vs. OKC, 5/11
-3-Pt. Field Goals -- 22, (3 times, most recently) Boston vs. NY, 5/14
-3-Pt. FG Attempts -- 60, Boston vs. NY, 5/5 (OT)
-3-Pt. FG Attempts -- 51, Minnesota at OKC, 5/20
-3-Pt. FG Pct. -- .542, Boston vs. ORL, 4/29
-Free Throws -- 35, Cleveland at IND, 5/11
-Fewest Free Throws -- 6, Denver at LAC, 5/1
-FT Attempts -- 46, Houston at GS, 5/2
-Fewest FT Attempts -- 9, Denver at LAC, 5/1
-Fewest FT Attempts -- 9, Golden State at HOU, 5/4
-Free Throw Pct. -- 1.000, Indiana vs. MIL, 4/22
-Free Throw Pct. -- 1.000, L.A. Lakers vs. MIN, 4/22
-Lowest Free Throw Pct. -- .548, New York at BOS, 5/5 (OT)
-Off. Rebounds -- 25, Golden State at HOU, 4/30
-Fewest Off. Rebounds -- 3, Boston vs. ORL, 4/29
-Fewest Off. Rebounds -- 3, Golden State at HOU, 5/4
-Def. Rebounds -- 44, Denver vs. OKC, 5/9 (OT)
-Def. Rebounds -- 43, Cleveland at MIA, 4/28
-Def. Rebounds -- 43, Indiana at OKC, 6/5
-Fewest Def. Rebounds -- 17, Oklahoma City at MIN, 5/26
-Rebounds -- 63, Denver at OKC, 5/5
-Fewest Rebounds -- 29, Miami vs. CLE, 4/26
-Assists -- 37, Indiana vs. CLE, 5/11
-Fewest Assists -- 10, Cleveland vs. IND, 5/13
-Personal Fouls -- 32, Memphis vs. OKC, 4/26
-Fewest Personal Fouls -- 10, L.A. Lakers vs. MIN, 4/19
-Steals -- 16, Oklahoma City vs. DEN, 5/18
-Steals -- 16, Indiana vs. OKC, 6/19
-Turnovers -- 25, Indiana at OKC, 6/5
-Fewest Turnovers -- 7, Indiana at NY, 5/21 (OT)
-Fewest Turnovers -- 7, (5 times, most recently) Oklahoma City vs. IND, 6/5
-Blocks -- 12, Boston vs. NY, 5/14
-Blocks -- 12, Oklahoma City vs. IND, 6/16
-Points -- 149, Oklahoma City vs. DEN, 5/7
-Fewest Points -- 80, Memphis at OKC, 4/20
-
-INCLUDES GAMES OF SUNDAY, APRIL 13, 2025
-
-SINGLE-GAME HIGHS / PLAYERS
-
-Minutes -- 53, Braun, DEN vs. MIN, 4/1 (2 OT)
-Minutes -- 48, Johnson, WAS at MIA, 4/13
-Minutes -- 48, George, UTA at MIN, 4/13
-Field Goals -- 22, Fox, SAC vs. MIN, 11/15 (OT)
-Field Goals -- 22, Jokic, DEN at WAS, 12/7
-FG Attempts -- 39, Jokic, DEN at WAS, 12/7
-3-Pt. Field Goals -- 12, Curry, GS at ORL, 2/27
-3-Pt. Field Goals -- 12, Curry, GS at MEM, 4/1
-3-Pt. FG Attempts -- 20, (4 times, most recently) Curry, GS at MEM, 4/1
-Free Throws -- 21, Young, ATL vs. CHA, 3/12
-FT Attempts -- 26, Antetokounmpo, MIL vs. ATL, 12/4
-Off. Rebounds -- 13, Sabonis, SAC at NO, 2/13 (OT)
-Off. Rebounds -- 13, Kessler, UTA at TOR, 3/7
-Def. Rebounds -- 23, Wembanyama, SA vs. DEN, 1/4 (OT)
-Def. Rebounds -- 20, Sabonis, SAC at BOS, 1/10
-Rebounds -- 28, Sabonis, SAC at NO, 2/13 (OT)
-Rebounds -- 28, Sabonis, SAC at BOS, 1/10
-Assists -- 22, Jokic, DEN vs. PHO, 3/7 (OT)
-Assists -- 22, Young, ATL at CLE, 11/27
-Steals -- 8, (3 times, most recently) Giddey, CHI at LAL, 3/22
-Turnovers -- 11, Young, ATL vs. TOR, 1/25
-Turnovers -- 11, L. James, LAL at POR, 2/20
-Blocks -- 10, Wembanyama, SA vs. POR, 12/21
-Points -- 61, Jokic, DEN vs. MIN, 4/1 (2 OT)
-Points -- 56, Jokic, DEN at WAS, 12/7
-Points -- 56, Curry, GS at ORL, 2/27
-
-SINGLE-GAME HIGHS AND LOWS / TEAMS
-
-Field Goals -- 60, Denver vs. POR, 2/10
-Fewest Field Goals -- 22, Phoenix at OKC, 11/15
-FG Attempts -- 119, Indiana at CLE, 4/13 (2 OT)
-FG Attempts -- 115, Portland at CHI, 4/4
-Fewest FG Attempts -- 67, Orlando vs. TOR, 3/2
-Field Goal Pct. -- .689, Milwaukee vs. PHO, 4/1
-Lowest Field Goal Pct. -- .293, Phoenix at OKC, 11/15
-3-Pt. Field Goals -- 29, Boston vs. NY, 10/22
-3-Pt. FG Attempts -- 63, Boston vs. OKC, 3/12
-3-Pt. FG Attempts -- 63, Utah vs. OKC, 4/11
-3-Pt. FG Pct. -- .680, Miami vs. GS, 3/25
-Free Throws -- 43, Cleveland at CHA, 3/7
-Fewest Free Throws -- 3, (6 times, most recently) Phoenix at SAC, 4/13
-FT Attempts -- 53, Philadelphia at TOR, 10/25
-Fewest FT Attempts -- 3, Sacramento vs. PHO, 4/13
-Free Throw Pct. -- 1.000, Philadelphia vs. NY, 1/15 (OT)
-Free Throw Pct. -- 1.000, (51 times, most recently) Sacramento vs. PHO, 4/13
-Lowest Free Throw Pct. -- .333, Toronto at NO, 11/27
-Off. Rebounds -- 28, Toronto vs. WAS, 3/10
-Fewest Off. Rebounds -- 1, Phoenix at CLE, 1/20
-Def. Rebounds -- 52, Houston at CHI, 11/17
-Def. Rebounds -- 52, New Orleans vs. SA, 2/23
-Fewest Def. Rebounds -- 16, Philadelphia vs. DEN, 1/31
-Rebounds -- 73, Toronto vs. WAS, 3/10
-Fewest Rebounds -- 23, Utah vs. MIN, 1/30
-Assists -- 48, Indiana at WAS, 3/27
-Fewest Assists -- 9, Houston vs. BOS, 1/3
-Personal Fouls -- 35, Memphis at UTA, 10/23
-Fewest Personal Fouls -- 5, Miami vs. CLE, 1/29
-Steals -- 22, Atlanta at TOR, 12/29
-Turnovers -- 31, Toronto vs. ATL, 12/29
-Fewest Turnovers -- 3, Oklahoma City at IND, 12/26
-Blocks -- 18, Dallas vs. HOU, 2/8
-Points -- 162, Indiana at WAS, 3/27
-Fewest Points -- 67, Brooklyn at LAC, 1/15
+Field Goals -- 35, New York vs. PHI, 10/2
+Fewest Field Goals -- 27, Philadelphia at NY, 10/2
+FG Attempts -- 91, New York vs. PHI, 10/2
+Fewest FG Attempts -- 78, Philadelphia at NY, 10/2
+Field Goal Pct. -- .385, New York vs. PHI, 10/2
+Lowest Field Goal Pct. -- .346, Philadelphia at NY, 10/2
+3-Pt. Field Goals -- 8, New York vs. PHI, 10/2
+3-Pt. FG Attempts -- 39, New York vs. PHI, 10/2
+3-Pt. FG Pct. -- .205, New York vs. PHI, 10/2
+Free Throws -- 27, Philadelphia at NY, 10/2
+Fewest Free Throws -- 21, New York vs. PHI, 10/2
+FT Attempts -- 32, New York vs. PHI, 10/2
+FT Attempts -- 32, Philadelphia at NY, 10/2
+Fewest FT Attempts -- 32, New York vs. PHI, 10/2
+Fewest FT Attempts -- 32, Philadelphia at NY, 10/2
+Free Throw Pct. -- .844, Philadelphia at NY, 10/2
+Lowest Free Throw Pct. -- .656, New York vs. PHI, 10/2
+Off. Rebounds -- 20, New York vs. PHI, 10/2
+Fewest Off. Rebounds -- 10, Philadelphia at NY, 10/2
+Def. Rebounds -- 38, New York vs. PHI, 10/2
+Fewest Def. Rebounds -- 36, Philadelphia at NY, 10/2
+Rebounds -- 58, New York vs. PHI, 10/2
+Fewest Rebounds -- 46, Philadelphia at NY, 10/2
+Assists -- 19, New York vs. PHI, 10/2
+Fewest Assists -- 17, Philadelphia at NY, 10/2
+Personal Fouls -- 26, New York vs. PHI, 10/2
+Fewest Personal Fouls -- 24, Philadelphia at NY, 10/2
+Steals -- 13, New York vs. PHI, 10/2
+Turnovers -- 20, Philadelphia at NY, 10/2
+Fewest Turnovers -- 17, New York vs. PHI, 10/2
+Blocks -- 5, Philadelphia at NY, 10/2
+Points -- 99, New York vs. PHI, 10/2
+Fewest Points -- 84, Philadelphia at NY, 10/2
