@@ -1,13 +1,16 @@
 
-PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
+PRESEASON / INCLUDES GAMES OF FRIDAY, OCTOBER 3, 2025
                                                                                                          DECIDED  DECIDED
                           POINTS       FIELD GOAL    TURNOVERS         REBOUND         BELOW   OVERTIME   3 PTS.  10 PTS.
                           PER GAME     PERCENTAGE     PER GAME       PERCENTAGES      100 PTS.   GAMES   OR LESS  OR MORE
 TEAM                    OWN    OPP.    OWN   OPP.    OWN   OPP.    OFF.  DEF.  TOT.   OWN OPP.    W  L     W  L     W  L
-New York               99.0*  84.0*   .385* .346*   17.0* 20.0*   .357* .792* .574*     1   1     0  0     0  0     1  0
+L.A. Lakers            81.0  103.0    .311  .422    22.0  16.0    .216  .778  .497      1   0     0  0     0  0     0  1
+New Orleans           107.0*  97.0    .444* .396    16.0* 18.0    .271  .717  .494      0   1     0  0     0  0     1  0
+New York               99.0   84.0    .385  .346    17.0  20.0    .357* .792* .574*     1   1     0  0     0  0     1  0
 Philadelphia           84.0   99.0    .346  .385    20.0  17.0    .208  .643  .426      1   1     0  0     0  0     0  1
+Phoenix               103.0   81.0*   .422  .311*   16.0* 22.0*   .222  .784  .503      0   1     0  0     0  0     1  0
 
-COMPOSITE; 2     games    91.5           .367          18.5       .288  .712            2   2        0        0        1
+COMPOSITE; 5     games    94.8           .385          18.2       .260  .740            3   4        0        0        3
 
 * - League Leader
 

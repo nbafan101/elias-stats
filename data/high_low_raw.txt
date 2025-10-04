@@ -1,60 +1,58 @@
 
-INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
+INCLUDES GAMES OF FRIDAY, OCTOBER 3, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 31, Edgecombe, PHI at NY, 10/2
-Field Goals -- 5, Maxey, PHI at NY, 10/2
-Field Goals -- 5, McBride, NY vs. PHI, 10/2
-FG Attempts -- 13, Edgecombe, PHI at NY, 10/2
-3-Pt. Field Goals -- 3, Mathews, NY vs. PHI, 10/2
-3-Pt. FG Attempts -- 7, Edwards, PHI at NY, 10/2
+Field Goals -- 8, Booker, PHO at LAL, 10/3
+FG Attempts -- 19, Booker, PHO at LAL, 10/3
+3-Pt. Field Goals -- 3, (5 times, most recently) Brooks, PHO at LAL, 10/3
+3-Pt. FG Attempts -- 8, B. James, LAL vs. PHO, 10/3
 Free Throws -- 7, Towns, NY vs. PHI, 10/2
+Free Throws -- 7, Reaves, LAL vs. PHO, 10/3
 FT Attempts -- 8, Towns, NY vs. PHI, 10/2
+FT Attempts -- 8, Booker, PHO at LAL, 10/3
 Off. Rebounds -- 5, Robinson, NY vs. PHI, 10/2
 Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
-Assists -- 4, Brunson, NY vs. PHI, 10/2
-Assists -- 4, Maxey, PHI at NY, 10/2
-Steals -- 3, McBride, NY vs. PHI, 10/2
-Steals -- 3, McCullar Jr., NY vs. PHI, 10/2
-Turnovers -- 5, Maxey, PHI at NY, 10/2
-Blocks -- 2, Oubre Jr., PHI at NY, 10/2
-Points -- 14, Maxey, PHI at NY, 10/2
-Points -- 14, Edgecombe, PHI at NY, 10/2
+Assists -- 7, Booker, PHO at LAL, 10/3
+Steals -- 3, (4 times, most recently) Murphy II, NO vs. MEL, 10/3
+Turnovers -- 5, (3 times, most recently) Butler, PHO at LAL, 10/3
+Blocks -- 3, Missi, NO vs. MEL, 10/3
+Points -- 24, Booker, PHO at LAL, 10/3
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
-Field Goals -- 35, New York vs. PHI, 10/2
-Fewest Field Goals -- 27, Philadelphia at NY, 10/2
+Field Goals -- 40, New Orleans vs. MEL, 10/3
+Fewest Field Goals -- 23, L.A. Lakers vs. PHO, 10/3
 FG Attempts -- 91, New York vs. PHI, 10/2
-Fewest FG Attempts -- 78, Philadelphia at NY, 10/2
-Field Goal Pct. -- .385, New York vs. PHI, 10/2
-Lowest Field Goal Pct. -- .346, Philadelphia at NY, 10/2
-3-Pt. Field Goals -- 8, New York vs. PHI, 10/2
-3-Pt. FG Attempts -- 39, New York vs. PHI, 10/2
-3-Pt. FG Pct. -- .205, New York vs. PHI, 10/2
-Free Throws -- 27, Philadelphia at NY, 10/2
-Fewest Free Throws -- 21, New York vs. PHI, 10/2
-FT Attempts -- 32, New York vs. PHI, 10/2
-FT Attempts -- 32, Philadelphia at NY, 10/2
-Fewest FT Attempts -- 32, New York vs. PHI, 10/2
-Fewest FT Attempts -- 32, Philadelphia at NY, 10/2
+Fewest FG Attempts -- 74, L.A. Lakers vs. PHO, 10/3
+Field Goal Pct. -- .444, New Orleans vs. MEL, 10/3
+Lowest Field Goal Pct. -- .311, L.A. Lakers vs. PHO, 10/3
+3-Pt. Field Goals -- 13, Phoenix at LAL, 10/3
+3-Pt. FG Attempts -- 41, Phoenix at LAL, 10/3
+3-Pt. FG Pct. -- .317, Phoenix at LAL, 10/3
+Free Throws -- 29, L.A. Lakers vs. PHO, 10/3
+Fewest Free Throws -- 14, Phoenix at LAL, 10/3
+FT Attempts -- 37, L.A. Lakers vs. PHO, 10/3
+Fewest FT Attempts -- 24, New Orleans vs. MEL, 10/3
 Free Throw Pct. -- .844, Philadelphia at NY, 10/2
-Lowest Free Throw Pct. -- .656, New York vs. PHI, 10/2
+Lowest Free Throw Pct. -- .538, Phoenix at LAL, 10/3
 Off. Rebounds -- 20, New York vs. PHI, 10/2
 Fewest Off. Rebounds -- 10, Philadelphia at NY, 10/2
-Def. Rebounds -- 38, New York vs. PHI, 10/2
-Fewest Def. Rebounds -- 36, Philadelphia at NY, 10/2
+Fewest Off. Rebounds -- 10, Phoenix at LAL, 10/3
+Def. Rebounds -- 40, Phoenix at LAL, 10/3
+Fewest Def. Rebounds -- 33, New Orleans vs. MEL, 10/3
 Rebounds -- 58, New York vs. PHI, 10/2
-Fewest Rebounds -- 46, Philadelphia at NY, 10/2
-Assists -- 19, New York vs. PHI, 10/2
-Fewest Assists -- 17, Philadelphia at NY, 10/2
-Personal Fouls -- 26, New York vs. PHI, 10/2
-Fewest Personal Fouls -- 24, Philadelphia at NY, 10/2
+Fewest Rebounds -- 46, (3 times, most recently) L.A. Lakers vs. PHO, 10/3
+Assists -- 29, Phoenix at LAL, 10/3
+Fewest Assists -- 10, L.A. Lakers vs. PHO, 10/3
+Personal Fouls -- 31, Phoenix at LAL, 10/3
+Fewest Personal Fouls -- 22, New Orleans vs. MEL, 10/3
 Steals -- 13, New York vs. PHI, 10/2
-Turnovers -- 20, Philadelphia at NY, 10/2
-Fewest Turnovers -- 17, New York vs. PHI, 10/2
-Blocks -- 5, Philadelphia at NY, 10/2
-Points -- 99, New York vs. PHI, 10/2
-Fewest Points -- 84, Philadelphia at NY, 10/2
+Turnovers -- 22, L.A. Lakers vs. PHO, 10/3
+Fewest Turnovers -- 16, New Orleans vs. MEL, 10/3
+Fewest Turnovers -- 16, Phoenix at LAL, 10/3
+Blocks -- 8, New Orleans vs. MEL, 10/3
+Points -- 107, New Orleans vs. MEL, 10/3
+Fewest Points -- 81, L.A. Lakers vs. PHO, 10/3

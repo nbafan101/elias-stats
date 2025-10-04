@@ -1,49 +1,49 @@
 
-PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 2, 2025
+PRESEASON / INCLUDES GAMES OF FRIDAY, OCTOBER 3, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Edgecombe, Phi.        1    4   5   14 14.0     Robinson, N.Y.        1    5   11   16 16.0     Brunson, N.Y.          1    4  4.0
-Maxey, Phi.            1    5   4   14 14.0     Barlow, Phi.          1    1    9   10 10.0     Maxey, Phi.            1    4  4.0
-McBride, N.Y.          1    5   0   12 12.0     Edgecombe, Phi.       1    1    5    6  6.0     Edgecombe, Phi.        1    3  3.0
-Towns, N.Y.            1    2   7   11 11.0     Hukporti, N.Y.        1    1    5    6  6.0     Oubre Jr., Phi.        1    3  3.0
-Bridges, N.Y.          1    4   0   10 10.0     McBride, N.Y.         1    2    3    5  5.0     Barlow, Phi.           1    2  2.0
-Chandler, Phi.         1    4   1   10 10.0     McCullar Jr., N.Y.    1    4    1    5  5.0     Brogdon, N.Y.          1    2  2.0
-Clarkson, N.Y.         1    4   1    9  9.0     Towns, N.Y.           1    2    3    5  5.0     Chandler, Phi.         1    2  2.0
-Mathews, N.Y.          1    3   0    9  9.0     Walker, Phi.          1    0    5    5  5.0     Mathews, N.Y.          1    2  2.0
-Walker, Phi.           1    2   5    9  9.0     Broome, Phi.          1    2    2    4  4.0     McBride, N.Y.          1    2  2.0
-Oubre Jr., Phi.        1    2   3    8  8.0     Edwards, Phi.         1    2    2    4  4.0     Shamet, N.Y.           1    2  2.0
-Sallis, Phi.           1    2   4    8  8.0     Maxey, Phi.           1    0    4    4  4.0     Bona, Phi.             1    1  1.0
-Robinson, N.Y.         1    3   1    7  7.0     Oubre Jr., Phi.       1    1    3    4  4.0     Gordon, Phi.           1    1  1.0
-Barlow, Phi.           1    2   2    6  6.0     Yabusele, N.Y.        1    1    3    4  4.0     Hart, N.Y.             1    1  1.0
-Brunson, N.Y.          1    2   2    6  6.0     Diawara, N.Y.         1    1    2    3  3.0     Kolek, N.Y.            1    1  1.0
-Hukporti, N.Y.         1    3   0    6  6.0     Drummond, Phi.        1    1    2    3  3.0     McCullar Jr., N.Y.     1    1  1.0
-Kolek, N.Y.            1    3   0    6  6.0     Hart, N.Y.            1    0    3    3  3.0     Robinson, N.Y.         1    1  1.0
-Broome, Phi.           1    2   1    5  5.0     Sallis, Phi.          1    0    3    3  3.0     Ryan, N.Y.             1    1  1.0
-Len, N.Y.              1    1   3    5  5.0     4 tied                                  2.0     Sallis, Phi.           1    1  1.0
-3 tied                 1    2   0    4  4.0                                                     Towns, N.Y.            1    1  1.0
-                                                                                                Yabusele, N.Y.         1    1  1.0
+Booker, Pho.           1    8   6   24 24.0     Robinson, N.Y.        1    5   11   16 16.0     Booker, Pho.           1    7  7.0
+Reaves, LA-L           1    6   7   20 20.0     Barlow, Phi.          1    1    9   10 10.0     Brunson, N.Y.          1    4  4.0
+Davis, LA-L            1    5   3   14 14.0     Ighodaro, Pho.        1    1    8    9  9.0     Gillespie, Pho.        1    4  4.0
+Edgecombe, Phi.        1    4   5   14 14.0     Ayton, LA-L           1    2    6    8  8.0     Maxey, Phi.            1    4  4.0
+Maxey, Phi.            1    5   4   14 14.0     Dunn, Pho.            1    1    7    8  8.0     Brooks, Pho.           1    3  3.0
+Allen, Pho.            1    5   0   13 13.0     Edgecombe, Phi.       1    1    5    6  6.0     Dunn, Pho.             1    3  3.0
+Butler, Pho.           1    5   2   12 12.0     Hayes-Davis, Pho.     1    2    4    6  6.0     Edgecombe, Phi.        1    3  3.0
+McBride, N.Y.          1    5   0   12 12.0     Hukporti, N.Y.        1    1    5    6  6.0     Oubre Jr., Phi.        1    3  3.0
+Hachimura, LA-L        1    3   4   11 11.0     Knecht, LA-L          1    1    5    6  6.0     13 tied                        2.0
+Towns, N.Y.            1    2   7   11 11.0     Maluach, Pho.         1    1    5    6  6.0                                       
+Bridges, N.Y.          1    4   0   10 10.0     B. James, LA-L        1    2    3    5  5.0                                       
+Brooks, Pho.           1    3   1   10 10.0     Hayes, LA-L           1    2    3    5  5.0                                       
+Chandler, Phi.         1    4   1   10 10.0     Koloko, LA-L          1    1    4    5  5.0                                       
+Clarkson, N.Y.         1    4   1    9  9.0     LaRavia, LA-L         1    2    3    5  5.0                                       
+Mathews, N.Y.          1    3   0    9  9.0     McBride, N.Y.         1    2    3    5  5.0                                       
+O'Neale, Pho.          1    3   0    9  9.0     McCullar Jr., N.Y.    1    4    1    5  5.0                                       
+Richards, Pho.         1    4   1    9  9.0     Towns, N.Y.           1    2    3    5  5.0                                       
+Walker, Phi.           1    2   5    9  9.0     Walker, Phi.          1    0    5    5  5.0                                       
+4 tied                 1    2   3    8  8.0     5 tied                                  4.0                                       
+                                                                                                                                  
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-McBride, N.Y.            5    7  .714     Mathews, N.Y.            3   4  .750     Barlow, Phi.             2   2 1.000
-Chandler, Phi.           4    7  .571     Brogdon, N.Y.            1   2  .500     Edgecombe, Phi.          5   5 1.000
-Clarkson, N.Y.           4    9  .444     McBride, N.Y.            2   4  .500     Hart, N.Y.               2   2 1.000
-Maxey, Phi.              5   12  .417     Bridges, N.Y.            2   5  .400     Maxey, Phi.              4   4 1.000
-Bridges, N.Y.            4   10  .400     Chandler, Phi.           1   3  .333     Sallis, Phi.             4   4 1.000
-Edgecombe, Phi.          4   13  .308     Oubre Jr., Phi.          1   4  .250     Towns, N.Y.              7   8  .875
-                                          Edgecombe, Phi.          1   6  .167     Walker, Phi.             5   6  .833
-                                                                                   Len, N.Y.                3   4  .750
-                                                                                   Oubre Jr., Phi.          3   4  .750
-                                                                                   Dadiet, N.Y.             2   3  .667
+McBride, N.Y.            5    7  .714     Brooks, Pho.             3   4  .750     Barlow, Phi.             2   2 1.000
+Davis, LA-L              5    8  .625     Mathews, N.Y.            3   4  .750     Butler, Pho.             2   2 1.000
+Chandler, Phi.           4    7  .571     Allen, Pho.              3   6  .500     Davis, LA-L              3   3 1.000
+Richards, Pho.           4    7  .571     Brogdon, N.Y.            1   2  .500     Edgecombe, Phi.          5   5 1.000
+Reaves, LA-L             6   11  .545     Davis, LA-L              1   2  .500     Hart, N.Y.               2   2 1.000
+Butler, Pho.             5   10  .500     LaRavia, LA-L            1   2  .500     Maxey, Phi.              4   4 1.000
+Allen, Pho.              5   11  .455     McBride, N.Y.            2   4  .500     Reaves, LA-L             7   7 1.000
+Clarkson, N.Y.           4    9  .444     O'Neale, Pho.            3   6  .500     Sallis, Phi.             4   4 1.000
+Booker, Pho.             8   19  .421     Bridges, N.Y.            2   5  .400     Smith Jr., LA-L          2   2 1.000
+Maxey, Phi.              5   12  .417     Booker, Pho.             2   6  .333     Towns, N.Y.              7   8  .875
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-McBride, N.Y.              1    3 3.00     Oubre Jr., Phi.           1   2 2.00     Edgecombe, Phi.           1   31 30.5
-McCullar Jr., N.Y.         1    3 3.00     Bona, Phi.                1   1 1.00     Barlow, Phi.              1   30 29.9
-Bridges, N.Y.              1    2 2.00     Brogdon, N.Y.             1   1 1.00     Maxey, Phi.               1   23 23.0
-Broome, Phi.               1    2 2.00     Maxey, Phi.               1   1 1.00     Oubre Jr., Phi.           1   23 23.0
-Chandler, Phi.             1    2 2.00     Robinson, N.Y.            1   1 1.00     Sallis, Phi.              1   22 22.3
-Barlow, Phi.               1    1 1.00     Walker, Phi.              1   1 1.00     McBride, N.Y.             1   21 21.1
-Brogdon, N.Y.              1    1 1.00     26 tied                   1   0 0.00     Chandler, Phi.            1   21 20.6
-Hill, Phi.                 1    1 1.00                                              Walker, Phi.              1   20 20.3
-Kolek, N.Y.                1    1 1.00                                              Robinson, N.Y.            1   18 18.1
-Maxey, Phi.                1    1 1.00                                              Bridges, N.Y.             1   17 17.2
+McBride, N.Y.              1    3 3.00     Ayton, LA-L               1   2 2.00     Edgecombe, Phi.           1   31 30.5
+McCullar Jr., N.Y.         1    3 3.00     Hayes, LA-L               1   2 2.00     Barlow, Phi.              1   30 29.9
+Bridges, N.Y.              1    2 2.00     Oubre Jr., Phi.           1   2 2.00     Ighodaro, Pho.            1   26 26.3
+Broome, Phi.               1    2 2.00     Allen, Pho.               1   1 1.00     Knecht, LA-L              1   26 25.8
+Chandler, Phi.             1    2 2.00     Bona, Phi.                1   1 1.00     Booker, Pho.              1   25 25.1
+Goodwin, Pho.              1    2 2.00     Booker, Pho.              1   1 1.00     Brooks, Pho.              1   25 25.1
+Hachimura, LA-L            1    2 2.00     Brogdon, N.Y.             1   1 1.00     B. James, LA-L            1   24 23.9
+23 tied                    1    1 1.00     Butler, Pho.              1   1 1.00     Hachimura, LA-L           1   23 23.4
+                                           Gillespie, Pho.           1   1 1.00     Maxey, Phi.               1   23 23.0
+                                           Koloko, LA-L              1   1 1.00     Oubre Jr., Phi.           1   23 23.0
 
