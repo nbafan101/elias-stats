@@ -1,16 +1,20 @@
 
-PRESEASON / INCLUDES GAMES OF FRIDAY, OCTOBER 3, 2025
+PRESEASON / INCLUDES GAMES OF SATURDAY, OCTOBER 4, 2025
                                                                                                          DECIDED  DECIDED
                           POINTS       FIELD GOAL    TURNOVERS         REBOUND         BELOW   OVERTIME   3 PTS.  10 PTS.
                           PER GAME     PERCENTAGE     PER GAME       PERCENTAGES      100 PTS.   GAMES   OR LESS  OR MORE
 TEAM                    OWN    OPP.    OWN   OPP.    OWN   OPP.    OFF.  DEF.  TOT.   OWN OPP.    W  L     W  L     W  L
+Denver                116.0  126.0    .547* .511    16.0  11.0    .200  .698  .449      0   0     0  0     0  0     0  1
 L.A. Lakers            81.0  103.0    .311  .422    22.0  16.0    .216  .778  .497      1   0     0  0     0  0     0  1
-New Orleans           107.0*  97.0    .444* .396    16.0* 18.0    .271  .717  .494      0   1     0  0     0  0     1  0
-New York               99.0   84.0    .385  .346    17.0  20.0    .357* .792* .574*     1   1     0  0     0  0     1  0
-Philadelphia           84.0   99.0    .346  .385    20.0  17.0    .208  .643  .426      1   1     0  0     0  0     0  1
-Phoenix               103.0   81.0*   .422  .311*   16.0* 22.0*   .222  .784  .503      0   1     0  0     0  0     1  0
+Miami                 118.0  126.0    .447  .459    18.0  19.0    .250  .560  .405      0   0     0  0     0  0     0  0
+Minnesota             126.0* 116.0    .511  .547    11.0* 16.0    .302  .800* .551      0   0     0  0     0  0     1  0
+New Orleans           107.0   97.0    .444  .396    16.0  18.0    .271  .717  .494      0   1     0  0     0  0     1  0
+New York              106.0   94.0    .415  .395    15.5  20.0    .313  .787  .550      1   1     0  0     0  0     1  0
+Orlando               126.0* 118.0    .459  .447    19.0  18.0    .440* .750  .595*     0   0     0  0     0  0     0  0
+Philadelphia           94.0  106.0    .395  .415    20.0  15.5    .213  .687  .450      1   1     0  0     0  0     0  1
+Phoenix               103.0   81.0*   .422  .311*   16.0  22.0*   .222  .784  .503      0   1     0  0     0  0     1  0
 
-COMPOSITE; 5     games    94.8           .385          18.2       .260  .740            3   4        0        0        3
+COMPOSITE; 11    games   107.0           .434          17.2       .273  .727            3   4        0        0        4
 
 * - League Leader
 
