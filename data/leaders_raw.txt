@@ -1,49 +1,49 @@
 
-PRESEASON / INCLUDES GAMES OF SATURDAY, OCTOBER 4, 2025
+PRESEASON / INCLUDES GAMES OF SUNDAY, OCTOBER 5, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Booker, Pho.           1    8   6   24 24.0     Ighodaro, Pho.        1    1    8    9  9.0     Booker, Pho.           1    7  7.0
-Reaves, LA-L           1    6   7   20 20.0     Ayton, LA-L           1    2    6    8  8.0     Gillespie, Pho.        1    4  4.0
-Davis, LA-L            1    5   3   14 14.0     Dunn, Pho.            1    1    7    8  8.0     Brooks, Pho.           1    3  3.0
-Allen, Pho.            1    5   0   13 13.0     Hayes-Davis, Pho.     1    2    4    6  6.0     Dunn, Pho.             1    3  3.0
-Butler, Pho.           1    5   2   12 12.0     Knecht, LA-L          1    1    5    6  6.0     Allen, Pho.            1    2  2.0
-Hachimura, LA-L        1    3   4   11 11.0     Maluach, Pho.         1    1    5    6  6.0     B. James, LA-L         1    2  2.0
-Brooks, Pho.           1    3   1   10 10.0     B. James, LA-L        1    2    3    5  5.0     Duke Jr., Pho.         1    2  2.0
-O'Neale, Pho.          1    3   0    9  9.0     Hayes, LA-L           1    2    3    5  5.0     Ighodaro, Pho.         1    2  2.0
-Richards, Pho.         1    4   1    9  9.0     Koloko, LA-L          1    1    4    5  5.0     O'Neale, Pho.          1    2  2.0
-B. James, LA-L         1    1   5    8  8.0     LaRavia, LA-L         1    2    3    5  5.0     Reaves, LA-L           1    2  2.0
-Gillespie, Pho.        1    3   1    8  8.0     Duke Jr., Pho.        1    0    3    3  3.0     Watson, LA-L           1    2  2.0
-Hayes, LA-L            1    1   5    7  7.0     Gillespie, Pho.       1    0    3    3  3.0     Ayton, LA-L            1    1  1.0
-LaRavia, LA-L          1    3   0    7  7.0     Hachimura, LA-L       1    0    3    3  3.0     Butler, Pho.           1    1  1.0
-Knecht, LA-L           1    2   1    6  6.0     O'Neale, Pho.         1    1    2    3  3.0     Goodwin, Pho.          1    1  1.0
-Smith Jr., LA-L        1    2   2    6  6.0     Reaves, LA-L          1    0    3    3  3.0     Hayes, LA-L            1    1  1.0
-Ighodaro, Pho.         1    2   1    5  5.0     Richards, Pho.        1    1    2    3  3.0     Hayes-Davis, Pho.      1    1  1.0
-Dunn, Pho.             1    2   0    4  4.0     6 tied                                  2.0     LaRavia, LA-L          1    1  1.0
-Maluach, Pho.          1    1   2    4  4.0                                                     Richards, Pho.         1    1  1.0
-Hayes-Davis, Pho.      1    1   0    3  3.0                                                     Smith Jr., LA-L        1    1  1.0
-Fleming, Pho.          1    1   0    2  2.0                                                     8 tied                         0.0
+Booker, Pho.           1    8   6   24 24.0     Robinson, N.Y.        2    8   16   24 12.0     Dillingham, Min.       1    9  9.0
+Wiggins, OKC.          1   10   1   23 23.0     Leons, OKC.           1    3    8   11 11.0     Booker, Pho.           1    7  7.0
+Youngblood, OKC.       1    7   1   20 20.0     Ighodaro, Pho.        1    1    8    9  9.0     Topic, OKC.            1    7  7.0
+Moody, G.S.            1    7   0   19 19.0     Ware, Mia.            1    3    6    9  9.0     DiVincenzo, Min.       1    6  6.0
+Hyland, Min.           1    5   5   18 18.0     Bitadze, Orl.         1    3    5    8  8.0     Dieng, OKC.            1    6  6.0
+Knueppel, Cha.         1    6   2   18 18.0     Bridges, Cha.         1    3    5    8  8.0     Thompson, Mia.         1    6  6.0
+Dieng, OKC.            1    7   0   17 17.0     Dieng, OKC.           1    1    7    8  8.0     Wiggins, OKC.          1    6  6.0
+Jay. Williams, OKC.    1    6   0   17 17.0     Dunn, Pho.            1    1    7    8  8.0     Green, G.S.            1    5  5.0
+Juzang, Min.           1    6   1   16 16.0     Zikarsky, Min.        1    5    3    8  8.0     Mann, Cha.             1    5  5.0
+Gortman, OKC.          1    7   0   15 15.0     Ayton, LA-L           2    3   12   15  7.5     Murray, Den.           1    5  5.0
+Maxey, Phi.            2    9   9   30 15.0     Drummond, Phi.        2    3   11   14  7.0     12 tied                        4.0
+Beringer, Min.         1    6   2   14 14.0     Kalkbrenner, Cha.     1    3    4    7  7.0                                       
+Gordon, Den.           1    4   5   14 14.0     11 tied                                 6.0                                       
+Jokic, Den.            1    4   6   14 14.0                                                                                       
+St. Curry, G.S.        1    5   1   14 14.0                                                                                       
+Allen, Pho.            1    5   0   13 13.0                                                                                       
+Pickett, Den.          1    5   0   13 13.0                                                                                       
+Richardson, Orl.       1    5   0   13 13.0                                                                                       
+Chandler, Phi.         2    9   6   25 12.5                                                                                       
+Davis, LA-L            2    6  11   25 12.5                                                                                       
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Davis, LA-L              5    8  .625     Brooks, Pho.             3   4  .750     Butler, Pho.             2   2 1.000
-Richards, Pho.           4    7  .571     Mathews, N.Y.            3   4  .750     Davis, LA-L              3   3 1.000
-Reaves, LA-L             6   11  .545     Allen, Pho.              3   6  .500     Edgecombe, Phi.          5   5 1.000
-Butler, Pho.             5   10  .500     Davis, LA-L              1   2  .500     Maxey, Phi.              4   4 1.000
-Allen, Pho.              5   11  .455     LaRavia, LA-L            1   2  .500     Reaves, LA-L             7   7 1.000
-Booker, Pho.             8   19  .421     McBride, N.Y.            2   4  .500     Sallis, Phi.             4   4 1.000
-                                          O'Neale, Pho.            3   6  .500     Smith Jr., LA-L          2   2 1.000
-                                          Bridges, N.Y.            2   5  .400     Towns, N.Y.              7   8  .875
-                                          Booker, Pho.             2   6  .333     B. James, LA-L           5   6  .833
-                                          Hachimura, LA-L          1   4  .250     Hayes, LA-L              5   6  .833
+Beekman, Orl.            4    4 1.000     Braun, Den.              1   1 1.000     33 tied                        1.000
+Gordon, Den.             4    4 1.000     Freeman, Min.            2   2 1.000                                         
+Keels, Mia.              4    4 1.000     Gordon, Den.             1   1 1.000                                         
+Watson, Den.             5    5 1.000     Keels, Mia.              2   2 1.000                                         
+Jokic, Den.              4    5  .800     McDaniels, Min.          1   1 1.000                                         
+M. Brown, Den.           4    5  .800     Payton II, G.S.          1   1 1.000                                         
+Moody, G.S.              7    9  .778     Reid, Min.               2   2 1.000                                         
+Beringer, Min.           6    8  .750     Richardson, Orl.         3   3 1.000                                         
+St. Curry, G.S.          5    7  .714     Smith, Mia.              1   1 1.000                                         
+Wiggins, OKC.           10   14  .714     Strawther, Den.          1   1 1.000                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Goodwin, Pho.              1    2 2.00     Ayton, LA-L               1   2 2.00     Ighodaro, Pho.            1   26 26.3
-Hachimura, LA-L            1    2 2.00     Hayes, LA-L               1   2 2.00     Knecht, LA-L              1   26 25.8
-Allen, Pho.                1    1 1.00     Allen, Pho.               1   1 1.00     Booker, Pho.              1   25 25.1
-Ayton, LA-L                1    1 1.00     Booker, Pho.              1   1 1.00     Brooks, Pho.              1   25 25.1
-Brooks, Pho.               1    1 1.00     Butler, Pho.              1   1 1.00     B. James, LA-L            1   24 23.9
-Butler, Pho.               1    1 1.00     Gillespie, Pho.           1   1 1.00     Hachimura, LA-L           1   23 23.4
-Davis, LA-L                1    1 1.00     Koloko, LA-L              1   1 1.00     Allen, Pho.               1   22 22.1
-Dunn, Pho.                 1    1 1.00     Maluach, Pho.             1   1 1.00     Dunn, Pho.                1   22 21.8
-Hayes, LA-L                1    1 1.00     Vanderbilt, LA-L          1   1 1.00     Vanderbilt, LA-L          1   21 20.9
-Ighodaro, Pho.             1    1 1.00     Williams, LA-L            1   1 1.00     Reaves, LA-L              1   21 20.8
+Barnhizer, OKC.            1    4 4.00     Banchero, Orl.            1   3 3.00     Dieng, OKC.               1   33 33.2
+Black, Orl.                1    3 3.00     Horford, G.S.             1   3 3.00     Topic, OKC.               1   31 31.4
+Hield, G.S.                1    3 3.00     Ayton, LA-L               2   4 2.00     Knecht, LA-L              2   60 29.9
+Leons, OKC.                1    3 3.00     Bitadze, Orl.             1   2 2.00     Barlow, Phi.              2   59 29.7
+McCullar Jr., N.Y.         2    5 2.50     Carter Jr., Orl.          1   2 2.00     Edgecombe, Phi.           2   54 27.2
+B. Brown, Den.             1    2 2.00     Richard, G.S.             1   2 2.00     Thompson, Mia.            1   27 26.9
+Diabate, Cha.              1    2 2.00     Smith, Mia.               1   2 2.00     Chandler, Phi.            2   53 26.5
+Gobert, Min.               1    2 2.00     Oubre Jr., Phi.           2   3 1.50     Ighodaro, Pho.            1   26 26.3
+Goodwin, Pho.              1    2 2.00     29 tied                   1   1 1.00     Barnhizer, OKC.           1   25 25.4
+Howard, Orl.               1    2 2.00                                              Kalkbrenner, Cha.         1   25 25.2
 

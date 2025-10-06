@@ -1,42 +1,40 @@
 
-INCLUDES GAMES OF SATURDAY, OCTOBER 4, 2025
+INCLUDES GAMES OF SUNDAY, OCTOBER 5, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
-Minutes -- 33, Chandler, PHI vs. NY, 10/4
-Field Goals -- 8, Booker, PHO at LAL, 10/3
+Minutes -- 34, Knecht, LAL at GS, 10/5
+Field Goals -- 10, Wiggins, OKC at CHA, 10/5
 FG Attempts -- 19, Booker, PHO at LAL, 10/3
-3-Pt. Field Goals -- 3, (13 times, most recently) Hyland, MIN at DEN, 10/4
-3-Pt. FG Attempts -- 8, B. James, LAL vs. PHO, 10/3
-Free Throws -- 7, (4 times, most recently) Shannon Jr., MIN at DEN, 10/4
-FT Attempts -- 8, (4 times, most recently) Shannon Jr., MIN at DEN, 10/4
+3-Pt. Field Goals -- 5, (3 times, most recently) Moody, GS vs. LAL, 10/5
+3-Pt. FG Attempts -- 10, Knueppel, CHA vs. OKC, 10/5
+Free Throws -- 8, Davis, LAL at GS, 10/5
+FT Attempts -- 8, (5 times, most recently) Davis, LAL at GS, 10/5
 Off. Rebounds -- 5, Robinson, NY vs. PHI, 10/2
 Off. Rebounds -- 5, Zikarsky, MIN at DEN, 10/4
 Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
 Assists -- 9, Dillingham, MIN at DEN, 10/4
-Steals -- 3, (5 times, most recently) Black, ORL at MIA, 10/4
-Turnovers -- 5, (4 times, most recently) Chandler, PHI vs. NY, 10/4
-Blocks -- 3, Missi, NO vs. MEL, 10/3
-Blocks -- 3, Banchero, ORL at MIA, 10/4
+Steals -- 4, Barnhizer, OKC at CHA, 10/5
+Turnovers -- 5, (5 times, most recently) B. James, LAL at GS, 10/5
+Blocks -- 3, (3 times, most recently) Horford, GS vs. LAL, 10/5
 Points -- 24, Booker, PHO at LAL, 10/3
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
-Field Goals -- 45, Orlando at MIA, 10/4
-Field Goals -- 45, Minnesota at DEN, 10/4
+Field Goals -- 50, Oklahoma City at CHA, 10/5
 Fewest Field Goals -- 23, L.A. Lakers vs. PHO, 10/3
 FG Attempts -- 98, Orlando at MIA, 10/4
 Fewest FG Attempts -- 74, L.A. Lakers vs. PHO, 10/3
 Field Goal Pct. -- .547, Denver vs. MIN, 10/4
 Lowest Field Goal Pct. -- .311, L.A. Lakers vs. PHO, 10/3
-3-Pt. Field Goals -- 15, Minnesota at DEN, 10/4
-3-Pt. FG Attempts -- 41, Phoenix at LAL, 10/3
+3-Pt. Field Goals -- 20, Oklahoma City at CHA, 10/5
+3-Pt. FG Attempts -- 51, Charlotte vs. OKC, 10/5
 3-Pt. FG Pct. -- .500, Minnesota at DEN, 10/4
 Free Throws -- 29, L.A. Lakers vs. PHO, 10/3
 Fewest Free Throws -- 14, Phoenix at LAL, 10/3
 FT Attempts -- 38, Miami vs. ORL, 10/4
-Fewest FT Attempts -- 24, New Orleans vs. MEL, 10/3
+Fewest FT Attempts -- 19, Oklahoma City at CHA, 10/5
 Free Throw Pct. -- .844, Philadelphia at NY, 10/2
 Lowest Free Throw Pct. -- .538, Phoenix at LAL, 10/3
 Off. Rebounds -- 22, Orlando at MIA, 10/4
@@ -47,15 +45,13 @@ Fewest Def. Rebounds -- 28, Minnesota at DEN, 10/4
 Rebounds -- 58, New York vs. PHI, 10/2
 Rebounds -- 58, Orlando at MIA, 10/4
 Fewest Rebounds -- 37, Denver vs. MIN, 10/4
-Assists -- 32, Minnesota at DEN, 10/4
+Assists -- 35, Golden State vs. LAL, 10/5
 Fewest Assists -- 10, L.A. Lakers vs. PHO, 10/3
 Personal Fouls -- 31, Phoenix at LAL, 10/3
-Fewest Personal Fouls -- 22, New Orleans vs. MEL, 10/3
-Fewest Personal Fouls -- 22, Denver vs. MIN, 10/4
+Fewest Personal Fouls -- 14, Charlotte vs. OKC, 10/5
 Steals -- 13, New York vs. PHI, 10/2
 Turnovers -- 22, L.A. Lakers vs. PHO, 10/3
 Fewest Turnovers -- 11, Minnesota at DEN, 10/4
 Blocks -- 9, Orlando at MIA, 10/4
-Points -- 126, Orlando at MIA, 10/4
-Points -- 126, Minnesota at DEN, 10/4
+Points -- 135, Oklahoma City at CHA, 10/5
 Fewest Points -- 81, L.A. Lakers vs. PHO, 10/3
