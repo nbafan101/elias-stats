@@ -1,98 +1,98 @@
 
-ROOKIE LEADERS / PRESEASON / INCLUDES GAMES OF MONDAY, OCTOBER 6, 2025
+ROOKIE LEADERS / PRESEASON / INCLUDES GAMES OF TUESDAY, OCTOBER 7, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Knueppel, Cha.         1    6   2   18 18.0     Zikarsky, Min.        1    5    3    8  8.0     Topic, OKC.            1    7  7.0
-Beringer, Min.         1    6   2   14 14.0     Kalkbrenner, Cha.     1    3    4    7  7.0     Edgecombe, Phi.        2    8  4.0
-Richardson, Orl.       1    5   0   13 13.0     Flagg, Dal.           1    0    6    6  6.0     Thompson, Mia.         2    7  3.5
-Youngblood, OKC.       2    9   1   26 13.0     Maluach, Pho.         1    1    5    6  6.0     Flagg, Dal.            1    3  3.0
-Davis, LA-L            2    6  11   25 12.5     Morales, Orl.         1    3    3    6  6.0     Kelly, Dal.            1    3  3.0
-Edgecombe, Phi.        2    7   8   24 12.0     Gardner, Mia.         2    3    8   11  5.5     Morales, Orl.          1    3  3.0
-Barnhizer, OKC.        2    5  11   22 11.0     Barnhizer, OKC.       2    3    7   10  5.0     C. Jones, Den.         2    5  2.5
-Kalkbrenner, Cha.      1    4   3   11 11.0     Cisse, Dal.           1    1    4    5  5.0     Cleveland, Dal.        1    2  2.0
-Lanier, Det.           1    4   0   11 11.0     Coward, Mem.          1    0    5    5  5.0     Knueppel, Cha.         1    2  2.0
-Flagg, Dal.            1    3   2   10 10.0     Beringer, Min.        1    3    1    4  4.0     McNeeley, Cha.         1    2  2.0
-Topic, OKC.            1    4   2   10 10.0     Broome, Phi.          2    2    6    8  4.0     Nembhard, Dal.         1    2  2.0
-Gardner, Mia.          2    6   4   18  9.0     Cleveland, Dal.       1    1    3    4  4.0     Richardson, Orl.       1    2  2.0
-Morales, Orl.          1    3   2    9  9.0     Edgecombe, Phi.       2    1    7    8  4.0     Barnhizer, OKC.        2    3  1.5
-Zikarsky, Min.         1    3   3    9  9.0     Kelly, Dal.           1    0    4    4  4.0     Coward, Mem.           1    1  1.0
-Djurisic, Atl.         1    2   3    8  8.0     Martin, Tor.          1    3    1    4  4.0     Cryer, G.S.            1    1  1.0
-Sallis, Phi.           1    2   4    8  8.0     Richardson, Orl.      1    3    1    4  4.0     Djurisic, Atl.         1    1  1.0
-Austin, OKC.           2    4   4   15  7.5     Topic, OKC.           1    2    2    4  4.0     Holmes II, Den.        2    2  1.0
-Cleveland, Dal.        1    2   2    7  7.0     James, Cha.           1    0    3    3  3.0     Murray-Boyles, Tor.    1    1  1.0
-McNeeley, Cha.         1    1   5    7  7.0     Lanier, Det.          1    1    2    3  3.0     Newell, Atl.           1    1  1.0
-Ryan, Mil.             1    1   4    7  7.0     Murray-Boyles, Tor.   1    2    1    3  3.0     Richard, G.S.          1    1  1.0
+Knueppel, Cha.         1    6   2   18 18.0     Kalkbrenner, Cha.     1    3    4    7  7.0     Topic, OKC.            1    7  7.0
+Bryant, S.A.           1    6   2   15 15.0     Flagg, Dal.           1    0    6    6  6.0     Jones Garcia, S.A.     1    5  5.0
+Proctor, Cle.          1    5   1   14 14.0     Maluach, Pho.         1    1    5    6  6.0     Edgecombe, Phi.        2    8  4.0
+Richardson, Orl.       1    5   0   13 13.0     McGlothan, Ind.       1    3    3    6  6.0     Thompson, Mia.         2    7  3.5
+Youngblood, OKC.       2    9   1   26 13.0     Morales, Orl.         1    3    3    6  6.0     Fears, N.O.            2    6  3.0
+Davis, LA-L            2    6  11   25 12.5     Gardner, Mia.         2    3    8   11  5.5     Flagg, Dal.            1    3  3.0
+Edgecombe, Phi.        2    7   8   24 12.0     Barnhizer, OKC.       2    3    7   10  5.0     Kelly, Dal.            1    3  3.0
+Barnhizer, OKC.        2    5  11   22 11.0     Cisse, Dal.           1    1    4    5  5.0     Morales, Orl.          1    3  3.0
+Kalkbrenner, Cha.      1    4   3   11 11.0     Coward, Mem.          1    0    5    5  5.0     C. Jones, Den.         2    5  2.5
+Lanier, Det.           1    4   0   11 11.0     Essengue, Chi.        1    3    2    5  5.0     Cleveland, Dal.        1    2  2.0
+Flagg, Dal.            1    3   2   10 10.0     Peter, Ind.           1    1    4    5  5.0     Knueppel, Cha.         1    2  2.0
+Peter, Ind.            1    4   0   10 10.0     Zikarsky, Min.        2    5    4    9  4.5     McNeeley, Cha.         1    2  2.0
+Topic, OKC.            1    4   2   10 10.0     Beringer, Min.        2    5    3    8  4.0     Nembhard, Dal.         1    2  2.0
+Fears, N.O.            2    8   2   19  9.5     Broome, Phi.          2    2    6    8  4.0     Peter, Ind.            1    2  2.0
+Beringer, Min.         2    7   4   18  9.0     Cleveland, Dal.       1    1    3    4  4.0     Proctor, Cle.          1    2  2.0
+Gardner, Mia.          2    6   4   18  9.0     Edgecombe, Phi.       2    1    7    8  4.0     Richardson, Orl.       1    2  2.0
+Morales, Orl.          1    3   2    9  9.0     Jones Garcia, S.A.    1    1    3    4  4.0     Barnhizer, OKC.        2    3  1.5
+Djurisic, Atl.         1    2   3    8  8.0     Kelly, Dal.           1    0    4    4  4.0     Brooks, N.O.           1    1  1.0
+Essengue, Chi.         1    2   3    8  8.0     Martin, Tor.          1    3    1    4  4.0     Bryant, S.A.           1    1  1.0
+Sallis, Phi.           1    2   4    8  8.0     Richardson, Orl.      1    3    1    4  4.0     Coward, Mem.           1    1  1.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
 Cisse, Dal.              2    2 1.000     Djurisic, Atl.           1   1 1.000     Austin, OKC.             4   4 1.000
 Djurisic, Atl.           2    2 1.000     Nembhard, Dal.           1   1 1.000     Bates, Den.              2   2 1.000
-Beringer, Min.           6    8  .750     Richardson, Orl.         3   3 1.000     Cleveland, Dal.          2   2 1.000
-Kalkbrenner, Cha.        4    6  .667     Holmes II, Den.          3   4  .750     Davis, LA-L             11  11 1.000
-Lanier, Det.             4    6  .667     Flagg, Dal.              2   3  .667     Djurisic, Atl.           3   3 1.000
-Davis, LA-L              6   10  .600     Lanier, Det.             3   5  .600     Edgecombe, Phi.          8   8 1.000
-Broome, Phi.             5   10  .500     Cleveland, Dal.          1   2  .500     Flagg, Dal.              2   2 1.000
-Flagg, Dal.              3    6  .500     Davis, LA-L              2   4  .500     Holmes II, Den.          2   2 1.000
-Nembhard, Dal.           2    4  .500     Newell, Atl.             1   2  .500     James, Cha.              2   2 1.000
-Knueppel, Cha.           6   13  .462     Ryan, Mil.               1   2  .500     Kelly, Dal.              2   2 1.000
+Shumate, N.O.            4    4 1.000     Richardson, Orl.         3   3 1.000     Cleveland, Dal.          2   2 1.000
+Proctor, Cle.            5    6  .833     Holmes II, Den.          3   4  .750     Davis, LA-L             11  11 1.000
+Dickinson, N.O.          2    3  .667     Proctor, Cle.            3   4  .750     Djurisic, Atl.           3   3 1.000
+Kalkbrenner, Cha.        4    6  .667     Flagg, Dal.              2   3  .667     Edgecombe, Phi.          8   8 1.000
+Lanier, Det.             4    6  .667     Lanier, Det.             3   5  .600     Flagg, Dal.              2   2 1.000
+Beringer, Min.           7   11  .636     Cleveland, Dal.          1   2  .500     Holmes II, Den.          2   2 1.000
+Davis, LA-L              6   10  .600     Davis, LA-L              2   4  .500     James, Cha.              2   2 1.000
+Bryant, S.A.             6   11  .545     Essengue, Chi.           1   2  .500     Kelly, Dal.              2   2 1.000
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Hepburn, Tor.              1    4 4.00     Cisse, Dal.               1   3 3.00     Topic, OKC.               1   31 31.4
-Barnhizer, OKC.            2    5 2.50     Nembhard, Dal.            1   2 2.00     Barnhizer, OKC.           2   63 31.3
-Kalkbrenner, Cha.          1    2 2.00     Richard, G.S.             1   2 2.00     Edgecombe, Phi.           2   54 27.2
-Ryan, Mil.                 1    2 2.00     Beringer, Min.            1   1 1.00     Kalkbrenner, Cha.         1   25 25.2
-Youngblood, OKC.           2    3 1.50     Flagg, Dal.               1   1 1.00     Richardson, Orl.          1   24 24.3
-Austin, OKC.               2    2 1.00     Fleming, Pho.             1   1 1.00     Youngblood, OKC.          2   47 23.7
-Bates, Den.                2    2 1.00     Kalkbrenner, Cha.         1   1 1.00     Knueppel, Cha.            1   23 23.4
-Broome, Phi.               2    2 1.00     Lanier, Det.              1   1 1.00     Beringer, Min.            1   23 22.6
-Coward, Mem.               1    1 1.00     Matthews, Hou.            1   1 1.00     Sallis, Phi.              1   22 22.3
-Gardner, Mia.              2    2 1.00     Newell, Atl.              1   1 1.00     Gardner, Mia.             2   37 18.4
+Barnhizer, OKC.            2    5 2.50     Jones Garcia, S.A.        1   2 2.00     Barnhizer, OKC.           2   63 31.3
+Bryant, S.A.               1    2 2.00     Nembhard, Dal.            1   2 2.00     Peter, Ind.               1   28 27.7
+Jones Garcia, S.A.         1    2 2.00     Richard, G.S.             1   2 2.00     Edgecombe, Phi.           2   54 27.2
+Kalkbrenner, Cha.          1    2 2.00     Beringer, Min.            2   2 1.00     Kalkbrenner, Cha.         1   25 25.2
+Peter, Ind.                1    2 2.00     Flagg, Dal.               1   1 1.00     Richardson, Orl.          1   24 24.3
+Ryan, Mil.                 1    2 2.00     Fleming, Pho.             1   1 1.00     Youngblood, OKC.          2   47 23.7
+Peavy, N.O.                2    3 1.50     Kalkbrenner, Cha.         1   1 1.00     Knueppel, Cha.            1   23 23.4
+Youngblood, OKC.           2    3 1.50     Lanier, Det.              1   1 1.00     Bryant, S.A.              1   23 23.2
+Austin, OKC.               2    2 1.00     Matthews, Hou.            1   1 1.00     Fears, N.O.               2   46 23.1
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PRESEASON / INCLUDES GAMES OF MONDAY, OCTOBER 6, 2025
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PRESEASON / INCLUDES GAMES OF TUESDAY, OCTOBER 7, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Knueppel, Cha.         1    6   2   18 18.0     Zikarsky, Min.        1    5    3    8  8.0     Edgecombe, Phi.        2    8  4.0
-Beringer, Min.         1    6   2   14 14.0     Kalkbrenner, Cha.     1    3    4    7  7.0     Thompson, Mia.         2    7  3.5
-Richardson, Orl.       1    5   0   13 13.0     Flagg, Dal.           1    0    6    6  6.0     Flagg, Dal.            1    3  3.0
-Youngblood, OKC.       2    9   1   26 13.0     Maluach, Pho.         1    1    5    6  6.0     Kelly, Dal.            1    3  3.0
-Davis, LA-L            2    6  11   25 12.5     Morales, Orl.         1    3    3    6  6.0     Morales, Orl.          1    3  3.0
-Edgecombe, Phi.        2    7   8   24 12.0     Gardner, Mia.         2    3    8   11  5.5     C. Jones, Den.         2    5  2.5
-Barnhizer, OKC.        2    5  11   22 11.0     Barnhizer, OKC.       2    3    7   10  5.0     Cleveland, Dal.        1    2  2.0
-Kalkbrenner, Cha.      1    4   3   11 11.0     Cisse, Dal.           1    1    4    5  5.0     Knueppel, Cha.         1    2  2.0
-Lanier, Det.           1    4   0   11 11.0     Coward, Mem.          1    0    5    5  5.0     McNeeley, Cha.         1    2  2.0
-Flagg, Dal.            1    3   2   10 10.0     Beringer, Min.        1    3    1    4  4.0     Nembhard, Dal.         1    2  2.0
-Gardner, Mia.          2    6   4   18  9.0     Broome, Phi.          2    2    6    8  4.0     Richardson, Orl.       1    2  2.0
-Morales, Orl.          1    3   2    9  9.0     Cleveland, Dal.       1    1    3    4  4.0     Barnhizer, OKC.        2    3  1.5
-Zikarsky, Min.         1    3   3    9  9.0     Edgecombe, Phi.       2    1    7    8  4.0     Coward, Mem.           1    1  1.0
-Djurisic, Atl.         1    2   3    8  8.0     Kelly, Dal.           1    0    4    4  4.0     Cryer, G.S.            1    1  1.0
-Austin, OKC.           2    4   4   15  7.5     Martin, Tor.          1    3    1    4  4.0     Djurisic, Atl.         1    1  1.0
-Cleveland, Dal.        1    2   2    7  7.0     Richardson, Orl.      1    3    1    4  4.0     Holmes II, Den.        2    2  1.0
-McNeeley, Cha.         1    1   5    7  7.0     James, Cha.           1    0    3    3  3.0     Murray-Boyles, Tor.    1    1  1.0
-Ryan, Mil.             1    1   4    7  7.0     Lanier, Det.          1    1    2    3  3.0     Newell, Atl.           1    1  1.0
-Penda, Orl.            1    2   2    6  6.0     Murray-Boyles, Tor.   1    2    1    3  3.0     Richard, G.S.          1    1  1.0
-Broome, Phi.           2    5   1   11  5.5     Newell, Atl.          1    2    1    3  3.0     Sears, Mil.            1    1  1.0
+Knueppel, Cha.         1    6   2   18 18.0     Kalkbrenner, Cha.     1    3    4    7  7.0     Jones Garcia, S.A.     1    5  5.0
+Bryant, S.A.           1    6   2   15 15.0     Flagg, Dal.           1    0    6    6  6.0     Edgecombe, Phi.        2    8  4.0
+Proctor, Cle.          1    5   1   14 14.0     Maluach, Pho.         1    1    5    6  6.0     Thompson, Mia.         2    7  3.5
+Richardson, Orl.       1    5   0   13 13.0     McGlothan, Ind.       1    3    3    6  6.0     Fears, N.O.            2    6  3.0
+Youngblood, OKC.       2    9   1   26 13.0     Morales, Orl.         1    3    3    6  6.0     Flagg, Dal.            1    3  3.0
+Davis, LA-L            2    6  11   25 12.5     Gardner, Mia.         2    3    8   11  5.5     Kelly, Dal.            1    3  3.0
+Edgecombe, Phi.        2    7   8   24 12.0     Barnhizer, OKC.       2    3    7   10  5.0     Morales, Orl.          1    3  3.0
+Barnhizer, OKC.        2    5  11   22 11.0     Cisse, Dal.           1    1    4    5  5.0     C. Jones, Den.         2    5  2.5
+Kalkbrenner, Cha.      1    4   3   11 11.0     Coward, Mem.          1    0    5    5  5.0     Cleveland, Dal.        1    2  2.0
+Lanier, Det.           1    4   0   11 11.0     Essengue, Chi.        1    3    2    5  5.0     Knueppel, Cha.         1    2  2.0
+Flagg, Dal.            1    3   2   10 10.0     Peter, Ind.           1    1    4    5  5.0     McNeeley, Cha.         1    2  2.0
+Peter, Ind.            1    4   0   10 10.0     Zikarsky, Min.        2    5    4    9  4.5     Nembhard, Dal.         1    2  2.0
+Fears, N.O.            2    8   2   19  9.5     Beringer, Min.        2    5    3    8  4.0     Peter, Ind.            1    2  2.0
+Beringer, Min.         2    7   4   18  9.0     Broome, Phi.          2    2    6    8  4.0     Proctor, Cle.          1    2  2.0
+Gardner, Mia.          2    6   4   18  9.0     Cleveland, Dal.       1    1    3    4  4.0     Richardson, Orl.       1    2  2.0
+Morales, Orl.          1    3   2    9  9.0     Edgecombe, Phi.       2    1    7    8  4.0     Barnhizer, OKC.        2    3  1.5
+Djurisic, Atl.         1    2   3    8  8.0     Jones Garcia, S.A.    1    1    3    4  4.0     Brooks, N.O.           1    1  1.0
+Essengue, Chi.         1    2   3    8  8.0     Kelly, Dal.           1    0    4    4  4.0     Bryant, S.A.           1    1  1.0
+Austin, OKC.           2    4   4   15  7.5     Martin, Tor.          1    3    1    4  4.0     Coward, Mem.           1    1  1.0
+Peavy, N.O.            2    6   0   15  7.5     Richardson, Orl.      1    3    1    4  4.0     Cryer, G.S.            1    1  1.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Beringer, Min.           6    8  .750     Djurisic, Atl.           1   1 1.000     Austin, OKC.             4   4 1.000
-Kalkbrenner, Cha.        4    6  .667     Nembhard, Dal.           1   1 1.000     Cleveland, Dal.          2   2 1.000
-Lanier, Det.             4    6  .667     Richardson, Orl.         3   3 1.000     Davis, LA-L             11  11 1.000
-Knueppel, Cha.           6   13  .462     Holmes II, Den.          3   4  .750     Djurisic, Atl.           3   3 1.000
-Richardson, Orl.         5   11  .455     Flagg, Dal.              2   3  .667     Edgecombe, Phi.          8   8 1.000
-Youngblood, OKC.         9   21  .429     Lanier, Det.             3   5  .600     Flagg, Dal.              2   2 1.000
-                                          Cleveland, Dal.          1   2  .500     James, Cha.              2   2 1.000
-                                          Davis, LA-L              2   4  .500     Kelly, Dal.              2   2 1.000
-                                          Newell, Atl.             1   2  .500     Knueppel, Cha.           2   2 1.000
-                                          Ryan, Mil.               1   2  .500     McNeeley, Cha.           5   5 1.000
+Shumate, N.O.            4    4 1.000     Djurisic, Atl.           1   1 1.000     Austin, OKC.             4   4 1.000
+Proctor, Cle.            5    6  .833     Nembhard, Dal.           1   1 1.000     Cleveland, Dal.          2   2 1.000
+Kalkbrenner, Cha.        4    6  .667     Richardson, Orl.         3   3 1.000     Davis, LA-L             11  11 1.000
+Lanier, Det.             4    6  .667     Holmes II, Den.          3   4  .750     Djurisic, Atl.           3   3 1.000
+Bryant, S.A.             6   11  .545     Proctor, Cle.            3   4  .750     Edgecombe, Phi.          8   8 1.000
+Peavy, N.O.              6   12  .500     Flagg, Dal.              2   3  .667     Flagg, Dal.              2   2 1.000
+Peter, Ind.              4    8  .500     Lanier, Det.             3   5  .600     James, Cha.              2   2 1.000
+Knueppel, Cha.           6   13  .462     Cleveland, Dal.          1   2  .500     Kelly, Dal.              2   2 1.000
+Richardson, Orl.         5   11  .455     Davis, LA-L              2   4  .500     Knueppel, Cha.           2   2 1.000
+Youngblood, OKC.         9   21  .429     Essengue, Chi.           1   2  .500     Kopp, Cle.               2   2 1.000
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Hepburn, Tor.              1    4 4.00     Cisse, Dal.               1   3 3.00     Barnhizer, OKC.           2   63 31.3
-Barnhizer, OKC.            2    5 2.50     Nembhard, Dal.            1   2 2.00     Edgecombe, Phi.           2   54 27.2
-Kalkbrenner, Cha.          1    2 2.00     Richard, G.S.             1   2 2.00     Kalkbrenner, Cha.         1   25 25.2
-Ryan, Mil.                 1    2 2.00     Beringer, Min.            1   1 1.00     Richardson, Orl.          1   24 24.3
-Youngblood, OKC.           2    3 1.50     Flagg, Dal.               1   1 1.00     Youngblood, OKC.          2   47 23.7
-Austin, OKC.               2    2 1.00     Fleming, Pho.             1   1 1.00     Knueppel, Cha.            1   23 23.4
-Bates, Den.                2    2 1.00     Kalkbrenner, Cha.         1   1 1.00     Beringer, Min.            1   23 22.6
-Broome, Phi.               2    2 1.00     Lanier, Det.              1   1 1.00     Gardner, Mia.             2   37 18.4
-Coward, Mem.               1    1 1.00     Matthews, Hou.            1   1 1.00     Davis, LA-L               2   37 18.4
-Gardner, Mia.              2    2 1.00     Newell, Atl.              1   1 1.00     Morales, Orl.             1   18 18.3
+Barnhizer, OKC.            2    5 2.50     Jones Garcia, S.A.        1   2 2.00     Peter, Ind.               1   28 27.7
+Bryant, S.A.               1    2 2.00     Nembhard, Dal.            1   2 2.00     Edgecombe, Phi.           2   54 27.2
+Jones Garcia, S.A.         1    2 2.00     Richard, G.S.             1   2 2.00     Kalkbrenner, Cha.         1   25 25.2
+Kalkbrenner, Cha.          1    2 2.00     Beringer, Min.            2   2 1.00     Richardson, Orl.          1   24 24.3
+Peter, Ind.                1    2 2.00     Flagg, Dal.               1   1 1.00     Youngblood, OKC.          2   47 23.7
+Ryan, Mil.                 1    2 2.00     Fleming, Pho.             1   1 1.00     Knueppel, Cha.            1   23 23.4
+Peavy, N.O.                2    3 1.50     Kalkbrenner, Cha.         1   1 1.00     Bryant, S.A.              1   23 23.2
+Youngblood, OKC.           2    3 1.50     Lanier, Det.              1   1 1.00     Fears, N.O.               2   46 23.1
+Austin, OKC.               2    2 1.00     Matthews, Hou.            1   1 1.00     Peavy, N.O.               2   44 22.0
 

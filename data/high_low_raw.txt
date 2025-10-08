@@ -1,22 +1,22 @@
 
-INCLUDES GAMES OF MONDAY, OCTOBER 6, 2025
+INCLUDES GAMES OF TUESDAY, OCTOBER 7, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
-Minutes -- 18, Young, ATL at HOU, 10/6
+Minutes -- 37, Barnhizer, OKC at DAL, 10/6
 Field Goals -- 10, Wiggins, OKC at CHA, 10/5
 FG Attempts -- 19, Booker, PHO at LAL, 10/3
-3-Pt. Field Goals -- 5, (4 times, most recently) Davison, HOU vs. ATL, 10/6
+3-Pt. Field Goals -- 6, Juzang, MIN vs. IND, 10/7 (OT)
+3-Pt. Field Goals -- 5, (5 times, most recently) Porter Jr., CLE vs. CHI, 10/7
 3-Pt. FG Attempts -- 11, Jay. Williams, OKC at DAL, 10/6
 Free Throws -- 8, Davis, LAL at GS, 10/5
 Free Throws -- 8, Okogie, HOU vs. ATL, 10/6
 FT Attempts -- 10, Okogie, HOU vs. ATL, 10/6
-Off. Rebounds -- 5, (3 times, most recently) Reed, DET at MEM, 10/6
+Off. Rebounds -- 5, (4 times, most recently) Buzelis, CHI at CLE, 10/7
 Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
 Assists -- 9, Dillingham, MIN at DEN, 10/4
-Steals -- 4, Barnhizer, OKC at CHA, 10/5
-Steals -- 4, Hepburn, TOR vs. DEN, 10/6
+Steals -- 4, (3 times, most recently) Jones, CHI at CLE, 10/7
 Turnovers -- 6, Jokic, DEN at TOR, 10/6
 Turnovers -- 6, Wembanyama, SA vs. GUA, 10/6
 Blocks -- 3, (5 times, most recently) Wembanyama, SA vs. GUA, 10/6
@@ -30,13 +30,17 @@ FG Attempts -- 98, Orlando at MIA, 10/4
 Fewest FG Attempts -- 67, Denver at TOR, 10/6
 Field Goal Pct. -- .567, Denver at TOR, 10/6
 Lowest Field Goal Pct. -- .309, Oklahoma City at DAL, 10/6
+3-Pt. Field Goals -- 20, Indiana at MIN, 10/7 (OT)
 3-Pt. Field Goals -- 20, Oklahoma City at CHA, 10/5
 3-Pt. Field Goals -- 20, Memphis vs. DET, 10/6
 3-Pt. FG Attempts -- 51, Charlotte vs. OKC, 10/5
 3-Pt. FG Attempts -- 51, Oklahoma City at DAL, 10/6
 3-Pt. FG Pct. -- .500, Minnesota at DEN, 10/4
+Free Throws -- 31, Minnesota vs. IND, 10/7 (OT)
 Free Throws -- 30, Houston vs. ATL, 10/6
 Fewest Free Throws -- 14, Phoenix at LAL, 10/3
+Fewest Free Throws -- 14, Cleveland vs. CHI, 10/7
+FT Attempts -- 41, Minnesota vs. IND, 10/7 (OT)
 FT Attempts -- 38, Miami vs. ORL, 10/4
 Fewest FT Attempts -- 19, Oklahoma City at CHA, 10/5
 Free Throw Pct. -- .900, Dallas vs. OKC, 10/6
@@ -45,16 +49,19 @@ Off. Rebounds -- 22, Orlando at MIA, 10/4
 Fewest Off. Rebounds -- 3, Milwaukee at MIA, 10/6
 Def. Rebounds -- 50, Miami vs. MIL, 10/6
 Fewest Def. Rebounds -- 23, Toronto vs. DEN, 10/6
+Fewest Def. Rebounds -- 23, Cleveland vs. CHI, 10/7
 Rebounds -- 60, Miami vs. MIL, 10/6
-Fewest Rebounds -- 34, Atlanta at HOU, 10/6
+Fewest Rebounds -- 32, Cleveland vs. CHI, 10/7
 Assists -- 35, Golden State vs. LAL, 10/5
 Fewest Assists -- 10, L.A. Lakers vs. PHO, 10/3
+Personal Fouls -- 33, Indiana at MIN, 10/7 (OT)
 Personal Fouls -- 31, Phoenix at LAL, 10/3
 Personal Fouls -- 31, Toronto vs. DEN, 10/6
 Fewest Personal Fouls -- 14, Charlotte vs. OKC, 10/5
-Steals -- 17, Toronto vs. DEN, 10/6
+Steals -- 19, Cleveland vs. CHI, 10/7
 Turnovers -- 31, Denver at TOR, 10/6
 Fewest Turnovers -- 11, Minnesota at DEN, 10/4
 Blocks -- 12, Dallas vs. OKC, 10/6
+Points -- 135, Indiana at MIN, 10/7 (OT)
 Points -- 135, Oklahoma City at CHA, 10/5
 Fewest Points -- 81, L.A. Lakers vs. PHO, 10/3

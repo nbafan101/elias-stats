@@ -1,49 +1,49 @@
 
-PRESEASON / INCLUDES GAMES OF MONDAY, OCTOBER 6, 2025
+PRESEASON / INCLUDES GAMES OF TUESDAY, OCTOBER 7, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Booker, Pho.           1    8   6   24 24.0     Reed, Det.            1    5    7   12 12.0     Dillingham, Min.       1    9  9.0
-Cunningham, Det.       1    8   2   20 20.0     Robinson, N.Y.        2    8   16   24 12.0     Young, Atl.            1    8  8.0
-Barrett, Tor.          1    7   2   19 19.0     Smith III, Det.       1    4    7   11 11.0     Booker, Pho.           1    7  7.0
-Ingram, Tor.           1    6   6   19 19.0     Ware, Mia.            2    6   16   22 11.0     Daniels, Atl.          1    6  6.0
-Moody, G.S.            1    7   0   19 19.0     Dante, Atl.           1    2    8   10 10.0     DiVincenzo, Min.       1    6  6.0
-Sengun, Hou.           1    5   7   19 19.0     Ighodaro, Pho.        1    1    8    9  9.0     Dieng, OKC.            2   12  6.0
-Hyland, Min.           1    5   5   18 18.0     Bitadze, Orl.         1    3    5    8  8.0     Jenkins, Det.          1    6  6.0
-Knueppel, Cha.         1    6   2   18 18.0     Bridges, Cha.         1    3    5    8  8.0     Sengun, Hou.           1    6  6.0
-Davison, Hou.          1    6   0   17 17.0     Dunn, Pho.            1    1    7    8  8.0     Barnes, Tor.           1    5  5.0
-Jerome, Mem.           1    5   4   16 16.0     Kuzma, Mil.           1    0    8    8  8.0     Green, G.S.            1    5  5.0
-Juzang, Min.           1    6   1   16 16.0     Zikarsky, Min.        1    5    3    8  8.0     Mann, Cha.             1    5  5.0
-Jay. Williams, OKC.    2   11   0   31 15.5     Ayton, LA-L           2    3   12   15  7.5     Russell, Dal.          1    5  5.0
-Jokic, Den.            2    9  13   31 15.5     Dieng, OKC.           2    4   11   15  7.5     Shead, Tor.            1    5  5.0
-Caldwell-Pope, Mem.    1    6   0   15 15.0     Leons, OKC.           2    4   11   15  7.5     Jovic, Mia.            2    9  4.5
-Mamukelashvili, Tor.   1    6   0   15 15.0     Aldama, Mem.          1    3    4    7  7.0     14 tied                        4.0
-Maxey, Phi.            2    9   9   30 15.0     Davis, Dal.           1    1    6    7  7.0                                       
-Nance, Mil.            1    5   1   15 15.0     Drummond, Phi.        2    3   11   14  7.0                                       
-Dieng, OKC.            2   11   3   29 14.5     Kalkbrenner, Cha.     1    3    4    7  7.0                                       
-Murray, Den.           2    9   7   29 14.5     Landale, Mem.         1    1    6    7  7.0                                       
-4 tied                 1    5   1   14 14.0     Powell, Dal.          1    4    3    7  7.0                                       
+Booker, Pho.           1    8   6   24 24.0     Reed, Det.            1    5    7   12 12.0     Young, Atl.            1    8  8.0
+Cunningham, Det.       1    8   2   20 20.0     Robinson, N.Y.        2    8   16   24 12.0     Booker, Pho.           1    7  7.0
+Barrett, Tor.          1    7   2   19 19.0     Smith III, Det.       1    4    7   11 11.0     Wembanyama, S.A.       1    7  7.0
+Buzelis, Chi.          1    7   3   19 19.0     Ware, Mia.            2    6   16   22 11.0     Dillingham, Min.       2   13  6.5
+Ingram, Tor.           1    6   6   19 19.0     Dante, Atl.           1    2    8   10 10.0     Daniels, Atl.          1    6  6.0
+Moody, G.S.            1    7   0   19 19.0     Wembanyama, S.A.      1    2    8   10 10.0     Dieng, OKC.            2   12  6.0
+Sengun, Hou.           1    5   7   19 19.0     Ighodaro, Pho.        1    1    8    9  9.0     Flagler, S.A.          1    6  6.0
+Juzang, Min.           2   12   3   36 18.0     Smith, Chi.           1    2    7    9  9.0     Jenkins, Det.          1    6  6.0
+Knueppel, Cha.         1    6   2   18 18.0     Bitadze, Orl.         1    3    5    8  8.0     Sengun, Hou.           1    6  6.0
+Murphy II, N.O.        1    7   2   18 18.0     Bridges, Cha.         1    3    5    8  8.0     Barnes, Tor.           1    5  5.0
+Davison, Hou.          1    6   0   17 17.0     Buzelis, Chi.         1    5    3    8  8.0     Dennis, Ind.           1    5  5.0
+Hunter, Cle.           1    7   2   17 17.0     Dunn, Pho.            1    1    7    8  8.0     Giddey, Chi.           1    5  5.0
+Porter Jr., Cle.       1    6   0   17 17.0     Kuzma, Mil.           1    0    8    8  8.0     Green, G.S.            1    5  5.0
+Champagnie, S.A.       1    4   4   16 16.0     Ayton, LA-L           2    3   12   15  7.5     Jones Garcia, S.A.     1    5  5.0
+Collins, Chi.          1    7   1   16 16.0     Dieng, OKC.           2    4   11   15  7.5     Kawamura, Chi.         1    5  5.0
+Dennis, Ind.           1    4   4   16 16.0     Leons, OKC.           2    4   11   15  7.5     Mann, Cha.             1    5  5.0
+Jerome, Mem.           1    5   4   16 16.0     8 tied                                  7.0     Russell, Dal.          1    5  5.0
+Johnson, S.A.          1    6   3   16 16.0                                                     Shead, Tor.            1    5  5.0
+Kornet, S.A.           1    6   4   16 16.0                                                     Jovic, Mia.            2    9  4.5
+2 tied                 2    9  13   31 15.5                                                     Shannon Jr., Min.      2    9  4.5
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Adams, Hou.              4    4 1.000     Aldama, Mem.             2   2 1.000     50 tied                        1.000
+Adams, Hou.              4    4 1.000     Aldama, Mem.             2   2 1.000     64 tied                        1.000
 Beekman, Orl.            4    4 1.000     Braun, Den.              4   4 1.000                                         
 Braun, Den.             10   10 1.000     Crawford, Hou.           1   1 1.000                                         
-Livingston, Mil.         4    4 1.000     Djurisic, Atl.           1   1 1.000                                         
-Jokic, Den.              9   10  .900     Freeman, Min.            2   2 1.000                                         
-Capela, Hou.             4    5  .800     Ivey, Det.               1   1 1.000                                         
-Moody, G.S.              7    9  .778     McDaniels, Min.          1   1 1.000                                         
-Beringer, Min.           6    8  .750     Nembhard, Dal.           1   1 1.000                                         
-Mamukelashvili, Tor.     6    8  .750     Payton II, G.S.          1   1 1.000                                         
-Cunningham, Det.         8   11  .727     Prince, Mil.             1   1 1.000                                         
+Kornet, S.A.             6    6 1.000     Djurisic, Atl.           1   1 1.000                                         
+Livingston, Mil.         4    4 1.000     Dosunmu, Chi.            2   2 1.000                                         
+Shumate, N.O.            4    4 1.000     Ivey, Det.               1   1 1.000                                         
+Jokic, Den.              9   10  .900     Johnson, S.A.            1   1 1.000                                         
+Collins, Chi.            7    8  .875     Mathurin, Ind.           1   1 1.000                                         
+Dosunmu, Chi.            5    6  .833     McDaniels, N.O.          1   1 1.000                                         
+Proctor, Cle.            5    6  .833     Nembhard, Dal.           1   1 1.000                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Hepburn, Tor.              1    4 4.00     Banchero, Orl.            1   3 3.00     Young, Atl.               1   42 42.3
-Barnes, Tor.               1    3 3.00     Cisse, Dal.               1   3 3.00     Johnson, Atl.             1   41 40.9
-Black, Orl.                1    3 3.00     Horford, G.S.             1   3 3.00     Dieng, OKC.               2   68 34.0
-Hall, Mem.                 1    3 3.00     Ayton, LA-L               2   4 2.00     Barnhizer, OKC.           2   63 31.3
-Hield, G.S.                1    3 3.00     Bitadze, Orl.             1   2 2.00     Knecht, LA-L              2   60 29.9
-Robinson, Det.             1    3 3.00     Carter Jr., Orl.          1   2 2.00     Barlow, Phi.              2   59 29.7
-Wallace, Atl.              1    3 3.00     Davis, Dal.               1   2 2.00     Edgecombe, Phi.           2   54 27.2
-Barnhizer, OKC.            2    5 2.50     Johnson, Atl.             1   2 2.00     Chandler, Phi.            2   53 26.5
-Leons, OKC.                2    5 2.50     Nembhard, Dal.            1   2 2.00     Ighodaro, Pho.            1   26 26.3
-McCullar Jr., N.Y.         2    5 2.50     Okogie, Hou.              1   2 2.00     Thompson, Hou.            1   26 25.9
+Hepburn, Tor.              1    4 4.00     Banchero, Orl.            1   3 3.00     Dieng, OKC.               2   68 34.0
+Jones, Chi.                1    4 4.00     Cisse, Dal.               1   3 3.00     Barnhizer, OKC.           2   63 31.3
+Barnes, Tor.               1    3 3.00     Horford, G.S.             1   3 3.00     Knecht, LA-L              2   60 29.9
+Black, Orl.                1    3 3.00     Wembanyama, S.A.          1   3 3.00     Barlow, Phi.              2   59 29.7
+Giddey, Chi.               1    3 3.00     Missi, N.O.               2   5 2.50     Peter, Ind.               1   28 27.7
+Hall, Mem.                 1    3 3.00     16 tied                   1   2 2.00     Edgecombe, Phi.           2   54 27.2
+Hield, G.S.                1    3 3.00                                              Chandler, Phi.            2   53 26.5
+Murphy II, N.O.            1    3 3.00                                              Ighodaro, Pho.            1   26 26.3
+Robinson, Det.             1    3 3.00                                              Thompson, Hou.            1   26 25.9
+Wallace, Atl.              1    3 3.00                                              Kalkbrenner, Cha.         1   25 25.2
 
