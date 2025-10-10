@@ -1,49 +1,49 @@
 
-PRESEASON / INCLUDES GAMES OF WEDNESDAY, OCTOBER 8, 2025
+PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 9, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Bailey, Utah           1   11   1   25 25.0     Reed, Det.            1    5    7   12 12.0     White, Bos.            1   10 10.0
-Booker, Pho.           1    8   6   24 24.0     Robinson, N.Y.        2    8   16   24 12.0     Sengun, Hou.           2   19  9.5
-Sensabaugh, Utah       1    9   0   24 24.0     Ware, Mia.            3    9   25   34 11.3     Clifford, Sac.         1    9  9.0
-Sharpe, Por.           1    9   0   22 22.0     Smith III, Det.       1    4    7   11 11.0     George, Utah           1    9  9.0
-J. Brown, Bos.         1    6   6   21 21.0     Dante, Atl.           1    2    8   10 10.0     Young, Atl.            1    8  8.0
-Cunningham, Det.       1    8   2   20 20.0     Garza, Bos.           1    4    6   10 10.0     Booker, Pho.           1    7  7.0
-Ingram, Tor.           2   13   8   40 20.0     Ighodaro, Pho.        1    1    8    9  9.0     Holiday, Por.          1    7  7.0
-Buzelis, Chi.          1    7   3   19 19.0     Smith, Chi.           1    2    7    9  9.0     Nurkic, Utah           1    7  7.0
-Sabonis, Sac.          1    7   5   19 19.0     Avdija, Por.          1    2    6    8  8.0     Dillingham, Min.       2   13  6.5
-Ware, Mia.             3   23   5   57 19.0     Bitadze, Orl.         1    3    5    8  8.0     Anderson, Utah         1    6  6.0
-Juzang, Min.           2   12   3   36 18.0     Bridges, Cha.         1    3    5    8  8.0     Daniels, Atl.          1    6  6.0
-Knueppel, Cha.         1    6   2   18 18.0     Buzelis, Chi.         1    5    3    8  8.0     Dieng, OKC.            2   12  6.0
-Johnson, S.A.          2   13   7   35 17.5     Dunn, Pho.            1    1    7    8  8.0     Jenkins, Det.          1    6  6.0
-Hunter, Cle.           1    7   2   17 17.0     Kuzma, Mil.           1    0    8    8  8.0     Wembanyama, S.A.       2   12  6.0
-Porter Jr., Cle.       1    6   0   17 17.0     Nurkic, Utah          1    1    7    8  8.0     Dennis, Ind.           1    5  5.0
-7 tied                 1    5   3   16 16.0     Ayton, LA-L           2    3   12   15  7.5     Giddey, Chi.           1    5  5.0
-                                                Dieng, OKC.           2    4   11   15  7.5     Kawamura, Chi.         1    5  5.0
-                                                Kornet, S.A.          2    8    7   15  7.5     Mann, Cha.             1    5  5.0
-                                                Leons, OKC.           2    4   11   15  7.5     Russell, Dal.          1    5  5.0
-                                                9 tied                                  7.0     2 tied                         4.5
+Bailey, Utah           1   11   1   25 25.0     Ware, Mia.            3    9   25   34 11.3     White, Bos.            1   10 10.0
+Booker, Pho.           1    8   6   24 24.0     Dante, Atl.           1    2    8   10 10.0     Sengun, Hou.           2   19  9.5
+Sensabaugh, Utah       1    9   0   24 24.0     Garza, Bos.           1    4    6   10 10.0     Clifford, Sac.         1    9  9.0
+Cunningham, Det.       2   16  10   46 23.0     Robinson, N.Y.        3    9   21   30 10.0     George, Utah           1    9  9.0
+Sharpe, Por.           1    9   0   22 22.0     Ighodaro, Pho.        1    1    8    9  9.0     Harden, LA-C           1    9  9.0
+J. Brown, Bos.         1    6   6   21 21.0     Reed, Det.            2    7   11   18  9.0     Young, Atl.            1    8  8.0
+Ingram, Tor.           2   13   8   40 20.0     Avdija, Por.          1    2    6    8  8.0     Booker, Pho.           1    7  7.0
+Sabonis, Sac.          1    7   5   19 19.0     Bitadze, Orl.         1    3    5    8  8.0     Holiday, Por.          1    7  7.0
+Ware, Mia.             3   23   5   57 19.0     Claxton, Bkn.         1    2    6    8  8.0     Nurkic, Utah           1    7  7.0
+Hunter, Cle.           2   13   6   37 18.5     Dunn, Pho.            1    1    7    8  8.0     Preston, LA-C          1    7  7.0
+Leonard, LA-C          1    6   1   18 18.0     Nurkic, Utah          1    1    7    8  8.0     Anderson, Utah         1    6  6.0
+Johnson, S.A.          2   13   7   35 17.5     Salaun, Cha.          2    5   11   16  8.0     Daniels, Atl.          1    6  6.0
+Mobley, Cle.           2   11   8   33 16.5     Smith, Chi.           2    3   13   16  8.0     Dillingham, Min.       3   18  6.0
+Barrett, Tor.          2   10   6   32 16.0     Ayton, LA-L           2    3   12   15  7.5     Saraf, Bkn.            1    6  6.0
+Dennis, Ind.           1    4   4   16 16.0     Bridges, Cha.         2    3   12   15  7.5     Wembanyama, S.A.       2   12  6.0
+George, Utah           1    7   0   16 16.0     Kornet, S.A.          2    8    7   15  7.5     Giddey, Chi.           2   11  5.5
+LaVine, Sac.           1    5   3   16 16.0     Smith III, Det.       2    7    8   15  7.5     Cunningham, Det.       2   10  5.0
+Sengun, Hou.           2   10  10   32 16.0     8 tied                                  7.0     Dennis, Ind.           1    5  5.0
+White, Bos.            1    7   0   16 16.0                                                     Russell, Dal.          1    5  5.0
+3 tied                 2    9  13   31 15.5                                                     Wolf, Bkn.             1    5  5.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Beekman, Orl.            4    4 1.000     Braun, Den.              4   4 1.000     63 tied                        1.000
-Braun, Den.             10   10 1.000     Djurisic, Atl.           1   1 1.000                                         
-Livingston, Mil.         4    4 1.000     Dosunmu, Chi.            2   2 1.000                                         
-Nurkic, Utah             5    5 1.000     Harkless, Utah           1   1 1.000                                         
-Jokic, Den.              9   10  .900     Ivey, Det.               1   1 1.000                                         
-Collins, Chi.            7    8  .875     Love, Utah               2   2 1.000                                         
-Cardwell, Sac.           6    7  .857     Mathurin, Ind.           1   1 1.000                                         
-Dosunmu, Chi.            5    6  .833     Nembhard, Dal.           1   1 1.000                                         
-Kornet, S.A.            10   12  .833     Nurkic, Utah             1   1 1.000                                         
-Proctor, Cle.            5    6  .833     Plowden, Sac.            1   1 1.000                                         
+Beekman, Orl.            4    4 1.000     Braun, Den.              4   4 1.000     57 tied                        1.000
+Braun, Den.             10   10 1.000     Claxton, Bkn.            1   1 1.000                                         
+Clowney, Bkn.            5    5 1.000     Clowney, Bkn.            2   2 1.000                                         
+Nurkic, Utah             5    5 1.000     Djurisic, Atl.           1   1 1.000                                         
+Jokic, Den.              9   10  .900     Flowers, LA-C            1   1 1.000                                         
+Zubac, LA-C              7    8  .875     Harkless, Utah           1   1 1.000                                         
+Cardwell, Sac.           6    7  .857     Jones, Chi.              2   2 1.000                                         
+Mann, Bkn.               6    7  .857     Love, Utah               2   2 1.000                                         
+Kornet, S.A.            10   12  .833     Mann, Bkn.               2   2 1.000                                         
+Porter Jr., Mil.         9   11  .818     Mathurin, Ind.           1   1 1.000                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Jones, Chi.                1    4 4.00     Murray, Sac.              1   4 4.00     Dieng, OKC.               2   68 34.0
-Black, Orl.                1    3 3.00     Banchero, Orl.            1   3 3.00     Barnhizer, OKC.           2   63 31.3
-Giddey, Chi.               1    3 3.00     Cisse, Dal.               1   3 3.00     Bailey, Utah              1   31 31.0
-Grant, Por.                1    3 3.00     Eubanks, Sac.             1   3 3.00     Knecht, LA-L              2   60 29.9
-Minott, Bos.               1    3 3.00     Gonzalez, Bos.            1   3 3.00     Barlow, Phi.              2   59 29.7
-Robinson, Det.             1    3 3.00     Missi, N.O.               2   5 2.50     George, Utah              1   28 27.8
+Jones, Chi.                2    8 4.00     Murray, Sac.              1   4 4.00     Bailey, Utah              1   31 31.0
+Williams, Bkn.             1    4 4.00     Banchero, Orl.            1   3 3.00     Knecht, LA-L              2   60 29.9
+Black, Orl.                1    3 3.00     Cisse, Dal.               1   3 3.00     Barlow, Phi.              2   59 29.7
+Grant, Por.                1    3 3.00     Eubanks, Sac.             1   3 3.00     Barnhizer, OKC.           3   88 29.4
+Hepburn, Tor.              2    6 3.00     Gonzalez, Bos.            1   3 3.00     Dieng, OKC.               3   86 28.5
+Minott, Bos.               1    3 3.00     Missi, N.O.               2   5 2.50     George, Utah              1   28 27.8
 Wallace, Atl.              1    3 3.00     Wembanyama, S.A.          2   5 2.50     Peter, Ind.               1   28 27.7
-Barnhizer, OKC.            2    5 2.50     14 tied                   1   2 2.00     Edgecombe, Phi.           2   54 27.2
-Hepburn, Tor.              2    5 2.50                                              Hendricks, Utah           1   27 27.1
-Leons, OKC.                2    5 2.50                                              White, Bos.               1   27 26.9
+Mitchell, Cle.             2    5 2.50     Jay. Williams, OKC.       3   7 2.33     Edgecombe, Phi.           2   54 27.2
+Williamson, N.O.           2    5 2.50     16 tied                   1   2 2.00     Hendricks, Utah           1   27 27.1
+27 tied                    1    2 2.00                                              White, Bos.               1   27 26.9
 
