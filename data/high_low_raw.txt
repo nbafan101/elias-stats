@@ -1,8 +1,9 @@
 
-INCLUDES GAMES OF THURSDAY, OCTOBER 9, 2025
+INCLUDES GAMES OF FRIDAY, OCTOBER 10, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
+Minutes -- 39, Bailey, UTA at SA, 10/10 (OT)
 Minutes -- 37, Barnhizer, OKC at DAL, 10/6
 Field Goals -- 12, Ware, MIA vs. SA, 10/8
 FG Attempts -- 19, Booker, PHO at LAL, 10/3
@@ -10,13 +11,16 @@ FG Attempts -- 19, Ware, MIA vs. SA, 10/8
 3-Pt. Field Goals -- 6, Juzang, MIN vs. IND, 10/7 (OT)
 3-Pt. Field Goals -- 6, Sensabaugh, UTA at HOU, 10/8
 3-Pt. FG Attempts -- 11, Jay. Williams, OKC at DAL, 10/6
+Free Throws -- 12, Sensabaugh, UTA at SA, 10/10 (OT)
 Free Throws -- 9, Livingston, MIL vs. DET, 10/9
+FT Attempts -- 12, Sensabaugh, UTA at SA, 10/10 (OT)
 FT Attempts -- 10, (4 times, most recently) Thompson, DET at MIL, 10/9
 Off. Rebounds -- 7, Kornet, SA at MIA, 10/8
 Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
 Assists -- 13, Sengun, HOU vs. UTA, 10/8
-Steals -- 4, (6 times, most recently) Jones, CHI vs. CLE, 10/9
+Steals -- 5, Booker, PHO at BKN, 10/10 (OT)
+Steals -- 4, (8 times, most recently) Hepburn, TOR vs. BOS, 10/10
 Turnovers -- 6, Jokic, DEN at TOR, 10/6
 Turnovers -- 6, Wembanyama, SA vs. GUA, 10/6
 Blocks -- 5, Jay. Williams, OKC vs. CHA, 10/9
@@ -35,28 +39,33 @@ Lowest Field Goal Pct. -- .309, Oklahoma City at DAL, 10/6
 3-Pt. FG Attempts -- 57, New York vs. MIN, 10/9 (OT)
 3-Pt. FG Attempts -- 53, Boston at MEM, 10/8
 3-Pt. FG Pct. -- .541, Toronto at SAC, 10/8
-Free Throws -- 32, Memphis vs. BOS, 10/8
+Free Throws -- 37, Orlando at PHI, 10/10
 Fewest Free Throws -- 7, Utah at HOU, 10/8
+FT Attempts -- 46, Phoenix at BKN, 10/10 (OT)
 FT Attempts -- 42, Memphis vs. BOS, 10/8
+FT Attempts -- 42, Orlando at PHI, 10/10
 Fewest FT Attempts -- 12, Utah at HOU, 10/8
-Free Throw Pct. -- .900, Dallas vs. OKC, 10/6
+Free Throw Pct. -- .919, Utah at SA, 10/10 (OT)
+Free Throw Pct. -- .905, Boston at TOR, 10/10
 Lowest Free Throw Pct. -- .500, Brooklyn vs. HAP, 10/4
 Off. Rebounds -- 23, Portland at GS, 10/8
 Fewest Off. Rebounds -- 3, Milwaukee at MIA, 10/6
 Fewest Off. Rebounds -- 3, Milwaukee vs. DET, 10/9
 Def. Rebounds -- 50, Miami vs. MIL, 10/6
-Fewest Def. Rebounds -- 23, Toronto vs. DEN, 10/6
-Fewest Def. Rebounds -- 23, Cleveland vs. CHI, 10/7
+Fewest Def. Rebounds -- 19, Toronto vs. BOS, 10/10
 Rebounds -- 60, Miami vs. MIL, 10/6
 Rebounds -- 60, Portland at GS, 10/8
 Fewest Rebounds -- 31, Milwaukee vs. DET, 10/9
 Assists -- 42, L.A. Clippers vs. GUA, 10/9
 Fewest Assists -- 10, L.A. Lakers vs. PHO, 10/3
-Personal Fouls -- 33, Indiana at MIN, 10/7 (OT)
+Personal Fouls -- 39, Phoenix at BKN, 10/10 (OT)
 Personal Fouls -- 33, Portland at GS, 10/8
+Personal Fouls -- 33, Sacramento at POR, 10/10
 Fewest Personal Fouls -- 9, Houston vs. UTA, 10/8
 Steals -- 19, Cleveland vs. CHI, 10/7
+Turnovers -- 34, Brooklyn vs. PHO, 10/10 (OT)
 Turnovers -- 31, Denver at TOR, 10/6
+Fewest Turnovers -- 11, Utah at SA, 10/10 (OT)
 Fewest Turnovers -- 11, Minnesota at DEN, 10/4
 Blocks -- 13, Oklahoma City vs. CHA, 10/9
 Points -- 142, L.A. Clippers vs. GUA, 10/9
