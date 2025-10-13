@@ -1,98 +1,98 @@
 
-ROOKIE LEADERS / PRESEASON / INCLUDES GAMES OF SATURDAY, OCTOBER 11, 2025
+ROOKIE LEADERS / PRESEASON / INCLUDES GAMES OF SUNDAY, OCTOBER 12, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Bailey, Utah           2   19   3   45 22.5     Kalkbrenner, Cha.     3   11   13   24  8.0     Clifford, Sac.         2   11  5.5
-Youngblood, OKC.       4   17  12   58 14.5     Bailey, Utah          2    5    8   13  6.5     Small, Mem.            2   11  5.5
-Peter, Ind.            2   10   2   28 14.0     Barnhizer, OKC.       4    7   17   24  6.0     Clayton Jr., Utah      2    8  4.0
-Clayton Jr., Utah      2    9   6   27 13.5     Morales, Orl.         1    3    3    6  6.0     Edgecombe, Phi.        2    8  4.0
-Knueppel, Cha.         3   14   4   38 12.7     Maluach, Pho.         2    4    7   11  5.5     Wolf, Bkn.             2    8  4.0
-Clifford, Sac.         2    8   7   25 12.5     Raynaud, Sac.         2    5    6   11  5.5     Hepburn, Tor.          3   11  3.7
-Davis, LA-L            2    6  11   25 12.5     McGlothan, Ind.       2    3    7   10  5.0     Flagg, Dal.            2    7  3.5
-Edgecombe, Phi.        2    7   8   24 12.0     Peter, Ind.           2    3    7   10  5.0     Peter, Ind.            2    7  3.5
-Barnhizer, OKC.        4   13  17   47 11.8     Wolf, Bkn.            2    3    7   10  5.0     Thompson, Mia.         2    7  3.5
-Kalkbrenner, Cha.      3   15   3   33 11.0     Flagg, Dal.           2    0    9    9  4.5     Jones Garcia, S.A.     3   10  3.3
-Richardson, Orl.       2    8   1   22 11.0     Lovering, Mem.        2    3    6    9  4.5     Fears, N.O.            2    6  3.0
-Flagg, Dal.            2    7   4   21 10.5     Cisse, Dal.           2    2    6    8  4.0     Morales, Orl.          1    3  3.0
-Proctor, Cle.          2    7   3   21 10.5     Cleveland, Dal.       1    1    3    4  4.0     Proctor, Cle.          2    6  3.0
-Coward, Mem.           3    8  14   31 10.3     Coward, Mem.          3    2   10   12  4.0     Sanders, LA-C          1    3  3.0
-Jones Garcia, S.A.     3   11   9   31 10.3     Edgecombe, Phi.       2    1    7    8  4.0     Saraf, Bkn.            2    6  3.0
-Yang, Por.             2    7   4   20 10.0     Gardner, Mia.         3    3    9   12  4.0     Murray-Boyles, Tor.    3    8  2.7
-Bryant, S.A.           3   10   6   29  9.7     Gonzalez, Bos.        2    2    6    8  4.0     C. Jones, Den.         2    5  2.5
-Fears, N.O.            2    8   2   19  9.5     Penda, Orl.           2    3    5    8  4.0     Bailey, Utah           2    4  2.0
-Lanier, Det.           2    7   0   19  9.5     Richardson, Orl.      2    3    5    8  4.0     Cleveland, Dal.        1    2  2.0
-Love, Por.             2    6   4   18  9.0     Yang, Por.            2    3    5    8  4.0     Kelly, Dal.            2    4  2.0
+Bailey, Utah           2   19   3   45 22.5     Kalkbrenner, Cha.     3   11   13   24  8.0     Saraf, Bkn.            3   17  5.7
+Youngblood, OKC.       4   17  12   58 14.5     T. Johnson, Was.      1    3    4    7  7.0     Clifford, Sac.         2   11  5.5
+Peter, Ind.            2   10   2   28 14.0     Bailey, Utah          2    5    8   13  6.5     Jakucionis, Mia.       2   11  5.5
+Clayton Jr., Utah      2    9   6   27 13.5     Barnhizer, OKC.       4    7   17   24  6.0     Small, Mem.            2   11  5.5
+Knueppel, Cha.         3   14   4   38 12.7     Raynaud, Sac.         2    5    6   11  5.5     Clayton Jr., Utah      2    8  4.0
+Clifford, Sac.         2    8   7   25 12.5     McGlothan, Ind.       2    3    7   10  5.0     Edgecombe, Phi.        2    8  4.0
+Edgecombe, Phi.        2    7   8   24 12.0     Peter, Ind.           2    3    7   10  5.0     Wolf, Bkn.             3   12  4.0
+Barnhizer, OKC.        4   13  17   47 11.8     Gardner, Mia.         4    7   12   19  4.8     Flagg, Dal.            2    7  3.5
+Richardson, Orl.       3   12   4   35 11.7     Flagg, Dal.           2    0    9    9  4.5     Peter, Ind.            2    7  3.5
+Kalkbrenner, Cha.      3   15   3   33 11.0     Lovering, Mem.        2    3    6    9  4.5     Jones Garcia, S.A.     3   10  3.3
+Proctor, Cle.          3   12   3   33 11.0     Maluach, Pho.         3    4    9   13  4.3     Proctor, Cle.          3   10  3.3
+Flagg, Dal.            2    7   4   21 10.5     Penda, Orl.           3    4    9   13  4.3     Fears, N.O.            2    6  3.0
+Coward, Mem.           3    8  14   31 10.3     Cisse, Dal.           2    2    6    8  4.0     Sanders, LA-C          1    3  3.0
+Jones Garcia, S.A.     3   11   9   31 10.3     Cleveland, Dal.       1    1    3    4  4.0     Thompson, Mia.         3    9  3.0
+Davis, LA-L            3    8  11   30 10.0     Coward, Mem.          3    2   10   12  4.0     Hepburn, Tor.          4   11  2.8
+Yang, Por.             2    7   4   20 10.0     Edgecombe, Phi.       2    1    7    8  4.0     Murray-Boyles, Tor.    3    8  2.7
+Bryant, S.A.           3   10   6   29  9.7     Konan Niederhauser, L 2    4    4    8  4.0     Richard, G.S.          3    7  2.3
+Fears, N.O.            2    8   2   19  9.5     Morales, Orl.         2    5    3    8  4.0     Bailey, Utah           2    4  2.0
+Lanier, Det.           2    7   0   19  9.5     Yang, Por.            2    3    5    8  4.0     C. Jones, Den.         3    6  2.0
+Love, Por.             2    6   4   18  9.0     Zikarsky, Min.        3    6    6   12  4.0     Cleveland, Dal.        1    2  2.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
 Shumate, N.O.            4    4 1.000     Djurisic, Atl.           1   1 1.000     Austin, OKC.             6   6 1.000
-Kalkbrenner, Cha.       15   19  .789     Richardson, Orl.         5   5 1.000     Bailey, Utah             3   3 1.000
-Cardwell, Sac.           6    8  .750     Wolf, Bkn.               1   1 1.000     Bates, Den.              2   2 1.000
-Maluach, Pho.            4    6  .667     Holmes II, Den.          3   4  .750     Clayton Jr., Utah        6   6 1.000
-Bailey, Utah            19   29  .655     Flagg, Dal.              3   5  .600     Cleveland, Dal.          2   2 1.000
-Beringer, Min.           8   13  .615     Barnhizer, OKC.          4   7  .571     Clifford, Sac.           7   7 1.000
-Davis, LA-L              6   10  .600     Cleveland, Dal.          1   2  .500     Cooke, Por.              2   2 1.000
-Gonzalez, Bos.           4    7  .571     Cryer, G.S.              3   6  .500     Davis, LA-L             11  11 1.000
-Richardson, Orl.         8   14  .571     Davis, LA-L              2   4  .500     Djurisic, Atl.           3   3 1.000
-Wolf, Bkn.               5    9  .556     Kopp, Cle.               1   2  .500     Edgecombe, Phi.          8   8 1.000
+Kalkbrenner, Cha.       15   19  .789     Wolf, Bkn.               3   3 1.000     Bailey, Utah             3   3 1.000
+Cardwell, Sac.           6    8  .750     Richardson, Orl.         7  10  .700     Clayton Jr., Utah        6   6 1.000
+Davis, LA-L              8   12  .667     Davis, LA-L              3   5  .600     Cleveland, Dal.          2   2 1.000
+Bailey, Utah            19   29  .655     Flagg, Dal.              3   5  .600     Clifford, Sac.           7   7 1.000
+Beringer, Min.           8   13  .615     Holmes II, Den.          3   5  .600     Cooke, Por.              2   2 1.000
+Wolf, Bkn.               8   13  .615     Barnhizer, OKC.          4   7  .571     Davis, LA-L             11  11 1.000
+Maluach, Pho.            7   12  .583     Cryer, G.S.              6  11  .545     Djurisic, Atl.           3   3 1.000
+Gonzalez, Bos.           6   11  .545     Cleveland, Dal.          1   2  .500     Edgecombe, Phi.          8   8 1.000
+Yang, Por.               7   13  .538     Kopp, Cle.               2   4  .500     Flagg, Dal.              4   4 1.000
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Hepburn, Tor.              3   10 3.33     Cisse, Dal.               2   5 2.50     Bailey, Utah              2   70 34.9
-Bailey, Utah               2    4 2.00     Konan Niederhauser, LA-C  1   2 2.00     Barnhizer, OKC.           4  126 31.6
-Penda, Orl.                2    4 2.00     Fleming, Pho.             2   3 1.50     Sallis, Phi.              2   56 28.2
-Peter, Ind.                2    4 2.00     Gonzalez, Bos.            2   3 1.50     Peter, Ind.               2   55 27.5
-Barnhizer, OKC.            4    7 1.75     Yang, Por.                2   3 1.50     Edgecombe, Phi.           2   54 27.2
-Broome, Phi.               3    5 1.67     Austin, OKC.              4   4 1.00     Small, Mem.               2   54 27.1
-Clifford, Sac.             2    3 1.50     Beringer, Min.            3   3 1.00     Clayton Jr., Utah         2   54 27.0
-Flagg, Dal.                2    3 1.50     Nembhard, Dal.            2   2 1.00     Clifford, Sac.            2   50 24.9
-Peavy, N.O.                2    3 1.50     Peavy, N.O.               2   2 1.00     Knueppel, Cha.            3   70 23.3
-Small, Mem.                2    3 1.50     Richard, G.S.             2   2 1.00     Bryant, S.A.              3   70 23.2
+Hepburn, Tor.              4   11 2.75     Cisse, Dal.               2   5 2.50     Bailey, Utah              2   70 34.9
+Bailey, Utah               2    4 2.00     Konan Niederhauser, LA-C  2   3 1.50     Barnhizer, OKC.           4  126 31.6
+Penda, Orl.                3    6 2.00     Yang, Por.                2   3 1.50     Sallis, Phi.              2   56 28.2
+Peter, Ind.                2    4 2.00     Austin, OKC.              4   4 1.00     Peter, Ind.               2   55 27.5
+Barnhizer, OKC.            4    7 1.75     Beringer, Min.            3   3 1.00     Edgecombe, Phi.           2   54 27.2
+Broome, Phi.               3    5 1.67     Fleming, Pho.             3   3 1.00     Small, Mem.               2   54 27.1
+Clifford, Sac.             2    3 1.50     Gardner, Mia.             4   4 1.00     Clayton Jr., Utah         2   54 27.0
+Flagg, Dal.                2    3 1.50     Gonzalez, Bos.            3   3 1.00     Clifford, Sac.            2   50 24.9
+Peavy, N.O.                2    3 1.50     Nembhard, Dal.            2   2 1.00     Thompson, Mia.            3   70 23.4
+Small, Mem.                2    3 1.50     Peavy, N.O.               2   2 1.00     Knueppel, Cha.            3   70 23.3
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PRESEASON / INCLUDES GAMES OF SATURDAY, OCTOBER 11, 2025
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PRESEASON / INCLUDES GAMES OF SUNDAY, OCTOBER 12, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Bailey, Utah           2   19   3   45 22.5     Kalkbrenner, Cha.     3   11   13   24  8.0     Clifford, Sac.         2   11  5.5
-Youngblood, OKC.       4   17  12   58 14.5     Bailey, Utah          2    5    8   13  6.5     Clayton Jr., Utah      2    8  4.0
-Peter, Ind.            2   10   2   28 14.0     Barnhizer, OKC.       4    7   17   24  6.0     Wolf, Bkn.             2    8  4.0
-Clayton Jr., Utah      2    9   6   27 13.5     Maluach, Pho.         2    4    7   11  5.5     Hepburn, Tor.          3   11  3.7
+Bailey, Utah           2   19   3   45 22.5     Kalkbrenner, Cha.     3   11   13   24  8.0     Saraf, Bkn.            3   17  5.7
+Youngblood, OKC.       4   17  12   58 14.5     T. Johnson, Was.      1    3    4    7  7.0     Clifford, Sac.         2   11  5.5
+Peter, Ind.            2   10   2   28 14.0     Bailey, Utah          2    5    8   13  6.5     Clayton Jr., Utah      2    8  4.0
+Clayton Jr., Utah      2    9   6   27 13.5     Barnhizer, OKC.       4    7   17   24  6.0     Wolf, Bkn.             3   12  4.0
 Knueppel, Cha.         3   14   4   38 12.7     Raynaud, Sac.         2    5    6   11  5.5     Flagg, Dal.            2    7  3.5
 Clifford, Sac.         2    8   7   25 12.5     McGlothan, Ind.       2    3    7   10  5.0     Peter, Ind.            2    7  3.5
-Davis, LA-L            2    6  11   25 12.5     Peter, Ind.           2    3    7   10  5.0     Jones Garcia, S.A.     3   10  3.3
-Barnhizer, OKC.        4   13  17   47 11.8     Wolf, Bkn.            2    3    7   10  5.0     Fears, N.O.            2    6  3.0
-Kalkbrenner, Cha.      3   15   3   33 11.0     Flagg, Dal.           2    0    9    9  4.5     Proctor, Cle.          2    6  3.0
-Richardson, Orl.       2    8   1   22 11.0     Cisse, Dal.           2    2    6    8  4.0     Sanders, LA-C          1    3  3.0
-Flagg, Dal.            2    7   4   21 10.5     Coward, Mem.          3    2   10   12  4.0     Saraf, Bkn.            2    6  3.0
-Proctor, Cle.          2    7   3   21 10.5     Gardner, Mia.         3    3    9   12  4.0     Murray-Boyles, Tor.    3    8  2.7
-Coward, Mem.           3    8  14   31 10.3     Gonzalez, Bos.        2    2    6    8  4.0     C. Jones, Den.         2    5  2.5
-Jones Garcia, S.A.     3   11   9   31 10.3     Penda, Orl.           2    3    5    8  4.0     Bailey, Utah           2    4  2.0
-Yang, Por.             2    7   4   20 10.0     Richardson, Orl.      2    3    5    8  4.0     Kelly, Dal.            2    4  2.0
-Bryant, S.A.           3   10   6   29  9.7     Yang, Por.            2    3    5    8  4.0     Knueppel, Cha.         3    6  2.0
-Fears, N.O.            2    8   2   19  9.5     Zikarsky, Min.        3    6    6   12  4.0     Nembhard, Dal.         2    4  2.0
-Lanier, Det.           2    7   0   19  9.5     Beringer, Min.        3    6    5   11  3.7     Raynaud, Sac.          2    4  2.0
-Love, Por.             2    6   4   18  9.0     Bryant, S.A.          3    5    6   11  3.7     Richardson, Orl.       2    4  2.0
-Saraf, Bkn.            2    6   5   18  9.0     Knueppel, Cha.        3    4    7   11  3.7     Barnhizer, OKC.        4    7  1.8
+Barnhizer, OKC.        4   13  17   47 11.8     Peter, Ind.           2    3    7   10  5.0     Jones Garcia, S.A.     3   10  3.3
+Richardson, Orl.       3   12   4   35 11.7     Gardner, Mia.         4    7   12   19  4.8     Proctor, Cle.          3   10  3.3
+Kalkbrenner, Cha.      3   15   3   33 11.0     Flagg, Dal.           2    0    9    9  4.5     Fears, N.O.            2    6  3.0
+Proctor, Cle.          3   12   3   33 11.0     Maluach, Pho.         3    4    9   13  4.3     Thompson, Mia.         3    9  3.0
+Flagg, Dal.            2    7   4   21 10.5     Penda, Orl.           3    4    9   13  4.3     Hepburn, Tor.          4   11  2.8
+Coward, Mem.           3    8  14   31 10.3     Cisse, Dal.           2    2    6    8  4.0     Murray-Boyles, Tor.    3    8  2.7
+Jones Garcia, S.A.     3   11   9   31 10.3     Coward, Mem.          3    2   10   12  4.0     Richard, G.S.          3    7  2.3
+Davis, LA-L            3    8  11   30 10.0     Konan Niederhauser, L 2    4    4    8  4.0     Bailey, Utah           2    4  2.0
+Yang, Por.             2    7   4   20 10.0     Yang, Por.            2    3    5    8  4.0     C. Jones, Den.         3    6  2.0
+Bryant, S.A.           3   10   6   29  9.7     Zikarsky, Min.        3    6    6   12  4.0     Kelly, Dal.            2    4  2.0
+Fears, N.O.            2    8   2   19  9.5     Beringer, Min.        3    6    5   11  3.7     Knueppel, Cha.         3    6  2.0
+Lanier, Det.           2    7   0   19  9.5     Bryant, S.A.          3    5    6   11  3.7     Nembhard, Dal.         2    4  2.0
+Love, Por.             2    6   4   18  9.0     Knueppel, Cha.        3    4    7   11  3.7     Raynaud, Sac.          2    4  2.0
+Hepburn, Tor.          4   11   5   34  8.5     Murray-Boyles, Tor.   3    6    5   11  3.7     Riley, Was.            1    2  2.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Kalkbrenner, Cha.       15   19  .789     Richardson, Orl.         5   5 1.000     Clayton Jr., Utah        6   6 1.000
-Bailey, Utah            19   29  .655     Holmes II, Den.          3   4  .750     Clifford, Sac.           7   7 1.000
-Richardson, Orl.         8   14  .571     Flagg, Dal.              3   5  .600     Davis, LA-L             11  11 1.000
-Peter, Ind.             10   19  .526     Barnhizer, OKC.          4   7  .571     Edgecombe, Phi.          8   8 1.000
-Youngblood, OKC.        17   35  .486     Cryer, G.S.              3   6  .500     Flagg, Dal.              4   4 1.000
-Clifford, Sac.           8   18  .444     Davis, LA-L              2   4  .500     McNeeley, Cha.           7   7 1.000
-Clayton Jr., Utah        9   22  .409     Peavy, N.O.              3   6  .500     Penda, Orl.              4   4 1.000
-Knueppel, Cha.          14   35  .400     Poulakidas, LA-C         1   2  .500     Sallis, Phi.             5   5 1.000
+Kalkbrenner, Cha.       15   19  .789     Wolf, Bkn.               3   3 1.000     Clayton Jr., Utah        6   6 1.000
+Bailey, Utah            19   29  .655     Richardson, Orl.         7  10  .700     Clifford, Sac.           7   7 1.000
+Peter, Ind.             10   19  .526     Davis, LA-L              3   5  .600     Davis, LA-L             11  11 1.000
+Youngblood, OKC.        17   35  .486     Flagg, Dal.              3   5  .600     Edgecombe, Phi.          8   8 1.000
+Richardson, Orl.        12   26  .462     Holmes II, Den.          3   5  .600     Flagg, Dal.              4   4 1.000
+Clifford, Sac.           8   18  .444     Barnhizer, OKC.          4   7  .571     McNeeley, Cha.           7   7 1.000
+Proctor, Cle.           12   27  .444     Cryer, G.S.              6  11  .545     Riley, Was.              4   4 1.000
+Clayton Jr., Utah        9   22  .409     Peavy, N.O.              3   6  .500     Sallis, Phi.             5   5 1.000
+Knueppel, Cha.          14   35  .400     Powell, Bkn.             3   6  .500     T. Johnson, Was.         2   2 1.000
 Jones Garcia, S.A.      11   30  .367     Sanders, LA-C            2   4  .500     Williams, Det.           4   4 1.000
-Fears, N.O.              8   25  .320     Youngblood, OKC.        12  27  .444     Yang, Por.               4   4 1.000
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Hepburn, Tor.              3   10 3.33     Cisse, Dal.               2   5 2.50     Bailey, Utah              2   70 34.9
-Bailey, Utah               2    4 2.00     Konan Niederhauser, LA-C  1   2 2.00     Barnhizer, OKC.           4  126 31.6
-Penda, Orl.                2    4 2.00     Fleming, Pho.             2   3 1.50     Peter, Ind.               2   55 27.5
-Peter, Ind.                2    4 2.00     Gonzalez, Bos.            2   3 1.50     Clayton Jr., Utah         2   54 27.0
-Barnhizer, OKC.            4    7 1.75     Yang, Por.                2   3 1.50     Clifford, Sac.            2   50 24.9
-Broome, Phi.               3    5 1.67     Austin, OKC.              4   4 1.00     Knueppel, Cha.            3   70 23.3
-Clifford, Sac.             2    3 1.50     Beringer, Min.            3   3 1.00     Bryant, S.A.              3   70 23.2
-Flagg, Dal.                2    3 1.50     Nembhard, Dal.            2   2 1.00     Fears, N.O.               2   46 23.1
-Peavy, N.O.                2    3 1.50     Peavy, N.O.               2   2 1.00     Lanier, Det.              2   45 22.3
-Coward, Mem.               3    4 1.33     Richard, G.S.             2   2 1.00     Youngblood, OKC.          4   89 22.2
+Hepburn, Tor.              4   11 2.75     Cisse, Dal.               2   5 2.50     Bailey, Utah              2   70 34.9
+Bailey, Utah               2    4 2.00     Konan Niederhauser, LA-C  2   3 1.50     Barnhizer, OKC.           4  126 31.6
+Penda, Orl.                3    6 2.00     Yang, Por.                2   3 1.50     Peter, Ind.               2   55 27.5
+Peter, Ind.                2    4 2.00     Austin, OKC.              4   4 1.00     Clayton Jr., Utah         2   54 27.0
+Barnhizer, OKC.            4    7 1.75     Beringer, Min.            3   3 1.00     Clifford, Sac.            2   50 24.9
+Broome, Phi.               3    5 1.67     Fleming, Pho.             3   3 1.00     Thompson, Mia.            3   70 23.4
+Clifford, Sac.             2    3 1.50     Gardner, Mia.             4   4 1.00     Knueppel, Cha.            3   70 23.3
+Flagg, Dal.                2    3 1.50     Gonzalez, Bos.            3   3 1.00     Bryant, S.A.              3   70 23.2
+Peavy, N.O.                2    3 1.50     Nembhard, Dal.            2   2 1.00     Fears, N.O.               2   46 23.1
+Coward, Mem.               3    4 1.33     Peavy, N.O.               2   2 1.00     T. Johnson, Was.          1   23 22.6
 
