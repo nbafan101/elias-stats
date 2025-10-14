@@ -1,11 +1,12 @@
 
-INCLUDES GAMES OF SUNDAY, OCTOBER 12, 2025
+INCLUDES GAMES OF MONDAY, OCTOBER 13, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
-Minutes -- 39, Bailey, UTA at SA, 10/10 (OT)
+Minutes -- 42, Toppin, ATL vs. MIA, 10/13 (OT)
 Minutes -- 38, Barnhizer, OKC at IND, 10/11
 Field Goals -- 12, Ware, MIA vs. SA, 10/8
+FG Attempts -- 23, Toppin, ATL vs. MIA, 10/13 (OT)
 FG Attempts -- 19, Booker, PHO at LAL, 10/3
 FG Attempts -- 19, Ware, MIA vs. SA, 10/8
 3-Pt. Field Goals -- 6, Juzang, MIN vs. IND, 10/7 (OT)
@@ -15,23 +16,26 @@ FG Attempts -- 19, Ware, MIA vs. SA, 10/8
 Free Throws -- 12, Sensabaugh, UTA at SA, 10/10 (OT)
 Free Throws -- 10, F. Wagner, ORL vs. MIA, 10/12
 FT Attempts -- 12, Sensabaugh, UTA at SA, 10/10 (OT)
-FT Attempts -- 10, (7 times, most recently) F. Wagner, ORL vs. MIA, 10/12
+FT Attempts -- 10, (8 times, most recently) Marshall, DAL at UTA, 10/13
+Off. Rebounds -- 9, Bassey, ATL vs. MIA, 10/13 (OT)
 Off. Rebounds -- 7, Kornet, SA at MIA, 10/8
-Def. Rebounds -- 11, Robinson, NY vs. PHI, 10/2
+Def. Rebounds -- 13, Nurkic, UTA vs. DAL, 10/13
+Rebounds -- 17, Bassey, ATL vs. MIA, 10/13 (OT)
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
 Assists -- 13, Sengun, HOU vs. UTA, 10/8
 Steals -- 5, Booker, PHO at BKN, 10/10 (OT)
 Steals -- 4, (9 times, most recently) LaRavia, LAL vs. GS, 10/12
-Turnovers -- 6, Jokic, DEN at TOR, 10/6
-Turnovers -- 6, Wembanyama, SA vs. GUA, 10/6
+Turnovers -- 7, Wembanyama, SA at IND, 10/13
+Blocks -- 5, Bassey, ATL vs. MIA, 10/13 (OT)
 Blocks -- 5, Jay. Williams, OKC vs. CHA, 10/9
-Points -- 29, Ware, MIA vs. SA, 10/8
+Points -- 31, Mathurin, IND vs. SA, 10/13
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
 Field Goals -- 52, Houston vs. UTA, 10/8
 Field Goals -- 52, L.A. Clippers vs. GUA, 10/9
 Fewest Field Goals -- 23, L.A. Lakers vs. PHO, 10/3
+FG Attempts -- 113, Miami at ATL, 10/13 (OT)
 FG Attempts -- 107, Toronto at WAS, 10/12
 Fewest FG Attempts -- 67, Denver at TOR, 10/6
 Field Goal Pct. -- .627, L.A. Clippers vs. GUA, 10/9
@@ -48,12 +52,14 @@ Fewest FT Attempts -- 8, Golden State at LAL, 10/12
 Free Throw Pct. -- .919, Utah at SA, 10/10 (OT)
 Free Throw Pct. -- .905, Boston at TOR, 10/10
 Lowest Free Throw Pct. -- .500, Brooklyn vs. HAP, 10/4
+Off. Rebounds -- 23, Miami at ATL, 10/13 (OT)
 Off. Rebounds -- 23, Portland at GS, 10/8
 Off. Rebounds -- 23, Orlando vs. MIA, 10/12
 Fewest Off. Rebounds -- 3, Milwaukee at MIA, 10/6
 Fewest Off. Rebounds -- 3, Milwaukee vs. DET, 10/9
 Def. Rebounds -- 50, Miami vs. MIL, 10/6
 Fewest Def. Rebounds -- 19, Toronto vs. BOS, 10/10
+Rebounds -- 70, Miami at ATL, 10/13 (OT)
 Rebounds -- 63, Washington vs. TOR, 10/12
 Fewest Rebounds -- 31, Milwaukee vs. DET, 10/9
 Assists -- 42, L.A. Clippers vs. GUA, 10/9
@@ -65,6 +71,7 @@ Steals -- 19, Cleveland vs. CHI, 10/7
 Turnovers -- 34, Brooklyn vs. PHO, 10/10 (OT)
 Turnovers -- 31, Denver at TOR, 10/6
 Fewest Turnovers -- 10, Chicago vs. MIL, 10/12
+Blocks -- 15, Atlanta vs. MIA, 10/13 (OT)
 Blocks -- 13, Oklahoma City vs. CHA, 10/9
 Points -- 142, L.A. Clippers vs. GUA, 10/9
 Fewest Points -- 81, L.A. Lakers vs. PHO, 10/3
