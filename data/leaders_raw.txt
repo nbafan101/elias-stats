@@ -1,49 +1,49 @@
 
-PRESEASON / INCLUDES GAMES OF WEDNESDAY, OCTOBER 15, 2025
+PRESEASON / INCLUDES GAMES OF THURSDAY, OCTOBER 16, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Sensabaugh, Utah       3   21  13   66 22.0     Ware, Mia.            5   15   40   55 11.0     Sengun, Hou.           3   26  8.7
-White, Bos.            3   21  13   65 21.7     Robinson, N.Y.        3    9   21   30 10.0     Harden, LA-C           3   23  7.7
-Booker, Pho.           3   16  21   60 20.0     Ayton, LA-L           4   11   25   36  9.0     White, Bos.            3   21  7.0
-Sharpe, Por.           3   22   6   57 19.0     Bagley, Was.          2    9    9   18  9.0     Dillingham, Min.       4   27  6.8
-Mathurin, Ind.         3   18  13   55 18.3     Bridges, Cha.         4    6   30   36  9.0     George, Utah           3   19  6.3
-Simons, Bos.           3   16  11   53 17.7     Nurkic, Utah          3    4   23   27  9.0     Small, Mem.            3   19  6.3
-Smith Jr., Hou.        3   17  10   53 17.7     Clingan, Por.         3   18    8   26  8.7     Giddey, Chi.           4   24  6.0
-St. Curry, G.S.        3   14  16   53 17.7     Vucevic, Chi.         3    5   20   25  8.3     Booker, Pho.           3   17  5.7
-Ware, Mia.             5   35   9   87 17.4     Claxton, Bkn.         3    6   18   24  8.0     Saraf, Bkn.            3   17  5.7
-Ball, Cha.             4   24   6   69 17.3     Missi, N.O.           3    9   15   24  8.0     Holiday, Por.          3   16  5.3
-Buzelis, Chi.          4   23  14   69 17.3     Wembanyama, S.A.      4    5   27   32  8.0     Paul, LA-C             3   16  5.3
-Hunter, Cle.           3   16  12   51 17.0     Kalkbrenner, Cha.     4   14   17   31  7.8     Ball, Cha.             4   21  5.3
-Thompson, Hou.         3   18  11   51 17.0     Zubac, LA-C           3    7   16   23  7.7     Jokic, Den.            4   21  5.3
-Wembanyama, S.A.       4   22  20   68 17.0     Bitadze, Orl.         3   12   10   22  7.3     Clayton Jr., Utah      3   15  5.0
-Leonard, LA-C          3   16  12   50 16.7     Carter Jr., Orl.      3   11   11   22  7.3     Jones, Chi.            3   15  5.0
-Murray, Den.           4   21  17   66 16.5     Sabonis, Sac.         3    4   18   22  7.3     Nembhard, Dal.         4   20  5.0
-Gordon, Den.           3   16  12   49 16.3     Sengun, Hou.          3    5   17   22  7.3     Pritchard, Bos.        3   15  5.0
-5 tied                 3   18   3   48 16.0     Aldama, Mem.          4    7   22   29  7.3     Wallace, Atl.          3   15  5.0
-                                                Barnhizer, OKC.       5    9   27   36  7.2     Wallace, OKC.          4   20  5.0
-                                                6 tied                                  7.0     Shead, Tor.            5   24  4.8
+White, Bos.            3   21  13   65 21.7     Ware, Mia.            5   15   40   55 11.0     Sengun, Hou.           3   26  8.7
+Cunningham, Det.       3   22  11   62 20.7     Robinson, N.Y.        3    9   21   30 10.0     Young, Atl.            3   26  8.7
+Booker, Pho.           3   16  21   60 20.0     Ayton, LA-L           4   11   25   36  9.0     Harden, LA-C           3   23  7.7
+Sensabaugh, Utah       4   25  16   78 19.5     Bridges, Cha.         4    6   30   36  9.0     Cunningham, Det.       3   22  7.3
+Sharpe, Por.           4   28  12   77 19.3     Clingan, Por.         4   23   13   36  9.0     White, Bos.            3   21  7.0
+Mathurin, Ind.         3   18  13   55 18.3     Vucevic, Chi.         4    7   28   35  8.8     Giddey, Chi.           5   33  6.6
+Grant, Por.            4   18  29   72 18.0     Claxton, Bkn.         3    6   18   24  8.0     Dillingham, Min.       5   32  6.4
+Simons, Bos.           3   16  11   53 17.7     Wembanyama, S.A.      4    5   27   32  8.0     Small, Mem.            3   19  6.3
+Smith Jr., Hou.        3   17  10   53 17.7     Kalkbrenner, Cha.     4   14   17   31  7.8     Holiday, Por.          4   23  5.8
+St. Curry, G.S.        3   14  16   53 17.7     Missi, N.O.           4   13   18   31  7.8     Booker, Pho.           3   17  5.7
+Buzelis, Chi.          5   31  15   88 17.6     Nurkic, Utah          4    6   25   31  7.8     Saraf, Bkn.            3   17  5.7
+Ware, Mia.             5   35   9   87 17.4     Bagley, Was.          3   12   11   23  7.7     Paul, LA-C             3   16  5.3
+Ball, Cha.             4   24   6   69 17.3     Zubac, LA-C           3    7   16   23  7.7     Ball, Cha.             4   21  5.3
+Hunter, Cle.           3   16  12   51 17.0     Sabonis, Sac.         3    4   18   22  7.3     George, Utah           4   21  5.3
+Thompson, Hou.         3   18  11   51 17.0     Sengun, Hou.          3    5   17   22  7.3     Jokic, Den.            4   21  5.3
+Wembanyama, S.A.       4   22  20   68 17.0     Aldama, Mem.          4    7   22   29  7.3     Clayton Jr., Utah      4   20  5.0
+Leonard, LA-C          3   16  12   50 16.7     Carter Jr., Orl.      4   15   14   29  7.3     Nembhard, Dal.         4   20  5.0
+Murray, Den.           4   21  17   66 16.5     Barnhizer, OKC.       5    9   27   36  7.2     Pritchard, Bos.        3   15  5.0
+3 tied                 3   16  12   49 16.3     4 tied                                  7.0     Wallace, Atl.          4   20  5.0
+                                                                                                Wallace, OKC.          4   20  5.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Kornet, S.A.            18   22  .818     Wolf, Bkn.               3   3 1.000     27 tied                        1.000
-Collins, Chi.           20   25  .800     Braun, Den.              7   9  .778                                         
-Johnson, S.A.           22   28  .786     Drummond, Phi.           3   4  .750                                         
+Kornet, S.A.            18   22  .818     Wolf, Bkn.               3   3 1.000     25 tied                        1.000
+Johnson, S.A.           22   28  .786     Braun, Den.              7   9  .778                                         
+Collins, Chi.           25   32  .781     Drummond, Phi.           3   4  .750                                         
 Braun, Den.             17   22  .773     Johnson, S.A.            5   7  .714                                         
 Jokic, Den.             22   29  .759     Hunter, Cle.             7  10  .700                                         
-Kalkbrenner, Cha.       18   24  .750     Richardson, Orl.         7  10  .700                                         
-Payton II, G.S.         15   20  .750     Collins, LA-C            4   6  .667                                         
-Vukcevic, Was.           8   11  .727     Mann, Bkn.               4   6  .667                                         
-Missi, N.O.             13   18  .722     Mathurin, Ind.           6   9  .667                                         
-Zubac, LA-C             14   20  .700     Nurkic, Utah             6   9  .667                                         
+Kalkbrenner, Cha.       18   24  .750     Collins, LA-C            4   6  .667                                         
+Payton II, G.S.         15   20  .750     Mann, Bkn.               4   6  .667                                         
+Zubac, LA-C             14   20  .700     Mathurin, Ind.           6   9  .667                                         
+Collins, LA-C           16   23  .696     Nurkic, Utah             6   9  .667                                         
+Mathurin, Ind.          18   26  .692     Thompson, Hou.           4   6  .667                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Williamson, N.O.           3    9 3.00     White, Bos.               3   9 3.00     Barnhizer, OKC.           5  154 30.9
-Jones, Chi.                3    8 2.67     Cisse, Dal.               3   7 2.33     Hendricks, Utah           3   90 29.9
-Mitchell, Cle.             3    8 2.67     Missi, N.O.               3   7 2.33     Barlow, Phi.              3   89 29.6
-Hepburn, Tor.              5   12 2.40     Allen, Cle.               3   6 2.00     Knecht, LA-L              5  147 29.5
-Chandler, Phi.             3    7 2.33     Ayton, LA-L               4   8 2.00     George, Utah              3   87 28.9
-Wallace, OKC.              4    9 2.25     Bitadze, Orl.             3   6 2.00     White, Bos.               3   84 27.9
-Booker, Pho.               3    6 2.00     George, Was.              2   4 2.00     Chandler, Phi.            3   83 27.8
-Jones, Was.                2    4 2.00     Mobley, Cle.              3   6 2.00     Clayton Jr., Utah         3   83 27.8
-Penda, Orl.                3    6 2.00     Buzelis, Chi.             4   7 1.75     Simons, Bos.              3   83 27.6
-Sengun, Hou.               3    6 2.00     Bona, Phi.                3   5 1.67     Small, Mem.               3   82 27.3
+Jones, Chi.                4   12 3.00     White, Bos.               3   9 3.00     Barnhizer, OKC.           5  154 30.9
+Mitchell, Cle.             3    8 2.67     Cisse, Dal.               3   7 2.33     Barlow, Phi.              3   89 29.6
+Williamson, N.O.           4   10 2.50     Allen, Cle.               3   6 2.00     Knecht, LA-L              5  147 29.5
+Hepburn, Tor.              5   12 2.40     Ayton, LA-L               4   8 2.00     Hendricks, Utah           4  114 28.5
+Chandler, Phi.             3    7 2.33     Banchero, Orl.            3   6 2.00     George, Utah              4  113 28.2
+Wallace, OKC.              4    9 2.25     Missi, N.O.               4   8 2.00     White, Bos.               3   84 27.9
+Booker, Pho.               3    6 2.00     Mobley, Cle.              3   6 2.00     Chandler, Phi.            3   83 27.8
+Cunningham, Det.           3    6 2.00     Buzelis, Chi.             5   9 1.80     Sharpe, Por.              4  111 27.7
+Sengun, Hou.               3    6 2.00     Bona, Phi.                3   5 1.67     Simons, Bos.              3   83 27.6
+Barnhizer, OKC.            5    9 1.80     George, Was.              3   5 1.67     Small, Mem.               3   82 27.3
 

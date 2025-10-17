@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF WEDNESDAY, OCTOBER 15, 2025
+INCLUDES GAMES OF THURSDAY, OCTOBER 16, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -8,11 +8,10 @@ Minutes -- 38, Barnhizer, OKC at IND, 10/11
 Field Goals -- 14, Butler, PHO vs. LAL, 10/14
 FG Attempts -- 25, Butler, PHO vs. LAL, 10/14
 3-Pt. Field Goals -- 6, Juzang, MIN vs. IND, 10/7 (OT)
-3-Pt. Field Goals -- 6, (4 times, most recently) White, BOS vs. TOR, 10/15
+3-Pt. Field Goals -- 6, (5 times, most recently) Holiday, POR at UTA, 10/16
 3-Pt. FG Attempts -- 17, White, BOS vs. TOR, 10/15
-Free Throws -- 12, Sensabaugh, UTA at SA, 10/10 (OT)
-Free Throws -- 12, St. Curry, GS at POR, 10/14
-FT Attempts -- 13, St. Curry, GS at POR, 10/14
+Free Throws -- 13, Grant, POR at UTA, 10/16
+FT Attempts -- 14, Grant, POR at UTA, 10/16
 Off. Rebounds -- 9, Bassey, ATL vs. MIA, 10/13 (OT)
 Off. Rebounds -- 9, Diabate, CHA vs. MEM, 10/15
 Def. Rebounds -- 13, Nurkic, UTA vs. DAL, 10/13
@@ -45,8 +44,7 @@ Free Throws -- 37, Orlando at PHI, 10/10
 Free Throws -- 37, Denver vs. CHI, 10/14
 Fewest Free Throws -- 3, Phoenix vs. LAL, 10/14
 FT Attempts -- 46, Phoenix at BKN, 10/10 (OT)
-FT Attempts -- 42, Memphis vs. BOS, 10/8
-FT Attempts -- 42, Orlando at PHI, 10/10
+FT Attempts -- 43, Utah vs. POR, 10/16
 Fewest FT Attempts -- 8, (3 times, most recently) Sacramento vs. LAC, 10/15
 Free Throw Pct. -- .926, New Orleans vs. HOU, 10/14
 Lowest Free Throw Pct. -- .375, Phoenix vs. LAL, 10/14
@@ -63,7 +61,7 @@ Fewest Rebounds -- 31, Milwaukee vs. DET, 10/9
 Assists -- 42, L.A. Clippers vs. GUA, 10/9
 Fewest Assists -- 10, L.A. Lakers vs. PHO, 10/3
 Personal Fouls -- 39, Phoenix at BKN, 10/10 (OT)
-Personal Fouls -- 33, (3 times, most recently) Atlanta at MEM, 10/11
+Personal Fouls -- 38, Portland at UTA, 10/16
 Fewest Personal Fouls -- 9, Houston vs. UTA, 10/8
 Steals -- 19, Cleveland vs. CHI, 10/7
 Turnovers -- 34, Brooklyn vs. PHO, 10/10 (OT)
