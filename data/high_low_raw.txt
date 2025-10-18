@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF THURSDAY, OCTOBER 16, 2025
+INCLUDES GAMES OF FRIDAY, OCTOBER 17, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -7,8 +7,9 @@ Minutes -- 42, Toppin, ATL vs. MIA, 10/13 (OT)
 Minutes -- 38, Barnhizer, OKC at IND, 10/11
 Field Goals -- 14, Butler, PHO vs. LAL, 10/14
 FG Attempts -- 25, Butler, PHO vs. LAL, 10/14
+FG Attempts -- 25, Brunson, NY vs. CHA, 10/17
 3-Pt. Field Goals -- 6, Juzang, MIN vs. IND, 10/7 (OT)
-3-Pt. Field Goals -- 6, (5 times, most recently) Holiday, POR at UTA, 10/16
+3-Pt. Field Goals -- 6, (8 times, most recently) Porter Jr., BKN at TOR, 10/17
 3-Pt. FG Attempts -- 17, White, BOS vs. TOR, 10/15
 Free Throws -- 13, Grant, POR at UTA, 10/16
 FT Attempts -- 14, Grant, POR at UTA, 10/16
@@ -19,8 +20,8 @@ Rebounds -- 17, Bassey, ATL vs. MIA, 10/13 (OT)
 Rebounds -- 16, Robinson, NY vs. PHI, 10/2
 Assists -- 13, Sengun, HOU vs. UTA, 10/8
 Steals -- 5, Booker, PHO at BKN, 10/10 (OT)
-Steals -- 5, Wallace, OKC at MIL, 10/14
-Turnovers -- 7, Wembanyama, SA at IND, 10/13
+Steals -- 5, (3 times, most recently) Nnaji, DEN at OKC, 10/17
+Turnovers -- 9, Sexton, CHA at NY, 10/17
 Blocks -- 5, Bassey, ATL vs. MIA, 10/13 (OT)
 Blocks -- 5, Jay. Williams, OKC vs. CHA, 10/9
 Blocks -- 5, Buzelis, CHI at DEN, 10/14
@@ -46,7 +47,7 @@ Fewest Free Throws -- 3, Phoenix vs. LAL, 10/14
 FT Attempts -- 46, Phoenix at BKN, 10/10 (OT)
 FT Attempts -- 43, Utah vs. POR, 10/16
 Fewest FT Attempts -- 8, (3 times, most recently) Sacramento vs. LAC, 10/15
-Free Throw Pct. -- .926, New Orleans vs. HOU, 10/14
+Free Throw Pct. -- .933, Indiana at SA, 10/17
 Lowest Free Throw Pct. -- .375, Phoenix vs. LAL, 10/14
 Off. Rebounds -- 23, Miami at ATL, 10/13 (OT)
 Off. Rebounds -- 23, Portland at GS, 10/8
