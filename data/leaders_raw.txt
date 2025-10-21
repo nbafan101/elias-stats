@@ -9,7 +9,7 @@ Sensabaugh, Utah       4   25  16   78 19.5     Wembanyama, S.A.      5    8   3
 Sharpe, Por.           4   28  12   77 19.3     Claxton, Bkn.         4   10   25   35  8.8     White, Bos.            3   21  7.0
 Porter Jr., Bkn.       4   27   8   75 18.8     Vucevic, Chi.         4    7   28   35  8.8     Giddey, Chi.           5   33  6.6
 Maxey, Phi.            4   26  13   74 18.5     Bridges, Cha.         5    6   35   41  8.2     Dillingham, Min.       6   39  6.5
-St. Curry, G.S.        4   21  18   73 18.3     Missi, N.O.           4   13   18   31  7.8     Small, Mem.            4   24  6.0
+Curry, G.S.            4   21  18   73 18.3     Missi, N.O.           4   13   18   31  7.8     Small, Mem.            4   24  6.0
 Grant, Por.            4   18  29   72 18.0     Nurkic, Utah          4    6   25   31  7.8     Holiday, Por.          4   23  5.8
 Ware, Mia.             6   42  15  107 17.8     Bagley, Was.          3   12   11   23  7.7     Booker, Pho.           3   17  5.7
 Barrett, Tor.          5   30  17   89 17.8     Sabonis, Sac.         3    4   18   22  7.3     Saraf, Bkn.            4   22  5.5
