@@ -1,77 +1,62 @@
 
-INCLUDES GAMES OF TUESDAY, OCTOBER 21, 2025
+INCLUDES GAMES OF WEDNESDAY, OCTOBER 22, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 49, Sengun, HOU at OKC, 10/21 (2 OT)
-Minutes -- 41, Doncic, LAL vs. GS, 10/21
+Minutes -- 42, Edgecombe, PHI at BOS, 10/22
 Field Goals -- 17, Doncic, LAL vs. GS, 10/21
-FG Attempts -- 27, Doncic, LAL vs. GS, 10/21
-3-Pt. Field Goals -- 5, Sengun, HOU at OKC, 10/21 (2 OT)
-3-Pt. Field Goals -- 5, Hield, GS at LAL, 10/21
-3-Pt. FG Attempts -- 10, Doncic, LAL vs. GS, 10/21
-3-Pt. FG Attempts -- 10, Hield, GS at LAL, 10/21
+FG Attempts -- 28, Edwards, MIN at POR, 10/22
+3-Pt. Field Goals -- 7, Maxey, PHI at BOS, 10/22
+3-Pt. FG Attempts -- 13, White, BOS vs. PHI, 10/22
+3-Pt. FG Attempts -- 13, Edgecombe, PHI at BOS, 10/22
 Free Throws -- 16, Butler, GS at LAL, 10/21
 FT Attempts -- 16, Butler, GS at LAL, 10/21
 Off. Rebounds -- 5, Adams, HOU at OKC, 10/21 (2 OT)
 Off. Rebounds -- 5, Hartenstein, OKC vs. HOU, 10/21 (2 OT)
-Off. Rebounds -- 3, Kuminga, GS at LAL, 10/21
-Def. Rebounds -- 12, Doncic, LAL vs. GS, 10/21
-Rebounds -- 13, Adams, HOU at OKC, 10/21 (2 OT)
-Rebounds -- 12, Doncic, LAL vs. GS, 10/21
-Assists -- 9, (3 times, most recently) Green, GS at LAL, 10/21
-Steals -- 4, Wallace, OKC vs. HOU, 10/21 (2 OT)
-Steals -- 3, Curry, GS at LAL, 10/21
-Turnovers -- 5, Reaves, LAL vs. GS, 10/21
-Blocks -- 2, Gilgeous-Alexander, OKC vs. HOU, 10/21 (2 OT)
-Blocks -- 2, Green, GS at LAL, 10/21
+Off. Rebounds -- 5, (6 times, most recently) Dunn, PHO vs. SAC, 10/22
+Def. Rebounds -- 14, Wembanyama, SA at DAL, 10/22
+Rebounds -- 15, Wembanyama, SA at DAL, 10/22
+Assists -- 12, Mitchell, MIA at ORL, 10/22
+Steals -- 5, Williamson, NO at MEM, 10/22
+Turnovers -- 6, (3 times, most recently) DiVincenzo, MIN at POR, 10/22
+Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Points -- 43, Doncic, LAL vs. GS, 10/21
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
-Field Goals -- 46, Oklahoma City vs. HOU, 10/21 (2 OT)
-Field Goals -- 42, L.A. Lakers vs. GS, 10/21
-Fewest Field Goals -- 38, Golden State at LAL, 10/21
+Field Goals -- 54, Toronto at ATL, 10/22
+Fewest Field Goals -- 31, Dallas vs. SA, 10/22
 FG Attempts -- 104, Oklahoma City vs. HOU, 10/21 (2 OT)
-FG Attempts -- 78, Golden State at LAL, 10/21
+FG Attempts -- 98, (3 times, most recently) New Orleans at MEM, 10/22
 Fewest FG Attempts -- 77, L.A. Lakers vs. GS, 10/21
-Field Goal Pct. -- .545, L.A. Lakers vs. GS, 10/21
-Lowest Field Goal Pct. -- .442, Oklahoma City vs. HOU, 10/21 (2 OT)
-3-Pt. Field Goals -- 17, Golden State at LAL, 10/21
+Field Goal Pct. -- .575, San Antonio at DAL, 10/22
+Lowest Field Goal Pct. -- .373, Dallas vs. SA, 10/22
+3-Pt. Field Goals -- 19, Cleveland at NY, 10/22
 3-Pt. FG Attempts -- 52, Oklahoma City vs. HOU, 10/21 (2 OT)
-3-Pt. FG Attempts -- 40, Golden State at LAL, 10/21
-3-Pt. FG Pct. -- .425, Golden State at LAL, 10/21
-Free Throws -- 27, Houston at OKC, 10/21 (2 OT)
-Free Throws -- 26, Golden State at LAL, 10/21
-Fewest Free Throws -- 17, L.A. Lakers vs. GS, 10/21
-FT Attempts -- 31, Houston at OKC, 10/21 (2 OT)
-FT Attempts -- 29, Golden State at LAL, 10/21
-Fewest FT Attempts -- 25, Oklahoma City vs. HOU, 10/21 (2 OT)
+3-Pt. FG Attempts -- 46, Cleveland at NY, 10/22
+3-Pt. FG Pct. -- .500, Minnesota at POR, 10/22
+Free Throws -- 35, Memphis vs. NO, 10/22
+Fewest Free Throws -- 11, Washington at MIL, 10/22
+FT Attempts -- 43, Memphis vs. NO, 10/22
+Fewest FT Attempts -- 18, Cleveland at NY, 10/22
 Free Throw Pct. -- .897, Golden State at LAL, 10/21
-Lowest Free Throw Pct. -- .607, L.A. Lakers vs. GS, 10/21
-Off. Rebounds -- 16, Houston at OKC, 10/21 (2 OT)
-Off. Rebounds -- 9, Golden State at LAL, 10/21
-Fewest Off. Rebounds -- 7, L.A. Lakers vs. GS, 10/21
-Def. Rebounds -- 36, Houston at OKC, 10/21 (2 OT)
-Def. Rebounds -- 32, L.A. Lakers vs. GS, 10/21
-Fewest Def. Rebounds -- 27, Oklahoma City vs. HOU, 10/21 (2 OT)
-Rebounds -- 52, Houston at OKC, 10/21 (2 OT)
-Rebounds -- 40, Golden State at LAL, 10/21
-Fewest Rebounds -- 38, Oklahoma City vs. HOU, 10/21 (2 OT)
-Assists -- 29, Oklahoma City vs. HOU, 10/21 (2 OT)
-Assists -- 29, Golden State at LAL, 10/21
-Fewest Assists -- 23, Houston at OKC, 10/21 (2 OT)
-Fewest Assists -- 23, L.A. Lakers vs. GS, 10/21
-Personal Fouls -- 27, Oklahoma City vs. HOU, 10/21 (2 OT)
-Personal Fouls -- 27, Golden State at LAL, 10/21
-Fewest Personal Fouls -- 21, L.A. Lakers vs. GS, 10/21
+Lowest Free Throw Pct. -- .565, Sacramento at PHO, 10/22
+Off. Rebounds -- 18, Phoenix vs. SAC, 10/22
+Fewest Off. Rebounds -- 4, Cleveland at NY, 10/22
+Def. Rebounds -- 43, Washington at MIL, 10/22
+Fewest Def. Rebounds -- 23, L.A. Clippers at UTA, 10/22
+Rebounds -- 56, Washington at MIL, 10/22
+Fewest Rebounds -- 32, Cleveland at NY, 10/22
+Assists -- 38, Utah vs. LAC, 10/22
+Fewest Assists -- 16, Boston vs. PHI, 10/22
+Personal Fouls -- 31, Toronto at ATL, 10/22
+Fewest Personal Fouls -- 17, Portland vs. MIN, 10/22
 Steals -- 12, Oklahoma City vs. HOU, 10/21 (2 OT)
-Steals -- 10, Golden State at LAL, 10/21
+Steals -- 11, Utah vs. LAC, 10/22
 Turnovers -- 25, Houston at OKC, 10/21 (2 OT)
 Turnovers -- 20, L.A. Lakers vs. GS, 10/21
-Fewest Turnovers -- 12, Oklahoma City vs. HOU, 10/21 (2 OT)
-Blocks -- 5, Houston at OKC, 10/21 (2 OT)
-Blocks -- 4, Golden State at LAL, 10/21
-Points -- 125, Oklahoma City vs. HOU, 10/21 (2 OT)
-Points -- 119, Golden State at LAL, 10/21
-Fewest Points -- 109, L.A. Lakers vs. GS, 10/21
+Fewest Turnovers -- 8, Milwaukee vs. WAS, 10/22
+Blocks -- 12, Memphis vs. NO, 10/22
+Points -- 138, Toronto at ATL, 10/22
+Fewest Points -- 92, Dallas vs. SA, 10/22
