@@ -1,5 +1,5 @@
 
-ROOKIE LEADERS / INCLUDES GAMES OF WEDNESDAY, OCTOBER 22, 2025
+ROOKIE LEADERS / INCLUDES GAMES OF THURSDAY, OCTOBER 23, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Edgecombe, Phi.        1   13   3   34 34.0     Kalkbrenner, Cha.     1    5    6   11 11.0     Clayton Jr., Utah      1    5  5.0
@@ -14,26 +14,26 @@ Flagg, Dal.            1    4   2   10 10.0     Queen, N.O.           1    1    
 Kalkbrenner, Cha.      1    5   0   10 10.0     T. Johnson, Was.      1    2    3    5  5.0     Harper, S.A.           1    2  2.0
 Nembhard, Dal.         1    3   2    8  8.0     Bailey, Utah          1    1    3    4  4.0     James, Cha.            1    2  2.0
 Saraf, Bkn.            1    2   4    8  8.0     Harper, S.A.          1    1    3    4  4.0     Jones Garcia, S.A.     1    2  2.0
-Jones Garcia, S.A.     1    2   1    5  5.0     James, Cha.           1    1    3    4  4.0     Proctor, Cle.          1    2  2.0
-Proctor, Cle.          1    2   0    5  5.0     Raynaud, Sac.         1    0    4    4  4.0     Raynaud, Sac.          1    2  2.0
-Richard, G.S.          1    2   0    5  5.0     Coward, Mem.          1    0    3    3  3.0     T. Johnson, Was.       1    2  2.0
-Konan Niederhauser, LA 1    1   2    4  4.0     Bryant, S.A.          1    0    2    2  2.0     Coward, Mem.           1    1  1.0
-Cardwell, Sac.         1    1   1    3  3.0     Powell, Bkn.          1    0    2    2  2.0     Kalkbrenner, Cha.      1    1  1.0
-Queen, N.O.            1    1   1    3  3.0     Cardwell, Sac.        1    1    0    1  1.0     Knueppel, Cha.         1    1  1.0
-Traore, Bkn.           1    1   0    3  3.0     Jones Garcia, S.A.    1    1    0    1  1.0     Richard, G.S.          1    1  1.0
-Bailey, Utah           1    1   0    2  2.0     Konan Niederhauser, L 1    1    0    1  1.0     Riley, Was.            1    1  1.0
+Richard, G.S.          2    4   1   11  5.5     James, Cha.           1    1    3    4  4.0     Proctor, Cle.          1    2  2.0
+Jones Garcia, S.A.     1    2   1    5  5.0     Raynaud, Sac.         1    0    4    4  4.0     Raynaud, Sac.          1    2  2.0
+Proctor, Cle.          1    2   0    5  5.0     Coward, Mem.          1    0    3    3  3.0     Richard, G.S.          2    4  2.0
+Konan Niederhauser, LA 1    1   2    4  4.0     Richard, G.S.         2    2    4    6  3.0     T. Johnson, Was.       1    2  2.0
+Cardwell, Sac.         1    1   1    3  3.0     Bryant, S.A.          1    0    2    2  2.0     Coward, Mem.           1    1  1.0
+Peter, Ind.            1    1   0    3  3.0     Powell, Bkn.          1    0    2    2  2.0     Kalkbrenner, Cha.      1    1  1.0
+Queen, N.O.            1    1   1    3  3.0     Barnhizer, OKC.       2    1    2    3  1.5     Knueppel, Cha.         1    1  1.0
+Traore, Bkn.           1    1   0    3  3.0     Cardwell, Sac.        1    1    0    1  1.0     Peter, Ind.            1    1  1.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Coward, Mem.             5    5 1.000     Richard, G.S.            1   1 1.000     Clayton Jr., Utah        1   1 1.000
+Coward, Mem.             5    5 1.000     Youngblood, OKC.         1   1 1.000     Clayton Jr., Utah        1   1 1.000
 Jones Garcia, S.A.       2    2 1.000     Knueppel, Cha.           3   4  .750     Coward, Mem.             4   4 1.000
-Richard, G.S.            2    2 1.000     Demin, Bkn.              4   6  .667     Demin, Bkn.              2   2 1.000
-Kalkbrenner, Cha.        5    6  .833     Harper, S.A.             1   2  .500     Fears, N.O.              3   3 1.000
-Fears, N.O.              7   10  .700     T. Johnson, Was.         4   8  .500     Flagg, Dal.              2   2 1.000
-Demin, Bkn.              4    6  .667     Traore, Bkn.             1   2  .500     Jones Garcia, S.A.       1   1 1.000
-Knueppel, Cha.           4    6  .667     Edgecombe, Phi.          5  13  .385     Nembhard, Dal.           2   2 1.000
-Nembhard, Dal.           3    5  .600     Clayton Jr., Utah        1   3  .333     T. Johnson, Was.         2   2 1.000
-Clayton Jr., Utah        4    8  .500     Proctor, Cle.            1   3  .333     Yang, Por.               2   2 1.000
-Edgecombe, Phi.         13   26  .500                                              Saraf, Bkn.              4   6  .667
+Kalkbrenner, Cha.        5    6  .833     Demin, Bkn.              4   6  .667     Demin, Bkn.              2   2 1.000
+Fears, N.O.              7   10  .700     Harper, S.A.             1   2  .500     Fears, N.O.              3   3 1.000
+Demin, Bkn.              4    6  .667     Peter, Ind.              1   2  .500     Flagg, Dal.              2   2 1.000
+Knueppel, Cha.           4    6  .667     T. Johnson, Was.         4   8  .500     Jones Garcia, S.A.       1   1 1.000
+Nembhard, Dal.           3    5  .600     Traore, Bkn.             1   2  .500     Nembhard, Dal.           2   2 1.000
+Richard, G.S.            4    7  .571     Richard, G.S.            2   5  .400     T. Johnson, Was.         2   2 1.000
+Clayton Jr., Utah        4    8  .500     Edgecombe, Phi.          5  13  .385     Yang, Por.               2   2 1.000
+Edgecombe, Phi.         13   26  .500     Clayton Jr., Utah        1   3  .333     Saraf, Bkn.              4   6  .667
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Clayton Jr., Utah          1    2 2.00     Cardwell, Sac.            1   2 2.00     Edgecombe, Phi.           1   42 42.2
@@ -44,11 +44,11 @@ Cardwell, Sac.             1    1 1.00     Dickinson, N.O.           1   1 1.00 
 Demin, Bkn.                1    1 1.00     James, Cha.               1   1 1.00     Clifford, Sac.            1   24 23.7
 Edgecombe, Phi.            1    1 1.00     Queen, N.O.               1   1 1.00     Harper, S.A.              1   23 22.7
 Flagg, Dal.                1    1 1.00     Small, Mem.               1   1 1.00     Demin, Bkn.               1   22 22.3
-Richard, G.S.              1    1 1.00     T. Johnson, Was.          1   1 1.00     Coward, Mem.              1   22 22.2
-Riley, Was.                1    1 1.00     Bailey, Utah              1   0 0.00     Bailey, Utah              1   20 20.2
+Peter, Ind.                1    1 1.00     T. Johnson, Was.          1   1 1.00     Coward, Mem.              1   22 22.2
+Richard, G.S.              2    2 1.00     Bailey, Utah              1   0 0.00     Bailey, Utah              1   20 20.2
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF WEDNESDAY, OCTOBER 22, 2025
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF THURSDAY, OCTOBER 23, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Edgecombe, Phi.        1   13   3   34 34.0     Kalkbrenner, Cha.     1    5    6   11 11.0     Clayton Jr., Utah      1    5  5.0
@@ -63,26 +63,26 @@ Flagg, Dal.            1    4   2   10 10.0     Queen, N.O.           1    1    
 Kalkbrenner, Cha.      1    5   0   10 10.0     T. Johnson, Was.      1    2    3    5  5.0     Harper, S.A.           1    2  2.0
 Nembhard, Dal.         1    3   2    8  8.0     Bailey, Utah          1    1    3    4  4.0     James, Cha.            1    2  2.0
 Saraf, Bkn.            1    2   4    8  8.0     Harper, S.A.          1    1    3    4  4.0     Jones Garcia, S.A.     1    2  2.0
-Jones Garcia, S.A.     1    2   1    5  5.0     James, Cha.           1    1    3    4  4.0     Proctor, Cle.          1    2  2.0
-Proctor, Cle.          1    2   0    5  5.0     Raynaud, Sac.         1    0    4    4  4.0     Raynaud, Sac.          1    2  2.0
-Richard, G.S.          1    2   0    5  5.0     Coward, Mem.          1    0    3    3  3.0     T. Johnson, Was.       1    2  2.0
-Konan Niederhauser, LA 1    1   2    4  4.0     Bryant, S.A.          1    0    2    2  2.0     Coward, Mem.           1    1  1.0
-Cardwell, Sac.         1    1   1    3  3.0     Powell, Bkn.          1    0    2    2  2.0     Kalkbrenner, Cha.      1    1  1.0
-Queen, N.O.            1    1   1    3  3.0     Cardwell, Sac.        1    1    0    1  1.0     Knueppel, Cha.         1    1  1.0
-Traore, Bkn.           1    1   0    3  3.0     Jones Garcia, S.A.    1    1    0    1  1.0     Richard, G.S.          1    1  1.0
-Bailey, Utah           1    1   0    2  2.0     Konan Niederhauser, L 1    1    0    1  1.0     Riley, Was.            1    1  1.0
+Richard, G.S.          2    4   1   11  5.5     James, Cha.           1    1    3    4  4.0     Proctor, Cle.          1    2  2.0
+Jones Garcia, S.A.     1    2   1    5  5.0     Raynaud, Sac.         1    0    4    4  4.0     Raynaud, Sac.          1    2  2.0
+Proctor, Cle.          1    2   0    5  5.0     Coward, Mem.          1    0    3    3  3.0     Richard, G.S.          2    4  2.0
+Konan Niederhauser, LA 1    1   2    4  4.0     Richard, G.S.         2    2    4    6  3.0     T. Johnson, Was.       1    2  2.0
+Cardwell, Sac.         1    1   1    3  3.0     Bryant, S.A.          1    0    2    2  2.0     Coward, Mem.           1    1  1.0
+Peter, Ind.            1    1   0    3  3.0     Powell, Bkn.          1    0    2    2  2.0     Kalkbrenner, Cha.      1    1  1.0
+Queen, N.O.            1    1   1    3  3.0     Barnhizer, OKC.       2    1    2    3  1.5     Knueppel, Cha.         1    1  1.0
+Traore, Bkn.           1    1   0    3  3.0     Cardwell, Sac.        1    1    0    1  1.0     Peter, Ind.            1    1  1.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Coward, Mem.             5    5 1.000     Richard, G.S.            1   1 1.000     Coward, Mem.             4   4 1.000
-Kalkbrenner, Cha.        5    6  .833     Knueppel, Cha.           3   4  .750     Demin, Bkn.              2   2 1.000
-Fears, N.O.              7   10  .700     Demin, Bkn.              4   6  .667     Fears, N.O.              3   3 1.000
-Demin, Bkn.              4    6  .667     Harper, S.A.             1   2  .500     Flagg, Dal.              2   2 1.000
+Coward, Mem.             5    5 1.000     Knueppel, Cha.           3   4  .750     Coward, Mem.             4   4 1.000
+Kalkbrenner, Cha.        5    6  .833     Demin, Bkn.              4   6  .667     Demin, Bkn.              2   2 1.000
+Fears, N.O.              7   10  .700     Harper, S.A.             1   2  .500     Fears, N.O.              3   3 1.000
+Demin, Bkn.              4    6  .667     Peter, Ind.              1   2  .500     Flagg, Dal.              2   2 1.000
 Knueppel, Cha.           4    6  .667     T. Johnson, Was.         4   8  .500     Nembhard, Dal.           2   2 1.000
 Clayton Jr., Utah        4    8  .500     Traore, Bkn.             1   2  .500     T. Johnson, Was.         2   2 1.000
-Edgecombe, Phi.         13   26  .500     Edgecombe, Phi.          5  13  .385     Yang, Por.               2   2 1.000
-Harper, S.A.             7   14  .500     Clayton Jr., Utah        1   3  .333     Saraf, Bkn.              4   6  .667
-T. Johnson, Was.         5   11  .455     Proctor, Cle.            1   3  .333     Edgecombe, Phi.          3   6  .500
-Flagg, Dal.              4   13  .308                                              Konan Niederhauser, L    2   4  .500
+Edgecombe, Phi.         13   26  .500     Richard, G.S.            2   5  .400     Yang, Por.               2   2 1.000
+Harper, S.A.             7   14  .500     Edgecombe, Phi.          5  13  .385     Saraf, Bkn.              4   6  .667
+T. Johnson, Was.         5   11  .455     Clayton Jr., Utah        1   3  .333     Edgecombe, Phi.          3   6  .500
+Flagg, Dal.              4   13  .308     Proctor, Cle.            1   3  .333     Konan Niederhauser, L    2   4  .500
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Clayton Jr., Utah          1    2 2.00     Cardwell, Sac.            1   2 2.00     Edgecombe, Phi.           1   42 42.2
@@ -93,6 +93,6 @@ Cardwell, Sac.             1    1 1.00     Dickinson, N.O.           1   1 1.00 
 Demin, Bkn.                1    1 1.00     James, Cha.               1   1 1.00     Clifford, Sac.            1   24 23.7
 Edgecombe, Phi.            1    1 1.00     Queen, N.O.               1   1 1.00     Harper, S.A.              1   23 22.7
 Flagg, Dal.                1    1 1.00     Small, Mem.               1   1 1.00     Demin, Bkn.               1   22 22.3
-Richard, G.S.              1    1 1.00     T. Johnson, Was.          1   1 1.00     Coward, Mem.              1   22 22.2
-Riley, Was.                1    1 1.00     Bailey, Utah              1   0 0.00     Bailey, Utah              1   20 20.2
+Peter, Ind.                1    1 1.00     T. Johnson, Was.          1   1 1.00     Coward, Mem.              1   22 22.2
+Richard, G.S.              2    2 1.00     Bailey, Utah              1   0 0.00     Bailey, Utah              1   20 20.2
 
