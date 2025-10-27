@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF SATURDAY, OCTOBER 25, 2025
+INCLUDES GAMES OF SUNDAY, OCTOBER 26, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -14,14 +14,12 @@ FG Attempts -- 28, Edwards, MIN at POR, 10/22
 3-Pt. FG Attempts -- 14, Vassell, SA at NO, 10/24 (OT)
 3-Pt. FG Attempts -- 14, Curry, GS at POR, 10/24
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
-Free Throws -- 16, (3 times, most recently) Durant, HOU vs. DET, 10/24
+Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
-FT Attempts -- 19, Doncic, LAL vs. MIN, 10/24
+FT Attempts -- 22, Reaves, LAL at SAC, 10/26
 Off. Rebounds -- 9, Kornet, SA at NO, 10/24 (OT)
-Off. Rebounds -- 7, G. Antetokounmpo, MIL at TOR, 10/24
-Off. Rebounds -- 7, Newell, ATL vs. OKC, 10/25
-Def. Rebounds -- 14, Hartenstein, OKC at IND, 10/23 (2 OT)
-Def. Rebounds -- 14, Wembanyama, SA at DAL, 10/22
+Off. Rebounds -- 8, Duren, DET vs. BOS, 10/26
+Def. Rebounds -- 17, Towns, NY at MIA, 10/26
 Rebounds -- 20, G. Antetokounmpo, MIL at TOR, 10/24
 Assists -- 15, Jokic, DEN vs. PHO, 10/25
 Steals -- 5, Williamson, NO at MEM, 10/22
@@ -30,8 +28,9 @@ Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 9, Booker, PHO at DEN, 10/25
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
+Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
 Points -- 55, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
-Points -- 49, Doncic, LAL vs. MIN, 10/24
+Points -- 51, Reaves, LAL at SAC, 10/26
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
@@ -43,13 +42,12 @@ Fewest FG Attempts -- 76, L.A. Lakers vs. MIN, 10/24
 Fewest FG Attempts -- 76, L.A. Clippers vs. PHO, 10/24
 Field Goal Pct. -- .592, L.A. Lakers vs. MIN, 10/24
 Field Goal Pct. -- .592, L.A. Clippers vs. PHO, 10/24
-Lowest Field Goal Pct. -- .373, Dallas vs. SA, 10/22
+Lowest Field Goal Pct. -- .370, Portland at LAC, 10/26
 3-Pt. Field Goals -- 19, (3 times, most recently) Miami at MEM, 10/24
-3-Pt. FG Attempts -- 52, Oklahoma City vs. HOU, 10/21 (2 OT)
-3-Pt. FG Attempts -- 50, Phoenix at DEN, 10/25
+3-Pt. FG Attempts -- 54, New York at MIA, 10/26
 3-Pt. FG Pct. -- .552, L.A. Clippers vs. PHO, 10/24
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
-Free Throws -- 38, Denver vs. PHO, 10/25
+Free Throws -- 41, L.A. Lakers at SAC, 10/26
 Fewest Free Throws -- 7, Brooklyn vs. CLE, 10/24
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 48, Houston vs. DET, 10/24
@@ -70,7 +68,7 @@ Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 31, Toronto at ATL, 10/22
 Personal Fouls -- 31, Detroit at HOU, 10/24
 Fewest Personal Fouls -- 16, Golden State vs. DEN, 10/23 (OT)
-Fewest Personal Fouls -- 16, Utah at SAC, 10/24
+Fewest Personal Fouls -- 16, (3 times, most recently) Miami vs. NY, 10/26
 Steals -- 15, Miami at MEM, 10/24
 Turnovers -- 25, Houston at OKC, 10/21 (2 OT)
 Turnovers -- 25, Golden State at POR, 10/24
