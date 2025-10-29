@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF MONDAY, OCTOBER 27, 2025
+INCLUDES GAMES OF TUESDAY, OCTOBER 28, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -44,16 +44,16 @@ Field Goal Pct. -- .592, L.A. Lakers vs. MIN, 10/24
 Field Goal Pct. -- .592, L.A. Clippers vs. PHO, 10/24
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 20, Phoenix at UTA, 10/27 (OT)
-3-Pt. Field Goals -- 19, (4 times, most recently) Golden State vs. MEM, 10/27
+3-Pt. Field Goals -- 20, Miami vs. CHA, 10/28
 3-Pt. FG Attempts -- 55, Phoenix at UTA, 10/27 (OT)
 3-Pt. FG Attempts -- 54, New York at MIA, 10/26
 3-Pt. FG Pct. -- .552, L.A. Clippers vs. PHO, 10/24
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
 Free Throws -- 41, L.A. Lakers at SAC, 10/26
-Fewest Free Throws -- 7, Brooklyn vs. CLE, 10/24
+Fewest Free Throws -- 3, Golden State vs. LAC, 10/28
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 48, Houston vs. DET, 10/24
-Fewest FT Attempts -- 7, Brooklyn vs. CLE, 10/24
+Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
 Free Throw Pct. -- 1.000, Brooklyn vs. CLE, 10/24
 Lowest Free Throw Pct. -- .560, Milwaukee at TOR, 10/24
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
@@ -66,11 +66,11 @@ Rebounds -- 64, Utah vs. PHO, 10/27 (OT)
 Rebounds -- 57, Miami at MEM, 10/24
 Fewest Rebounds -- 20, Toronto at SA, 10/27
 Assists -- 38, Utah vs. LAC, 10/22
-Fewest Assists -- 12, Orlando vs. CHI, 10/25
+Fewest Assists -- 10, L.A. Clippers at GS, 10/28
 Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 31, Toronto at ATL, 10/22
 Personal Fouls -- 31, Detroit at HOU, 10/24
-Fewest Personal Fouls -- 15, Dallas vs. OKC, 10/27
+Fewest Personal Fouls -- 5, L.A. Clippers at GS, 10/28
 Steals -- 15, Miami at MEM, 10/24
 Turnovers -- 26, Detroit vs. CLE, 10/27
 Fewest Turnovers -- 6, Memphis vs. IND, 10/25
@@ -78,4 +78,4 @@ Fewest Turnovers -- 6, Atlanta at CHI, 10/27
 Blocks -- 13, San Antonio at NO, 10/24 (OT)
 Blocks -- 12, Memphis vs. NO, 10/22
 Points -- 146, Miami at MEM, 10/24
-Fewest Points -- 90, New Orleans vs. BOS, 10/27
+Fewest Points -- 79, L.A. Clippers at GS, 10/28
