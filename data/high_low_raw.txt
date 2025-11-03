@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF SATURDAY, NOVEMBER 1, 2025
+INCLUDES GAMES OF SUNDAY, NOVEMBER 2, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -10,7 +10,7 @@ Field Goals -- 17, Doncic, LAL vs. GS, 10/21
 FG Attempts -- 32, Markkanen, UTA vs. PHO, 10/27 (OT)
 FG Attempts -- 32, Maxey, PHI vs. ORL, 10/27
 3-Pt. Field Goals -- 10, Gordon, DEN at GS, 10/23 (OT)
-3-Pt. Field Goals -- 7, (6 times, most recently) Russell, DAL at DET, 11/1
+3-Pt. Field Goals -- 8, Mitchell, CLE vs. ATL, 11/2
 3-Pt. FG Attempts -- 16, Curry, GS at IND, 11/1
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
@@ -42,6 +42,7 @@ Field Goal Pct. -- .598, Milwaukee vs. SAC, 11/1
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 21, (3 times, most recently) Portland at UTA, 10/29
 3-Pt. FG Attempts -- 57, Boston vs. CLE, 10/29
+3-Pt. FG Attempts -- 57, Cleveland vs. ATL, 11/2
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
 Free Throws -- 41, L.A. Lakers at SAC, 10/26
@@ -50,8 +51,7 @@ Fewest Free Throws -- 3, Golden State vs. LAC, 10/28
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
-Free Throw Pct. -- 1.000, Brooklyn vs. CLE, 10/24
-Free Throw Pct. -- 1.000, Boston vs. HOU, 11/1
+Free Throw Pct. -- 1.000, (4 times, most recently) New York vs. CHI, 11/2
 Lowest Free Throw Pct. -- .467, Washington vs. ORL, 11/1
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 21, New York vs. BOS, 10/24
