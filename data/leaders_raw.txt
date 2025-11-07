@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF WEDNESDAY, NOVEMBER 5, 2025
+INCLUDES GAMES OF THURSDAY, NOVEMBER 6, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Maxey, Phi.            8   87  60  268 33.5     Sabonis, Sac.         6   23   62   85 14.2     Jokic, Den.            7   84 12.0
@@ -7,14 +7,14 @@ Gilgeous-Alexander, OK 9  101  80  300 33.3     Jokic, Den.           7   19   7
 G. Antetokounmpo, Mil. 7   88  44  226 32.3     Wembanyama, S.A.      7   13   77   90 12.9     Cunningham, Det.       8   77  9.6
 Mitchell, Cle.         7   76  41  223 31.9     Towns, N.Y.           8   26   76  102 12.8     Reaves, LA-L           7   65  9.3
 Reaves, LA-L           7   66  65  218 31.1     G. Antetokounmpo, Mil 7   28   60   88 12.6     Giddey, Chi.           7   64  9.1
-Booker, Pho.           8   82  62  248 31.0     Vucevic, Chi.         7   21   63   84 12.0     Harden, LA-C           7   60  8.6
-Markkanen, Utah        8   81  53  243 30.4     Duren, Det.           8   37   54   91 11.4     Maxey, Phi.            8   68  8.5
+Markkanen, Utah        8   81  53  243 30.4     Vucevic, Chi.         7   21   63   84 12.0     Harden, LA-C           7   60  8.6
+Booker, Pho.           9   92  63  272 30.2     Duren, Det.           8   37   54   91 11.4     Maxey, Phi.            8   68  8.5
 Brunson, N.Y.          8   80  45  226 28.3     Hartenstein, OKC.     9   30   68   98 10.9     George, Utah           8   63  7.9
 Brown, Bos.            9   92  44  249 27.7     Giddey, Chi.          7   10   60   70 10.0     Mitchell, Mia.         8   63  7.9
-LaVine, Sac.           7   65  39  192 27.4     Williams, Pho.        7   25   45   70 10.0     Holiday, Por.          8   61  7.6
-Curry, G.S.            8   69  41  214 26.8     Sengun, Hou.          7   15   54   69  9.9     Sengun, Hou.           7   51  7.3
-Randle, Min.           8   75  45  214 26.8     Gobert, Min.          8   26   52   78  9.8     Morant, Mem.           8   58  7.3
-Siakam, Ind.           8   75  40  205 25.6     Zubac, LA-C           7   20   48   68  9.7     Booker, Pho.           8   56  7.0
+LaVine, Sac.           7   65  39  192 27.4     Williams, Pho.        8   28   52   80 10.0     Holiday, Por.          8   61  7.6
+Curry, G.S.            8   69  41  214 26.8     Zubac, LA-C           8   25   54   79  9.9     Sengun, Hou.           7   51  7.3
+Randle, Min.           8   75  45  214 26.8     Sengun, Hou.          7   15   54   69  9.9     Morant, Mem.           8   58  7.3
+Siakam, Ind.           8   75  40  205 25.6     Gobert, Min.          8   26   52   78  9.8     Booker, Pho.           9   63  7.0
 Wembanyama, S.A.       7   63  47  179 25.6     Adams, Hou.           6   30   27   57  9.5     Schroder, Sac.         8   55  6.9
 Cunningham, Det.       8   70  40  196 24.5     Banchero, Orl.        8    9   67   76  9.5     Green, G.S.            8   51  6.4
 Avdija, Por.           8   60  57  195 24.4     Nurkic, Utah          8   17   58   75  9.4     Quickley, Tor.         8   51  6.4
@@ -32,7 +32,7 @@ Ayton, LA-L             65   99  .657     Eason, Hou.             19  34  .559  
 Johnson, S.A.           34   53  .642     Merrill, Cle.           22  40  .550     Morant, Mem.            46  48  .958
 Hartenstein, OKC.       41   64  .641     Green, Mil.             27  51  .529     Curry, G.S.             41  43  .953
 Diabate, Cha.           30   47  .638     Okogie, Hou.            12  23  .522     Powell, Mia.            37  39  .949
-Jones Jr., LA-C         31   50  .620     Powell, Mia.            15  29  .517     Harris, Det.            17  18  .944
+Jones Jr., LA-C         34   54  .630     Powell, Mia.            15  29  .517     Harris, Det.            17  18  .944
 Duren, Det.             52   84  .619     Fontecchio, Mia.        21  41  .512     Gordon, Den.            33  35  .943
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
@@ -43,7 +43,7 @@ Anunoby, N.Y.              8   19 2.38     Sarr, Was.                8  18 2.25 
 Jokic, Den.                7   16 2.29     Turner, Mil.              8  17 2.12     Markkanen, Utah           8  297 37.1
 Jones, Chi.                7   16 2.29     Mobley, Cle.              8  14 1.75     LaVine, Sac.              7  259 37.0
 Castle, S.A.               7   14 2.00     Jackson Jr., Mem.         9  15 1.67     DeRozan, Sac.             8  295 36.8
-Suggs, Orl.                6   12 2.00     Bona, Phi.                8  13 1.62     Booker, Pho.              8  294 36.8
+Suggs, Orl.                6   12 2.00     Bona, Phi.                8  13 1.62     Booker, Pho.              9  331 36.8
 Mobley, Cle.               8   15 1.88     Barnes, Tor.              8  12 1.50     Sengun, Hou.              7  257 36.8
 Rollins, Mil.              8   15 1.88     Huff, Ind.                8  12 1.50     Cunningham, Det.          8  289 36.1
 
