@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF THURSDAY, NOVEMBER 6, 2025
+INCLUDES GAMES OF FRIDAY, NOVEMBER 7, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -9,6 +9,7 @@ Field Goals -- 17, Gordon, DEN at GS, 10/23 (OT)
 Field Goals -- 17, Doncic, LAL vs. GS, 10/21
 FG Attempts -- 32, Markkanen, UTA vs. PHO, 10/27 (OT)
 FG Attempts -- 32, Maxey, PHI vs. ORL, 10/27
+FG Attempts -- 32, G. Antetokounmpo, MIL vs. CHI, 11/7
 3-Pt. Field Goals -- 10, Gordon, DEN at GS, 10/23 (OT)
 3-Pt. Field Goals -- 8, Mitchell, CLE vs. ATL, 11/2
 3-Pt. FG Attempts -- 16, Curry, GS at IND, 11/1
@@ -36,8 +37,7 @@ SINGLE-GAME HIGHS AND LOWS / TEAMS
 Field Goals -- 55, Miami at MEM, 10/24
 Field Goals -- 55, New York vs. MIN, 11/5
 Fewest Field Goals -- 28, New Orleans vs. BOS, 10/27
-FG Attempts -- 108, Utah vs. PHO, 10/27 (OT)
-FG Attempts -- 106, Indiana at DAL, 10/29
+FG Attempts -- 110, Cleveland at WAS, 11/7
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
 Field Goal Pct. -- .598, Milwaukee vs. SAC, 11/1
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
@@ -55,7 +55,7 @@ Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
 Free Throw Pct. -- 1.000, (4 times, most recently) New York vs. CHI, 11/2
 Lowest Free Throw Pct. -- .467, Washington vs. ORL, 11/1
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
-Off. Rebounds -- 21, (3 times, most recently) Denver vs. MIA, 11/5
+Off. Rebounds -- 25, Cleveland at WAS, 11/7
 Fewest Off. Rebounds -- 1, Toronto at SA, 10/27
 Def. Rebounds -- 51, Oklahoma City at IND, 10/23 (2 OT)
 Def. Rebounds -- 46, Oklahoma City at DAL, 10/27
@@ -73,5 +73,5 @@ Turnovers -- 26, Detroit vs. CLE, 10/27
 Fewest Turnovers -- 6, (3 times, most recently) Oklahoma City vs. WAS, 10/30
 Blocks -- 13, San Antonio at NO, 10/24 (OT)
 Blocks -- 12, Memphis vs. NO, 10/22
-Points -- 146, Miami at MEM, 10/24
+Points -- 148, Cleveland at WAS, 11/7
 Fewest Points -- 79, L.A. Clippers at GS, 10/28
