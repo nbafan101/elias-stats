@@ -1,12 +1,11 @@
 
-INCLUDES GAMES OF TUESDAY, NOVEMBER 11, 2025
+INCLUDES GAMES OF WEDNESDAY, NOVEMBER 12, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 49, Sengun, HOU at OKC, 10/21 (2 OT)
 Minutes -- 44, Maxey, PHI vs. BOS, 10/31
-Field Goals -- 17, Gordon, DEN at GS, 10/23 (OT)
-Field Goals -- 17, Doncic, LAL vs. GS, 10/21
+Field Goals -- 18, Jokic, DEN at LAC, 11/12
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
 FG Attempts -- 32, Maxey, PHI vs. ORL, 10/27
 FG Attempts -- 32, G. Antetokounmpo, MIL vs. CHI, 11/7
@@ -14,7 +13,7 @@ FG Attempts -- 32, G. Antetokounmpo, MIL vs. CHI, 11/7
 3-Pt. Field Goals -- 10, Allen, PHO vs. NO, 11/10
 3-Pt. FG Attempts -- 16, Mitchell, CLE at MIA, 11/10 (OT)
 3-Pt. FG Attempts -- 16, Merrill, CLE at MIA, 11/10 (OT)
-3-Pt. FG Attempts -- 16, Curry, GS at IND, 11/1
+3-Pt. FG Attempts -- 16, (3 times, most recently) Thompson, DAL vs. PHO, 11/12
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
@@ -32,7 +31,7 @@ Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
 Points -- 55, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
-Points -- 51, Reaves, LAL at SAC, 10/26
+Points -- 55, Jokic, DEN at LAC, 11/12
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
@@ -46,8 +45,7 @@ Field Goal Pct. -- .598, Milwaukee vs. SAC, 11/1
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 22, New York vs. MEM, 11/11
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
-3-Pt. FG Attempts -- 57, Boston vs. CLE, 10/29
-3-Pt. FG Attempts -- 57, Cleveland vs. ATL, 11/2
+3-Pt. FG Attempts -- 57, (3 times, most recently) Golden State at SA, 11/12
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
 Free Throws -- 41, L.A. Lakers at SAC, 10/26
@@ -68,7 +66,7 @@ Fewest Def. Rebounds -- 18, Toronto vs. HOU, 10/29
 Rebounds -- 64, Utah vs. PHO, 10/27 (OT)
 Rebounds -- 61, Denver vs. MIA, 11/5
 Fewest Rebounds -- 20, Toronto at SA, 10/27
-Assists -- 40, Denver vs. NO, 10/29
+Assists -- 42, Atlanta at SAC, 11/12
 Fewest Assists -- 10, L.A. Clippers at GS, 10/28
 Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 36, San Antonio at LAL, 11/5
