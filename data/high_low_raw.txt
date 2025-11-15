@@ -1,9 +1,9 @@
 
-INCLUDES GAMES OF THURSDAY, NOVEMBER 13, 2025
+INCLUDES GAMES OF FRIDAY, NOVEMBER 14, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
-Minutes -- 49, Sengun, HOU at OKC, 10/21 (2 OT)
+Minutes -- 51, Harden, LAC at DAL, 11/14 (2 OT)
 Minutes -- 44, Maxey, PHI vs. BOS, 10/31
 Field Goals -- 18, Jokic, DEN at LAC, 11/12
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
@@ -11,9 +11,7 @@ FG Attempts -- 32, Maxey, PHI vs. ORL, 10/27
 FG Attempts -- 32, G. Antetokounmpo, MIL vs. CHI, 11/7
 3-Pt. Field Goals -- 10, Gordon, DEN at GS, 10/23 (OT)
 3-Pt. Field Goals -- 10, Allen, PHO vs. NO, 11/10
-3-Pt. FG Attempts -- 16, Mitchell, CLE at MIA, 11/10 (OT)
-3-Pt. FG Attempts -- 16, Merrill, CLE at MIA, 11/10 (OT)
-3-Pt. FG Attempts -- 16, (3 times, most recently) Thompson, DAL vs. PHO, 11/12
+3-Pt. FG Attempts -- 17, Curry, GS at SA, 11/14
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
@@ -23,9 +21,9 @@ Off. Rebounds -- 9, Williams, PHO at GS, 11/4
 Off. Rebounds -- 9, Robinson, NY vs. MIN, 11/5
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 22, Duren, DET vs. UTA, 11/5
+Assists -- 18, G. Antetokounmpo, MIL vs. CHA, 11/14 (OT)
 Assists -- 18, Cunningham, DET vs. DAL, 11/1
-Steals -- 7, Smart, LAL at CHA, 11/10
-Steals -- 7, Johnson, ATL at UTA, 11/13
+Steals -- 7, (4 times, most recently) Fears, NO vs. LAL, 11/14
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 9, Booker, PHO at DEN, 10/25
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
@@ -36,12 +34,14 @@ Points -- 55, Jokic, DEN at LAC, 11/12
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
+Field Goals -- 55, Milwaukee vs. CHA, 11/14 (OT)
 Field Goals -- 55, Miami at MEM, 10/24
 Field Goals -- 55, New York vs. MIN, 11/5
 Fewest Field Goals -- 28, New Orleans vs. BOS, 10/27
 FG Attempts -- 120, Cleveland at MIA, 11/10 (OT)
 FG Attempts -- 110, Cleveland at WAS, 11/7
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
+Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
 Field Goal Pct. -- .598, Milwaukee vs. SAC, 11/1
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 24, Atlanta at UTA, 11/13
@@ -74,7 +74,7 @@ Personal Fouls -- 36, San Antonio at LAL, 11/5
 Fewest Personal Fouls -- 5, L.A. Clippers at GS, 10/28
 Steals -- 18, Atlanta at UTA, 11/13
 Turnovers -- 26, Detroit vs. CLE, 10/27
-Fewest Turnovers -- 6, (4 times, most recently) Oklahoma City at MEM, 11/9
+Fewest Turnovers -- 6, (5 times, most recently) Houston vs. POR, 11/14
 Blocks -- 13, San Antonio at NO, 10/24 (OT)
 Blocks -- 12, Memphis vs. NO, 10/22
 Points -- 152, Utah vs. IND, 11/11
