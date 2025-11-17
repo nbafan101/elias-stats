@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF SATURDAY, NOVEMBER 15, 2025
+INCLUDES GAMES OF SUNDAY, NOVEMBER 16, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -7,10 +7,10 @@ Minutes -- 51, Harden, LAC at DAL, 11/14 (2 OT)
 Minutes -- 44, Maxey, PHI vs. BOS, 10/31
 Field Goals -- 18, Jokic, DEN at LAC, 11/12
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
-FG Attempts -- 32, Maxey, PHI vs. ORL, 10/27
-FG Attempts -- 32, G. Antetokounmpo, MIL vs. CHI, 11/7
+FG Attempts -- 33, Brown, BOS vs. LAC, 11/16
 3-Pt. Field Goals -- 10, Gordon, DEN at GS, 10/23 (OT)
 3-Pt. Field Goals -- 10, Allen, PHO vs. NO, 11/10
+3-Pt. FG Attempts -- 17, Markkanen, UTA vs. CHI, 11/16 (2 OT)
 3-Pt. FG Attempts -- 17, Curry, GS at SA, 11/14
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
@@ -45,6 +45,7 @@ Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
 Field Goal Pct. -- .598, Milwaukee vs. SAC, 11/1
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 24, Atlanta at UTA, 11/13
+3-Pt. Field Goals -- 24, Golden State at NO, 11/16
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
 3-Pt. FG Attempts -- 57, (3 times, most recently) Golden State at SA, 11/12
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
@@ -74,7 +75,7 @@ Personal Fouls -- 36, San Antonio at LAL, 11/5
 Fewest Personal Fouls -- 5, L.A. Clippers at GS, 10/28
 Steals -- 18, Atlanta at UTA, 11/13
 Turnovers -- 26, Detroit vs. CLE, 10/27
-Fewest Turnovers -- 6, (5 times, most recently) Houston vs. POR, 11/14
+Fewest Turnovers -- 6, (6 times, most recently) Boston vs. LAC, 11/16
 Blocks -- 13, San Antonio at NO, 10/24 (OT)
 Blocks -- 12, Memphis vs. NO, 10/22
 Points -- 152, Utah vs. IND, 11/11
