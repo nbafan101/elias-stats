@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF TUESDAY, NOVEMBER 18, 2025
+INCLUDES GAMES OF WEDNESDAY, NOVEMBER 19, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -16,9 +16,7 @@ Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 FT Attempts -- 22, Reaves, LAL at SAC, 10/26
-Off. Rebounds -- 9, Kornet, SA at NO, 10/24 (OT)
-Off. Rebounds -- 9, Williams, PHO at GS, 11/4
-Off. Rebounds -- 9, Robinson, NY vs. MIN, 11/5
+Off. Rebounds -- 10, Clingan, POR vs. CHI, 11/19
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 22, Duren, DET vs. UTA, 11/5
 Assists -- 18, G. Antetokounmpo, MIL vs. CHA, 11/14 (OT)
@@ -26,6 +24,7 @@ Assists -- 18, Cunningham, DET vs. DAL, 11/1
 Steals -- 7, (4 times, most recently) Fears, NO vs. LAL, 11/14
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 9, Booker, PHO at DEN, 10/25
+Turnovers -- 9, Jokic, DEN at NO, 11/19
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
@@ -60,13 +59,13 @@ Free Throw Pct. -- 1.000, (4 times, most recently) New York vs. CHI, 11/2
 Lowest Free Throw Pct. -- .467, Washington vs. ORL, 11/1
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
-Off. Rebounds -- 25, Cleveland at WAS, 11/7
+Off. Rebounds -- 26, Portland vs. CHI, 11/19
 Fewest Off. Rebounds -- 1, Toronto at SA, 10/27
 Def. Rebounds -- 51, Oklahoma City at IND, 10/23 (2 OT)
 Def. Rebounds -- 46, Oklahoma City at DAL, 10/27
 Fewest Def. Rebounds -- 18, Toronto vs. HOU, 10/29
 Rebounds -- 64, Utah vs. PHO, 10/27 (OT)
-Rebounds -- 61, Denver vs. MIA, 11/5
+Rebounds -- 64, Portland vs. CHI, 11/19
 Fewest Rebounds -- 20, Toronto at SA, 10/27
 Assists -- 42, Atlanta at SAC, 11/12
 Fewest Assists -- 10, L.A. Clippers at GS, 10/28
