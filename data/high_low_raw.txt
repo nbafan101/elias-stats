@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF FRIDAY, NOVEMBER 21, 2025
+INCLUDES GAMES OF SATURDAY, NOVEMBER 22, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -11,6 +11,7 @@ FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
 FG Attempts -- 33, Brown, BOS vs. LAC, 11/16
 3-Pt. Field Goals -- 10, Gordon, DEN at GS, 10/23 (OT)
 3-Pt. Field Goals -- 10, Allen, PHO vs. NO, 11/10
+3-Pt. Field Goals -- 10, Harden, LAC at CHA, 11/22
 3-Pt. FG Attempts -- 17, Markkanen, UTA vs. CHI, 11/16 (2 OT)
 3-Pt. FG Attempts -- 17, Curry, GS at SA, 11/14
 3-Pt. FG Attempts -- 17, Curry, GS vs. POR, 11/21
@@ -31,6 +32,7 @@ Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
 Points -- 55, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Points -- 55, Jokic, DEN at LAC, 11/12
+Points -- 55, Harden, LAC at CHA, 11/22
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
@@ -42,7 +44,7 @@ FG Attempts -- 120, Cleveland at MIA, 11/10 (OT)
 FG Attempts -- 110, Cleveland at WAS, 11/7
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
 Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
-Field Goal Pct. -- .614, Oklahoma City at UTA, 11/21
+Field Goal Pct. -- .628, Detroit at MIL, 11/22
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
 3-Pt. Field Goals -- 24, Atlanta at UTA, 11/13
 3-Pt. Field Goals -- 24, Golden State at NO, 11/16
@@ -62,6 +64,7 @@ Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
 Off. Rebounds -- 26, Portland vs. CHI, 11/19
 Fewest Off. Rebounds -- 1, Toronto at SA, 10/27
+Fewest Off. Rebounds -- 1, Detroit at MIL, 11/22
 Def. Rebounds -- 51, Oklahoma City at IND, 10/23 (2 OT)
 Def. Rebounds -- 46, Oklahoma City at DAL, 10/27
 Fewest Def. Rebounds -- 18, Toronto vs. HOU, 10/29
