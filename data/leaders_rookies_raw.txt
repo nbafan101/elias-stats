@@ -1,12 +1,12 @@
 
-ROOKIE LEADERS / INCLUDES GAMES OF TUESDAY, DECEMBER 9, 2025
+ROOKIE LEADERS / INCLUDES GAMES OF WEDNESDAY, DECEMBER 10, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Knueppel, Cha.        24  151  50  433 18.0     Kalkbrenner, Cha.    22   61   86  147  6.7     Nembhard, Dal.        12   57  4.8
 Flagg, Dal.           24  160  74  415 17.3     Queen, N.O.          25   42  118  160  6.4     Edgecombe, Phi.       20   80  4.0
-Fears, N.O.           25  143  67  384 15.4     Flagg, Dal.          24   29  123  152  6.3     Harper, S.A.          13   51  3.9
-Edgecombe, Phi.       20  108  33  287 14.3     Coward, Mem.         24   32  116  148  6.2     Queen, N.O.           25   97  3.9
-Harper, S.A.          13   67  32  175 13.5     Edgecombe, Phi.      20   36   77  113  5.7     Clayton Jr., Utah     19   70  3.7
+Fears, N.O.           25  143  67  384 15.4     Flagg, Dal.          24   29  123  152  6.3     Queen, N.O.           25   97  3.9
+Edgecombe, Phi.       20  108  33  287 14.3     Coward, Mem.         24   32  116  148  6.2     Harper, S.A.          14   54  3.9
+Harper, S.A.          14   73  33  188 13.4     Edgecombe, Phi.      20   36   77  113  5.7     Clayton Jr., Utah     19   70  3.7
 Coward, Mem.          24  114  57  320 13.3     Knueppel, Cha.       24   23  108  131  5.5     Demin, Bkn.           21   77  3.7
 Queen, N.O.           25  119  82  322 12.9     Raynaud, Sac.        16   18   52   70  4.4     Flagg, Dal.           24   78  3.3
 T. Johnson, Was.      15   65  13  173 11.5     Wolf, Bkn.            9    7   28   35  3.9     Knueppel, Cha.        24   78  3.3
@@ -17,7 +17,7 @@ Demin, Bkn.           21   62  12  175  8.3     Murray-Boyles, Tor.  21   37   3
 Raynaud, Sac.         16   52  22  130  8.1     Bailey, Utah         23   32   43   75  3.3     Love, Por.            16   31  1.9
 Love, Por.            16   47  11  128  8.0     Penda, Orl.          13   21   21   42  3.2     Jones Garcia, S.A.    10   18  1.8
 Richard, G.S.         23   65  24  183  8.0     James, Cha.          24   11   63   74  3.1     Wolf, Bkn.             9   16  1.8
-Wolf, Bkn.             9   23  13   71  7.9     Harper, S.A.         13   12   28   40  3.1     Bailey, Utah          23   40  1.7
+Wolf, Bkn.             9   23  13   71  7.9     Harper, S.A.         14   13   30   43  3.1     Bailey, Utah          23   40  1.7
 Murray-Boyles, Tor.   21   57  20  146  7.0     T. Johnson, Was.     15    7   38   45  3.0     Clifford, Sac.        20   30  1.5
 Sanders, LA-C         16   36  22  110  6.9     Love, Por.           16   10   34   44  2.8     James, Cha.           24   36  1.5
 Clayton Jr., Utah     19   45  23  130  6.8     Richard, G.S.        23   24   38   62  2.7     Proctor, Cle.         18   25  1.4
@@ -29,7 +29,7 @@ Murray-Boyles, Tor.     57  103  .553     Wolf, Bkn.              12  27  .444  
 Richard, G.S.           65  122  .533     McNeeley, Cha.          18  44  .409     Knueppel, Cha.          50  55  .909
 Raynaud, Sac.           52   99  .525     Knueppel, Cha.          81 201  .403     James, Cha.             32  37  .865
 Queen, N.O.            119  240  .496     Richard, G.S.           29  73  .397     Coward, Mem.            57  68  .838
-Harper, S.A.            67  140  .479     T. Johnson, Was.        30  76  .395     McNeeley, Cha.          19  23  .826
+Harper, S.A.            73  152  .480     T. Johnson, Was.        30  76  .395     McNeeley, Cha.          19  23  .826
 Flagg, Dal.            160  337  .475     Edgecombe, Phi.         38 101  .376     Flagg, Dal.             74  90  .822
 Knueppel, Cha.         151  329  .459     Fears, N.O.             31  84  .369     Raynaud, Sac.           22  27  .815
 Coward, Mem.           114  253  .451     James, Cha.             28  76  .368     Fears, N.O.             67  84  .798
@@ -38,17 +38,17 @@ Bailey, Utah            92  206  .447     Bailey, Utah            35  96  .365  
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Fears, N.O.               25   36 1.44     Kalkbrenner, Cha.        22  42 1.91     Edgecombe, Phi.          20  692 34.6
 Flagg, Dal.               24   32 1.33     Cisse, Dal.              18  19 1.06     Flagg, Dal.              24  808 33.7
-Edgecombe, Phi.           20   26 1.30     Queen, N.O.              25  21 0.84     Knueppel, Cha.           24  803 33.5
+Edgecombe, Phi.           20   26 1.30     Queen, N.O.              25  20 0.80     Knueppel, Cha.           24  803 33.5
 Queen, N.O.               25   25 1.00     Flagg, Dal.              24  16 0.67     Fears, N.O.              25  692 27.7
 Richard, G.S.             23   23 1.00     Raynaud, Sac.            16   8 0.50     Coward, Mem.             24  651 27.1
-Harper, S.A.              13   12 0.92     T. Johnson, Was.         15   7 0.47     James, Cha.              24  627 26.1
+Harper, S.A.              14   13 0.93     T. Johnson, Was.         15   7 0.47     James, Cha.              24  627 26.1
 Bailey, Utah              23   19 0.83     James, Cha.              24  11 0.46     Kalkbrenner, Cha.        22  562 25.5
 Powell, Bkn.              16   13 0.81     Edgecombe, Phi.          20   9 0.45     Queen, N.O.              25  622 24.9
 Demin, Bkn.               21   17 0.81     Yang, Por.               13   5 0.38     T. Johnson, Was.         15  364 24.2
-James, Cha.               24   18 0.75     Maluach, Pho.            11   4 0.36     Bailey, Utah             23  534 23.2
+James, Cha.               24   18 0.75     Bailey, Utah             23   8 0.35     Bailey, Utah             23  534 23.2
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF TUESDAY, DECEMBER 9, 2025
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF WEDNESDAY, DECEMBER 10, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Knueppel, Cha.        24  151  50  433 18.0     Kalkbrenner, Cha.    22   61   86  147  6.7     Edgecombe, Phi.       20   80  4.0
@@ -69,8 +69,8 @@ McNeeley, Cha.        18   26  19   89  4.9     McNeeley, Cha.       18    8   3
 Peavy, N.O.           21   43  10  102  4.9     Peavy, N.O.          21   22   29   51  2.4     McNeeley, Cha.        18   16  0.9
 Clifford, Sac.        20   33  12   89  4.5     Clayton Jr., Utah    19    8   33   41  2.2     Riley, Was.           16   13  0.8
 Riley, Was.           16   25   8   63  3.9     Gonzalez, Bos.       19   12   26   38  2.0     Gonzalez, Bos.        19   10  0.5
-Gonzalez, Bos.        19   27   2   65  3.4     Barnhizer, OKC.      17    6   27   33  1.9     Diawara, N.Y.         17    8  0.5
-Cisse, Dal.           18   21  11   53  2.9     Riley, Was.          16   11   17   28  1.8     Kalkbrenner, Cha.     22   10  0.5
+Gonzalez, Bos.        19   27   2   65  3.4     Riley, Was.          16   11   17   28  1.8     Diawara, N.Y.         17    8  0.5
+Cisse, Dal.           18   21  11   53  2.9     Bryant, S.A.         18    6   24   30  1.7     Kalkbrenner, Cha.     22   10  0.5
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
 Queen, N.O.            119  240  .496     Knueppel, Cha.          81 201  .403     Knueppel, Cha.          50  55  .909
@@ -86,7 +86,7 @@ Edgecombe, Phi.        108  261  .414     Bailey, Utah            35  96  .365
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
 Fears, N.O.               25   36 1.44     Kalkbrenner, Cha.        22  42 1.91     Edgecombe, Phi.          20  692 34.6
 Flagg, Dal.               24   32 1.33     Cisse, Dal.              18  19 1.06     Flagg, Dal.              24  808 33.7
-Edgecombe, Phi.           20   26 1.30     Queen, N.O.              25  21 0.84     Knueppel, Cha.           24  803 33.5
+Edgecombe, Phi.           20   26 1.30     Queen, N.O.              25  20 0.80     Knueppel, Cha.           24  803 33.5
 Queen, N.O.               25   25 1.00     Flagg, Dal.              24  16 0.67     Fears, N.O.              25  692 27.7
 Richard, G.S.             23   23 1.00     James, Cha.              24  11 0.46     Coward, Mem.             24  651 27.1
 Bailey, Utah              23   19 0.83     Edgecombe, Phi.          20   9 0.45     James, Cha.              24  627 26.1
