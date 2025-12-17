@@ -3,7 +3,7 @@ ROOKIE LEADERS / INCLUDES GAMES OF MONDAY, DECEMBER 15, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Knueppel, Cha.        26  174  58  495 19.0     Kalkbrenner, Cha.    24   63   93  156  6.5     Nembhard, Dal.        14   73  5.2
-Flagg, Dal.           26  183  91  479 18.4     Queen, N.O.          27   44  129  173  6.4     Queen, N.O.           27  110  4.1
+Flagg, Dal.           26  183  91  479 18.4     Queen, N.O.          27   44  129  173  6.4     Queen, N.O.           27  109  4.0
 Fears, N.O.           27  159  73  423 15.7     Flagg, Dal.          26   31  133  164  6.3     Edgecombe, Phi.       22   87  4.0
 Edgecombe, Phi.       22  123  44  335 15.2     Coward, Mem.         26   36  126  162  6.2     Harper, S.A.          15   55  3.7
 Coward, Mem.          26  126  59  349 13.4     Edgecombe, Phi.      22   38   85  123  5.6     Flagg, Dal.           26   92  3.5
@@ -51,7 +51,7 @@ Knueppel, Cha.            26   19 0.73     Yang, Por.               13   5 0.38 
 ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / INCLUDES GAMES OF MONDAY, DECEMBER 15, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Knueppel, Cha.        26  174  58  495 19.0     Kalkbrenner, Cha.    24   63   93  156  6.5     Queen, N.O.           27  110  4.1
+Knueppel, Cha.        26  174  58  495 19.0     Kalkbrenner, Cha.    24   63   93  156  6.5     Queen, N.O.           27  109  4.0
 Flagg, Dal.           26  183  91  479 18.4     Queen, N.O.          27   44  129  173  6.4     Edgecombe, Phi.       22   87  4.0
 Fears, N.O.           27  159  73  423 15.7     Flagg, Dal.          26   31  133  164  6.3     Flagg, Dal.           26   92  3.5
 Edgecombe, Phi.       22  123  44  335 15.2     Coward, Mem.         26   36  126  162  6.2     Demin, Bkn.           23   81  3.5
