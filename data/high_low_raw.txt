@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF WEDNESDAY, DECEMBER 17, 2025
+INCLUDES GAMES OF THURSDAY, DECEMBER 18, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -14,12 +14,14 @@ Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 FT Attempts -- 23, Avdija, POR vs. OKC, 11/30
+Off. Rebounds -- 10, Duren, DET at DAL, 12/18 (OT)
 Off. Rebounds -- 10, Clingan, POR vs. CHI, 11/19
 Off. Rebounds -- 10, Missi, NO vs. CHI, 11/24
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 24, Drummond, PHI vs. MIA, 11/23
 Assists -- 18, G. Antetokounmpo, MIL vs. CHA, 11/14 (OT)
 Assists -- 18, Cunningham, DET vs. DAL, 11/1
+Steals -- 8, Jones, NO vs. HOU, 12/18 (OT)
 Steals -- 7, (4 times, most recently) Fears, NO vs. LAL, 11/14
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 9, (4 times, most recently) Doncic, LAL vs. PHO, 12/1
@@ -34,13 +36,13 @@ SINGLE-GAME HIGHS AND LOWS / TEAMS
 
 Field Goals -- 58, New Orleans vs. POR, 12/11
 Fewest Field Goals -- 28, New Orleans vs. BOS, 10/27
-FG Attempts -- 120, Cleveland at MIA, 11/10 (OT)
+FG Attempts -- 122, Detroit at DAL, 12/18 (OT)
 FG Attempts -- 112, New Orleans vs. POR, 12/11
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
 Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
 Field Goal Pct. -- .628, Detroit at MIL, 11/22
 Lowest Field Goal Pct. -- .333, New Orleans vs. BOS, 10/27
-3-Pt. Field Goals -- 24, (5 times, most recently) Golden State at POR, 12/14
+3-Pt. Field Goals -- 24, (6 times, most recently) Charlotte vs. ATL, 12/18
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
 3-Pt. FG Attempts -- 57, (3 times, most recently) Golden State at SA, 11/12
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
@@ -71,10 +73,9 @@ Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 36, San Antonio at LAL, 11/5
 Fewest Personal Fouls -- 5, L.A. Clippers at GS, 10/28
 Steals -- 19, Phoenix at POR, 11/18
-Turnovers -- 28, Phoenix vs. MIN, 11/21
-Turnovers -- 28, Utah vs. OKC, 11/21
+Turnovers -- 29, L.A. Clippers at OKC, 12/18
 Fewest Turnovers -- 5, Boston vs. ORL, 11/23
-Blocks -- 13, San Antonio at NO, 10/24 (OT)
+Blocks -- 15, Dallas vs. DET, 12/18 (OT)
 Blocks -- 13, Chicago vs. MIA, 11/21
 Points -- 152, Utah vs. IND, 11/11
 Fewest Points -- 79, L.A. Clippers at GS, 10/28
