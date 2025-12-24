@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF MONDAY, DECEMBER 22, 2025
+INCLUDES GAMES OF TUESDAY, DECEMBER 23, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -24,7 +24,7 @@ Assists -- 18, Cunningham, DET vs. DAL, 11/1
 Steals -- 8, Jones, NO vs. HOU, 12/18 (OT)
 Steals -- 7, (4 times, most recently) Fears, NO vs. LAL, 11/14
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
-Turnovers -- 9, (4 times, most recently) Doncic, LAL vs. PHO, 12/1
+Turnovers -- 9, (5 times, most recently) Cunningham, DET at SAC, 12/23
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
@@ -54,7 +54,7 @@ Fewest Free Throws -- 3, Golden State vs. LAC, 10/28
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
-Free Throw Pct. -- 1.000, (7 times, most recently) Cleveland vs. CHA, 12/22
+Free Throw Pct. -- 1.000, (8 times, most recently) Denver at DAL, 12/23
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
@@ -75,8 +75,7 @@ Personal Fouls -- 36, San Antonio at LAL, 11/5
 Fewest Personal Fouls -- 5, L.A. Clippers at GS, 10/28
 Steals -- 19, Phoenix at POR, 11/18
 Turnovers -- 29, L.A. Clippers at OKC, 12/18
-Fewest Turnovers -- 5, Boston vs. ORL, 11/23
-Fewest Turnovers -- 5, Washington vs. SA, 12/21
+Fewest Turnovers -- 5, (3 times, most recently) Charlotte vs. WAS, 12/23
 Blocks -- 15, Dallas vs. DET, 12/18 (OT)
 Blocks -- 13, Chicago vs. MIA, 11/21
 Points -- 152, Utah vs. IND, 11/11
