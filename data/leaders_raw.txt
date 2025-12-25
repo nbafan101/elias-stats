@@ -36,7 +36,7 @@ Johnson, S.A.          145  251  .578     Dosunmu, Chi.           41  90  .456  
 Claxton, Bkn.          148  257  .576     Christie, Dal.          68 150  .453     Markkanen, Utah        156 174  .897
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Wallace, OKC.             29   68 2.34     Huff, Ind.               30  72 2.40     Maxey, Phi.              26 1035 39.8
+Wallace, OKC.             29   67 2.31     Huff, Ind.               30  72 2.40     Maxey, Phi.              26 1035 39.8
 Daniels, Atl.             30   59 1.97     Stewart, Det.            27  52 1.93     Thompson, Hou.           27  998 37.0
 Suggs, Orl.               21   39 1.86     Kalkbrenner, Cha.        26  47 1.81     Doncic, LA-L             21  768 36.6
 Maxey, Phi.               26   46 1.77     Mobley, Cle.             25  41 1.64     Durant, Hou.             25  911 36.4
