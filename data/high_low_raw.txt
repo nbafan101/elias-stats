@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF TUESDAY, DECEMBER 23, 2025
+INCLUDES GAMES OF THURSDAY, DECEMBER 25, 2025
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -28,7 +28,7 @@ Turnovers -- 9, (5 times, most recently) Cunningham, DET at SAC, 12/23
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 6, Jackson Jr., MEM vs. NO, 10/22
 Blocks -- 6, Wembanyama, SA vs. BKN, 10/26
-Points -- 55, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
+Points -- 56, Jokic, DEN vs. MIN, 12/25 (OT)
 Points -- 55, Jokic, DEN at LAC, 11/12
 Points -- 55, Harden, LAC at CHA, 11/22
 
@@ -64,6 +64,7 @@ Fewest Off. Rebounds -- 1, Detroit at MIL, 11/22
 Def. Rebounds -- 51, Oklahoma City at IND, 10/23 (2 OT)
 Def. Rebounds -- 46, Oklahoma City at DAL, 10/27
 Fewest Def. Rebounds -- 18, Toronto vs. HOU, 10/29
+Fewest Def. Rebounds -- 18, L.A. Lakers vs. HOU, 12/25
 Rebounds -- 64, Utah vs. PHO, 10/27 (OT)
 Rebounds -- 64, Portland vs. CHI, 11/19
 Fewest Rebounds -- 20, Toronto at SA, 10/27
