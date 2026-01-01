@@ -1,49 +1,49 @@
 
-INCLUDES GAMES OF TUESDAY, DECEMBER 30, 2025
+INCLUDES GAMES OF WEDNESDAY, DECEMBER 31, 2025
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Doncic, LA-L          24  249 225  805 33.5     Jokic, Den.          32   97  292  389 12.2     Jokic, Den.           32  351 11.0
-Gilgeous-Alexander, OK32  353 257 1030 32.2     Towns, N.Y.          30   91  265  356 11.9     Cunningham, Det.      30  290  9.7
+Gilgeous-Alexander, OK33  364 264 1060 32.1     Towns, N.Y.          31   92  271  363 11.7     Cunningham, Det.      30  290  9.7
 Maxey, Phi.           29  307 174  894 30.8     Zubac, LA-C          28   96  216  312 11.1     Giddey, Chi.          30  270  9.0
-Jokic, Den.           32  339 203  948 29.6     Gobert, Min.         33  128  234  362 11.0     Doncic, LA-L          24  209  8.7
-Mitchell, Cle.        31  321 153  916 29.5     Duren, Det.          30  127  198  325 10.8     Johnson, Atl.         30  253  8.4
-Brown, Bos.           30  325 173  884 29.5     Clingan, Por.        29  130  177  307 10.6     Harden, LA-C          30  237  7.9
-Brunson, N.Y.         29  302 160  853 29.4     Ware, Mia.           33  113  236  349 10.6     Mitchell, Mia.        31  230  7.4
-Edwards, Min.         26  257 157  756 29.1     Hartenstein, OKC.    24   81  168  249 10.4     Maxey, Phi.           29  205  7.1
-Curry, G.S.           24  224 129  691 28.8     Johnson, Atl.        30   43  268  311 10.4     Westbrook, Sac.       33  232  7.0
-Markkanen, Utah       28  258 176  775 27.7     Adebayo, Mia.        25   40  198  238  9.5     Castle, S.A.          23  161  7.0
-Reaves, LA-L          23  189 172  612 26.6     Nurkic, Utah         29   73  203  276  9.5     Murray, Den.          31  216  7.0
-Cunningham, Det.      30  282 170  795 26.5     Sengun, Hou.         26   80  164  244  9.4     Avdija, Por.          33  227  6.9
+Mitchell, Cle.        32  331 163  950 29.7     Gobert, Min.         34  132  241  373 11.0     Doncic, LA-L          24  209  8.7
+Jokic, Den.           32  339 203  948 29.6     Duren, Det.          30  127  198  325 10.8     Johnson, Atl.         31  259  8.4
+Brown, Bos.           30  325 173  884 29.5     Ware, Mia.           33  113  236  349 10.6     Harden, LA-C          30  237  7.9
+Brunson, N.Y.         30  312 164  882 29.4     Clingan, Por.        30  132  180  312 10.4     Mitchell, Mia.        31  230  7.4
+Edwards, Min.         27  267 164  786 29.1     Hartenstein, OKC.    24   81  168  249 10.4     Maxey, Phi.           29  205  7.1
+Curry, G.S.           25  233 132  717 28.7     Johnson, Atl.        31   45  276  321 10.4     Westbrook, Sac.       33  232  7.0
+Markkanen, Utah       28  258 176  775 27.7     Adebayo, Mia.        25   40  198  238  9.5     Castle, S.A.          24  168  7.0
+Reaves, LA-L          23  189 172  612 26.6     Nurkic, Utah         29   73  203  276  9.5     Murray, Den.          32  222  6.9
+Cunningham, Det.      30  282 170  795 26.5     Sengun, Hou.         26   80  164  244  9.4     Avdija, Por.          34  234  6.9
 Harden, LA-C          30  225 231  784 26.1     Drummond, Phi.       29  103  168  271  9.3     George, Utah          32  218  6.8
-Porter Jr., Bkn.      26  239  95  671 25.8     Mobley, Cle.         28   70  182  252  9.0     Sengun, Hou.          26  176  6.8
-Avdija, Por.          33  257 254  844 25.6     Vucevic, Chi.        31   66  211  277  8.9     Nembhard, Ind.        25  167  6.7
-Durant, Hou.          28  248 160  715 25.5     Giddey, Chi.         30   35  233  268  8.9     Brunson, N.Y.         29  190  6.6
-Booker, Pho.          29  239 207  733 25.3     Ayton, LA-L          27   73  158  231  8.6     Collier, Utah         24  154  6.4
-Murray, Den.          31  278 118  782 25.2     Barnes, Tor.         34   79  209  288  8.5     Booker, Pho.          29  186  6.4
-George, Utah          32  245 213  788 24.6     Adams, Hou.          25  109  102  211  8.4     Gilgeous-Alexander, OK32  205  6.4
-Powell, Mia.          28  221 146  666 23.8     Williams, Pho.       27   86  136  222  8.2     Quickley, Tor.        33  210  6.4
+Porter Jr., Bkn.      26  239  95  671 25.8     Mobley, Cle.         29   72  190  262  9.0     Sengun, Hou.          26  176  6.8
+Durant, Hou.          28  248 160  715 25.5     Giddey, Chi.         30   35  233  268  8.9     Nembhard, Ind.        26  174  6.7
+Booker, Pho.          30  252 211  765 25.5     Vucevic, Chi.        32   66  219  285  8.9     Brunson, N.Y.         30  198  6.6
+Avdija, Por.          34  262 260  861 25.3     Barnes, Tor.         35   82  220  302  8.6     Collier, Utah         24  154  6.4
+Murray, Den.          32  284 125  803 25.1     Ayton, LA-L          27   73  158  231  8.6     Gilgeous-Alexander, OK33  211  6.4
+George, Utah          32  245 213  788 24.6     Banchero, Orl.       24   23  182  205  8.5     Booker, Pho.          30  190  6.3
+Johnson, Atl.         31  275 144  744 24.0     Adams, Hou.          25  109  102  211  8.4     Quickley, Tor.        34  214  6.3
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Gobert, Min.           151  211  .716     Eason, Hou.             35  72  .486     Leonard, LA-C          129 133  .970
-Ayton, LA-L            185  262  .706     Spencer , Mem.          79 163  .485     Bane, Orl.             118 127  .929
-Williams, Pho.         139  209  .665     Portis Jr., Mil.        62 131  .473     Curry, G.S.            129 140  .921
-Queta, Bos.            131  198  .662     Ware, Mia.              43  91  .473     Spencer , Mem.          58  63  .921
-G. Antetokounmpo, Mil  209  325  .643     Christie, Dal.          76 163  .466     Poole, N.O.             62  68  .912
-Duren, Det.            210  329  .638     Krejci, Atl.            82 176  .466     Murphy II, N.O.        111 122  .910
-Zubac, LA-C            190  312  .609     Murray, Den.           108 238  .454     Markkanen, Utah        176 194  .907
-Jokic, Den.            339  560  .605     Tyson, Cle.             56 124  .452     Morant, Mem.            88  97  .907
-Allen, Cle.            125  210  .595     Green, Mil.             91 203  .448     George, Utah           213 236  .903
-Claxton, Bkn.          161  275  .585     Hachimura, LA-L         49 110  .445     Knueppel, Cha.          70  78  .897
+Gobert, Min.           154  217  .710     Eason, Hou.             35  72  .486     Leonard, LA-C          129 133  .970
+Ayton, LA-L            185  262  .706     Spencer , Mem.          79 163  .485     Bane, Orl.             121 130  .931
+Queta, Bos.            131  198  .662     Portis Jr., Mil.        65 137  .474     Curry, G.S.            132 143  .923
+Williams, Pho.         139  212  .656     Ware, Mia.              43  91  .473     Poole, N.O.             72  78  .923
+G. Antetokounmpo, Mil  221  346  .639     Christie, Dal.          76 163  .466     Spencer , Mem.          58  63  .921
+Duren, Det.            210  329  .638     Krejci, Atl.            84 183  .459     Murphy II, N.O.        111 122  .910
+Zubac, LA-C            190  312  .609     Tyson, Cle.             59 130  .454     Markkanen, Utah        176 194  .907
+Jokic, Den.            339  560  .605     Murray, Den.           110 243  .453     Morant, Mem.            88  97  .907
+Allen, Cle.            132  222  .595     Carrington, Was.        64 142  .451     George, Utah           213 236  .903
+Claxton, Bkn.          161  275  .585     Green, Mil.             94 211  .445     Knueppel, Cha.          72  80  .900
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Wallace, OKC.             32   71 2.22     Huff, Ind.               33  78 2.36     Maxey, Phi.              29 1155 39.8
-Daniels, Atl.             33   64 1.94     Sarr, Was.               22  49 2.23     Thompson, Hou.           30 1101 36.7
+Wallace, OKC.             33   71 2.15     Sarr, Was.               23  53 2.30     Maxey, Phi.              29 1155 39.8
+Daniels, Atl.             34   66 1.94     Huff, Ind.               34  78 2.29     Thompson, Hou.           30 1101 36.7
 Maxey, Phi.               29   52 1.79     Stewart, Det.            30  58 1.93     Doncic, LA-L             24  870 36.3
-Bridges, N.Y.             32   53 1.66     Kalkbrenner, Cha.        26  47 1.81     Durant, Hou.             28 1007 35.9
-Murphy II, N.O.           32   53 1.66     Gobert, Min.             33  56 1.70     Cunningham, Det.         30 1071 35.7
-Rollins, Mil.             33   53 1.61     Mobley, Cle.             28  45 1.61     Harden, LA-C             30 1069 35.6
-Sheppard, Hou.            30   48 1.60     Bona, Phi.               23  36 1.57     Sengun, Hou.             26  926 35.6
-Smith, Mia.               33   52 1.58     Holmgren, OKC.           28  43 1.54     Markkanen, Utah          28  995 35.5
-Dunn, LA-C                32   50 1.56     Barnes, Tor.             34  52 1.53     Brunson, N.Y.            29 1029 35.5
-Doncic, LA-L              24   37 1.54     Jackson Jr., Mem.        31  47 1.52     Murphy II, N.O.          32 1134 35.4
+Bridges, N.Y.             33   54 1.64     Kalkbrenner, Cha.        26  47 1.81     Durant, Hou.             28 1007 35.9
+Murphy II, N.O.           33   53 1.61     Mobley, Cle.             29  50 1.72     Cunningham, Det.         30 1071 35.7
+Sheppard, Hou.            30   48 1.60     Holmgren, OKC.           29  49 1.69     Harden, LA-C             30 1069 35.6
+Gilgeous-Alexander, OKC.  33   52 1.58     Gobert, Min.             34  56 1.65     Sengun, Hou.             26  926 35.6
+Smith, Mia.               33   52 1.58     Turner, Mil.             34  55 1.62     Markkanen, Utah          28  995 35.5
+Sharpe, Por.              30   47 1.57     Bona, Phi.               23  36 1.57     Brunson, N.Y.            30 1064 35.5
+Dunn, LA-C                32   50 1.56     Jackson Jr., Mem.        31  47 1.52     Murphy II, N.O.          33 1168 35.4
 
