@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF TUESDAY, JANUARY 6, 2026
+INCLUDES GAMES OF WEDNESDAY, JANUARY 7, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -15,8 +15,7 @@ Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 FT Attempts -- 23, Avdija, POR vs. OKC, 11/30
 Off. Rebounds -- 10, Duren, DET at DAL, 12/18 (OT)
-Off. Rebounds -- 10, Clingan, POR vs. CHI, 11/19
-Off. Rebounds -- 10, Missi, NO vs. CHI, 11/24
+Off. Rebounds -- 10, (3 times, most recently) Queta, BOS vs. DEN, 1/7
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 25, Barnes, TOR vs. GS, 12/28 (OT)
 Rebounds -- 24, Drummond, PHI vs. MIA, 11/23
@@ -53,7 +52,7 @@ Fewest Free Throws -- 3, Golden State vs. LAC, 10/28
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
-Free Throw Pct. -- 1.000, (10 times, most recently) Detroit at CLE, 1/4
+Free Throw Pct. -- 1.000, (11 times, most recently) Washington at PHI, 1/7
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
@@ -61,7 +60,7 @@ Off. Rebounds -- 26, Portland vs. CHI, 11/19
 Fewest Off. Rebounds -- 1, (3 times, most recently) Indiana vs. SA, 1/2
 Def. Rebounds -- 52, Minnesota vs. MIA, 1/6
 Fewest Def. Rebounds -- 17, Brooklyn vs. HOU, 1/1
-Rebounds -- 64, Utah vs. PHO, 10/27 (OT)
+Rebounds -- 65, Utah at OKC, 1/7 (OT)
 Rebounds -- 64, Portland vs. CHI, 11/19
 Fewest Rebounds -- 20, Toronto at SA, 10/27
 Assists -- 42, Atlanta at SAC, 11/12
