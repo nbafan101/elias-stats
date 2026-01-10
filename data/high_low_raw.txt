@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF THURSDAY, JANUARY 8, 2026
+INCLUDES GAMES OF FRIDAY, JANUARY 9, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -48,11 +48,12 @@ Lowest Field Goal Pct. -- .315, Charlotte at DET, 12/20
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
 Free Throws -- 41, L.A. Lakers at SAC, 10/26
 Free Throws -- 41, Utah vs. POR, 10/29
-Fewest Free Throws -- 3, Golden State vs. LAC, 10/28
+Fewest Free Throws -- 2, Atlanta at DEN, 1/9
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 4, Golden State vs. LAC, 10/28
-Free Throw Pct. -- 1.000, (11 times, most recently) Washington at PHI, 1/7
+Fewest FT Attempts -- 4, Atlanta at DEN, 1/9
+Free Throw Pct. -- 1.000, (12 times, most recently) Golden State vs. SAC, 1/9
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
