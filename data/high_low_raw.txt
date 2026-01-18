@@ -1,15 +1,17 @@
 
-INCLUDES GAMES OF FRIDAY, JANUARY 16, 2026
+INCLUDES GAMES OF SATURDAY, JANUARY 17, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 52, Maxey, PHI vs. ATL, 11/30 (2 OT)
 Minutes -- 45, Murray, SAC at UTA, 11/28
 Field Goals -- 19, Murray, DEN at IND, 12/3
+Field Goals -- 19, Edwards, MIN at SA, 1/17
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
 FG Attempts -- 33, Brown, BOS vs. LAC, 11/16
+FG Attempts -- 33, Edwards, MIN at SA, 1/17
 3-Pt. Field Goals -- 12, Curry, GS at POR, 12/14
-3-Pt. FG Attempts -- 20, Allen, PHO at DET, 1/15
+3-Pt. FG Attempts -- 21, Hauser, BOS at ATL, 1/17
 Free Throws -- 23, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
@@ -28,13 +30,12 @@ Turnovers -- 9, (5 times, most recently) Cunningham, DET at SAC, 12/23
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 7, White, BOS at UTA, 12/30
 Points -- 56, Jokic, DEN vs. MIN, 12/25 (OT)
-Points -- 55, (3 times, most recently) Leonard, LAC vs. DET, 12/28
+Points -- 55, (4 times, most recently) Edwards, MIN at SA, 1/17
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
 Field Goals -- 58, New Orleans vs. POR, 12/11
-Fewest Field Goals -- 28, New Orleans vs. BOS, 10/27
-Fewest Field Goals -- 28, Charlotte at DET, 12/20
+Fewest Field Goals -- 28, (3 times, most recently) Indiana at DET, 1/17
 FG Attempts -- 122, Detroit at DAL, 12/18 (OT)
 FG Attempts -- 112, New Orleans vs. POR, 12/11
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
@@ -73,9 +74,10 @@ Steals -- 19, Phoenix at POR, 11/18
 Steals -- 19, Miami vs. NO, 1/4
 Turnovers -- 29, L.A. Clippers at OKC, 12/18
 Fewest Turnovers -- 4, L.A. Clippers vs. SAC, 12/30
+Fewest Turnovers -- 4, Miami vs. OKC, 1/17
 Blocks -- 15, Dallas vs. DET, 12/18 (OT)
 Blocks -- 13, Chicago vs. MIA, 11/21
 Blocks -- 13, Detroit vs. LAC, 1/10
 Points -- 152, Utah vs. IND, 11/11
 Points -- 152, Chicago at ATL, 12/21
-Fewest Points -- 79, L.A. Clippers at GS, 10/28
+Fewest Points -- 78, Indiana at DET, 1/17
