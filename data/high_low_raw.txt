@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF MONDAY, JANUARY 19, 2026
+INCLUDES GAMES OF TUESDAY, JANUARY 20, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -43,6 +43,7 @@ Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
 Field Goal Pct. -- .632, Detroit at LAL, 12/30
 Lowest Field Goal Pct. -- .315, Charlotte at DET, 12/20
 3-Pt. Field Goals -- 25, Atlanta at OKC, 12/29
+3-Pt. Field Goals -- 25, Chicago vs. LAC, 1/20
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
 3-Pt. FG Attempts -- 59, Charlotte at UTA, 1/10
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
@@ -53,7 +54,7 @@ Fewest Free Throws -- 2, Atlanta at DEN, 1/9
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 4, (3 times, most recently) Boston vs. SA, 1/10
-Free Throw Pct. -- 1.000, (16 times, most recently) L.A. Clippers vs. WAS, 1/14
+Free Throw Pct. -- 1.000, (19 times, most recently) Toronto at GS, 1/20
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 28, Utah vs. PHO, 10/27 (OT)
 Off. Rebounds -- 28, Detroit vs. WAS, 11/10 (OT)
@@ -64,8 +65,7 @@ Fewest Def. Rebounds -- 17, Brooklyn vs. HOU, 1/1
 Rebounds -- 65, Utah at OKC, 1/7 (OT)
 Rebounds -- 65, Charlotte at UTA, 1/10
 Fewest Rebounds -- 20, Toronto at SA, 10/27
-Assists -- 42, Atlanta at SAC, 11/12
-Assists -- 42, Memphis vs. SAC, 11/20
+Assists -- 42, (3 times, most recently) Toronto at GS, 1/20
 Fewest Assists -- 10, L.A. Clippers at GS, 10/28
 Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 36, San Antonio at LAL, 11/5
