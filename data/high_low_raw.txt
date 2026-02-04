@@ -1,10 +1,10 @@
 
-INCLUDES GAMES OF MONDAY, FEBRUARY 2, 2026
+INCLUDES GAMES OF TUESDAY, FEBRUARY 3, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 52, Maxey, PHI vs. ATL, 11/30 (2 OT)
-Minutes -- 45, Murray, SAC at UTA, 11/28
+Minutes -- 48, Collier, UTA at IND, 2/3
 Field Goals -- 20, Flagg, DAL vs. CHA, 1/29
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
 FG Attempts -- 33, Brown, BOS vs. LAC, 11/16
@@ -19,8 +19,7 @@ Off. Rebounds -- 13, Clingan, POR at WAS, 1/27
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 25, Barnes, TOR vs. GS, 12/28 (OT)
 Rebounds -- 24, Drummond, PHI vs. MIA, 11/23
-Assists -- 18, G. Antetokounmpo, MIL vs. CHA, 11/14 (OT)
-Assists -- 18, Cunningham, DET vs. DAL, 11/1
+Assists -- 22, Collier, UTA at IND, 2/3
 Steals -- 8, Jones, NO vs. HOU, 12/18 (OT)
 Steals -- 8, Maxey, PHI vs. IND, 1/19
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
@@ -48,11 +47,11 @@ Lowest Field Goal Pct. -- .291, Brooklyn at NY, 1/21
 Free Throws -- 45, Oklahoma City at IND, 10/23 (2 OT)
 Free Throws -- 41, L.A. Lakers at SAC, 10/26
 Free Throws -- 41, Utah vs. POR, 10/29
-Fewest Free Throws -- 2, Atlanta at DEN, 1/9
+Fewest Free Throws -- 1, Golden State vs. PHI, 2/3
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
-Fewest FT Attempts -- 4, (3 times, most recently) Boston vs. SA, 1/10
-Free Throw Pct. -- 1.000, (19 times, most recently) Toronto at GS, 1/20
+Fewest FT Attempts -- 2, Golden State vs. PHI, 2/3
+Free Throw Pct. -- 1.000, (20 times, most recently) Orlando at OKC, 2/3
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 29, Portland at WAS, 1/27
 Fewest Off. Rebounds -- 1, (4 times, most recently) Chicago at MIA, 1/31
