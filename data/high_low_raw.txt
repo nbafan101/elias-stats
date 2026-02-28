@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF THURSDAY, FEBRUARY 26, 2026
+INCLUDES GAMES OF FRIDAY, FEBRUARY 27, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -17,6 +17,7 @@ Free Throws -- 21, Reaves, LAL at SAC, 10/26
 FT Attempts -- 26, Gilgeous-Alexander, OKC at IND, 10/23 (2 OT)
 FT Attempts -- 23, Avdija, POR vs. OKC, 11/30
 Off. Rebounds -- 13, Clingan, POR at WAS, 1/27
+Def. Rebounds -- 19, Holmgren, OKC vs. DEN, 2/27 (OT)
 Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
 Rebounds -- 25, Barnes, TOR vs. GS, 12/28 (OT)
 Rebounds -- 24, Drummond, PHI vs. MIA, 11/23
@@ -37,8 +38,7 @@ Fewest Field Goals -- 23, Brooklyn at NY, 1/21
 FG Attempts -- 122, Detroit at DAL, 12/18 (OT)
 FG Attempts -- 112, New Orleans vs. POR, 12/11
 Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
-Field Goal Pct. -- .647, Milwaukee vs. CHA, 11/14 (OT)
-Field Goal Pct. -- .632, Detroit at LAL, 12/30
+Field Goal Pct. -- .667, Boston vs. BKN, 2/27
 Lowest Field Goal Pct. -- .291, Brooklyn at NY, 1/21
 3-Pt. Field Goals -- 27, Orlando at SAC, 2/19
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
@@ -56,7 +56,7 @@ Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 29, Portland at WAS, 1/27
 Fewest Off. Rebounds -- 1, (4 times, most recently) Chicago at MIA, 1/31
 Def. Rebounds -- 52, Minnesota vs. MIA, 1/6
-Fewest Def. Rebounds -- 17, Brooklyn vs. HOU, 1/1
+Fewest Def. Rebounds -- 16, Brooklyn at BOS, 2/27
 Rebounds -- 69, Portland at WAS, 1/27
 Fewest Rebounds -- 20, Toronto at SA, 10/27
 Assists -- 44, Miami vs. CHI, 2/1
