@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF SATURDAY, FEBRUARY 28, 2026
+INCLUDES GAMES OF SUNDAY, MARCH 1, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -9,6 +9,7 @@ Minutes -- 48, Collier, UTA at ATL, 2/5
 Field Goals -- 20, Flagg, DAL vs. CHA, 1/29
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
 FG Attempts -- 34, Cunningham, DET at NY, 2/19
+FG Attempts -- 34, Maxey, PHI at BOS, 3/1
 3-Pt. Field Goals -- 12, Murphy II, NO at MIL, 2/4 (OT)
 3-Pt. Field Goals -- 12, Curry, GS at POR, 12/14
 3-Pt. FG Attempts -- 21, Hauser, BOS at ATL, 1/17
@@ -25,7 +26,7 @@ Assists -- 22, Collier, UTA at IND, 2/3
 Steals -- 8, Jones, NO vs. HOU, 12/18 (OT)
 Steals -- 8, Maxey, PHI vs. IND, 1/19
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
-Turnovers -- 9, (7 times, most recently) Jokic, DEN vs. MEM, 2/11
+Turnovers -- 9, (8 times, most recently) Banchero, ORL vs. DET, 3/1
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 7, White, BOS at UTA, 12/30
 Points -- 56, Jokic, DEN vs. MIN, 12/25 (OT)
@@ -51,7 +52,7 @@ Fewest Free Throws -- 1, Golden State vs. PHI, 2/3
 FT Attempts -- 51, Oklahoma City at IND, 10/23 (2 OT)
 FT Attempts -- 49, Utah vs. POR, 10/29
 Fewest FT Attempts -- 2, Golden State vs. PHI, 2/3
-Free Throw Pct. -- 1.000, (24 times, most recently) Phoenix vs. POR, 2/22
+Free Throw Pct. -- 1.000, (25 times, most recently) Memphis at IND, 3/1
 Lowest Free Throw Pct. -- .444, Oklahoma City at UTA, 12/7
 Off. Rebounds -- 29, Portland at WAS, 1/27
 Fewest Off. Rebounds -- 1, (4 times, most recently) Chicago at MIA, 1/31
