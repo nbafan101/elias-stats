@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF SUNDAY, MARCH 22, 2026
+INCLUDES GAMES OF MONDAY, MARCH 23, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -25,8 +25,7 @@ Steals -- 8, Maxey, PHI vs. IND, 1/19
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 10, Jokic, DEN at MEM, 3/18
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
-Blocks -- 7, White, BOS at UTA, 12/30
-Blocks -- 7, Ware, MIA vs. BKN, 3/5
+Blocks -- 7, (3 times, most recently) Clingan, POR vs. BKN, 3/23
 Points -- 83, Adebayo, MIA vs. WAS, 3/10
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
@@ -46,7 +45,7 @@ Free Throws -- 47, Miami vs. WAS, 3/10
 Fewest Free Throws -- 1, Golden State vs. PHI, 2/3
 FT Attempts -- 59, Miami vs. WAS, 3/10
 Fewest FT Attempts -- 2, Golden State vs. PHI, 2/3
-Free Throw Pct. -- 1.000, (27 times, most recently) Phoenix vs. TOR, 3/22
+Free Throw Pct. -- 1.000, (28 times, most recently) L.A. Clippers vs. MIL, 3/23
 Lowest Free Throw Pct. -- .357, Houston at DEN, 3/11
 Off. Rebounds -- 29, Portland at WAS, 1/27
 Fewest Off. Rebounds -- 1, (4 times, most recently) Chicago at MIA, 1/31
@@ -54,8 +53,7 @@ Def. Rebounds -- 52, Minnesota vs. MIA, 1/6
 Fewest Def. Rebounds -- 16, Brooklyn at BOS, 2/27
 Rebounds -- 69, Portland at WAS, 1/27
 Fewest Rebounds -- 20, Toronto at SA, 10/27
-Assists -- 44, Miami vs. CHI, 2/1
-Assists -- 44, New York at DEN, 3/6
+Assists -- 49, Toronto at UTA, 3/23
 Fewest Assists -- 10, L.A. Clippers at GS, 10/28
 Personal Fouls -- 37, Indiana vs. OKC, 10/23 (2 OT)
 Personal Fouls -- 36, San Antonio at LAL, 11/5
