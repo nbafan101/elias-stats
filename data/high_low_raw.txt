@@ -1,5 +1,5 @@
 
-INCLUDES GAMES OF TUESDAY, MARCH 24, 2026
+INCLUDES GAMES OF WEDNESDAY, MARCH 25, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -16,7 +16,7 @@ Free Throws -- 36, Adebayo, MIA vs. WAS, 3/10
 FT Attempts -- 43, Adebayo, MIA vs. WAS, 3/10
 Off. Rebounds -- 13, Clingan, POR at WAS, 1/27
 Def. Rebounds -- 19, Holmgren, OKC vs. DEN, 2/27 (OT)
-Def. Rebounds -- 18, Wembanyama, SA vs. NO, 11/8
+Def. Rebounds -- 19, Jokic, DEN vs. DAL, 3/25
 Rebounds -- 25, Barnes, TOR vs. GS, 12/28 (OT)
 Rebounds -- 24, Drummond, PHI vs. MIA, 11/23
 Assists -- 22, Collier, UTA at IND, 2/3
@@ -25,7 +25,7 @@ Steals -- 8, Maxey, PHI vs. IND, 1/19
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 10, Jokic, DEN at MEM, 3/18
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
-Blocks -- 7, (3 times, most recently) Clingan, POR vs. BKN, 3/23
+Blocks -- 7, (4 times, most recently) Wembanyama, SA at MEM, 3/25
 Points -- 83, Adebayo, MIA vs. WAS, 3/10
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
@@ -66,4 +66,5 @@ Blocks -- 15, Orlando at PHO, 2/21 (2 OT)
 Blocks -- 15, Dallas vs. DET, 12/18 (OT)
 Blocks -- 14, Houston at ATL, 1/29
 Points -- 157, Denver at POR, 2/20
+Points -- 157, Philadelphia vs. CHI, 3/25
 Fewest Points -- 66, Brooklyn at NY, 1/21
