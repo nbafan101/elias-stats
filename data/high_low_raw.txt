@@ -1,10 +1,10 @@
 
-INCLUDES GAMES OF THURSDAY, APRIL 9, 2026
+INCLUDES GAMES OF FRIDAY, APRIL 10, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 52, Maxey, PHI vs. ATL, 11/30 (2 OT)
-Minutes -- 48, (4 times, most recently) Mbeng, UTA at NO, 4/7
+Minutes -- 48, (6 times, most recently) Williamson, MEM at UTA, 4/10
 Field Goals -- 20, Flagg, DAL vs. CHA, 1/29
 Field Goals -- 20, Adebayo, MIA vs. WAS, 3/10
 FG Attempts -- 45, Cunningham, DET vs. WAS, 11/10 (OT)
@@ -24,14 +24,14 @@ Steals -- 8, Jones, NO vs. HOU, 12/18 (OT)
 Steals -- 8, Maxey, PHI vs. IND, 1/19
 Turnovers -- 10, Castle, SA at NO, 10/24 (OT)
 Turnovers -- 10, Jokic, DEN at MEM, 3/18
+Turnovers -- 10, Mashack, MEM at UTA, 4/10
 Blocks -- 9, Wembanyama, SA at NO, 10/24 (OT)
 Blocks -- 7, (5 times, most recently) Ware, MIA vs. WAS, 4/4
 Points -- 83, Adebayo, MIA vs. WAS, 3/10
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
-Field Goals -- 61, Philadelphia at WAS, 4/1
-Field Goals -- 61, New Orleans vs. UTA, 4/7
+Field Goals -- 62, Utah vs. MEM, 4/10
 Fewest Field Goals -- 23, Brooklyn at NY, 1/21
 FG Attempts -- 122, Detroit at DAL, 12/18 (OT)
 FG Attempts -- 112, New Orleans vs. POR, 12/11
@@ -39,15 +39,15 @@ Fewest FG Attempts -- 67, San Antonio vs. TOR, 10/27
 Field Goal Pct. -- .667, Boston vs. BKN, 2/27
 Lowest Field Goal Pct. -- .291, Brooklyn at NY, 1/21
 3-Pt. Field Goals -- 29, Memphis vs. CLE, 4/6
+3-Pt. Field Goals -- 29, Boston vs. NO, 4/10
 3-Pt. FG Attempts -- 65, Cleveland at MIA, 11/10 (OT)
-3-Pt. FG Attempts -- 59, Charlotte at UTA, 1/10
-3-Pt. FG Attempts -- 59, Memphis vs. CLE, 4/6
+3-Pt. FG Attempts -- 59, (3 times, most recently) Boston vs. NO, 4/10
 3-Pt. FG Pct. -- .655, Houston at BOS, 11/1
 Free Throws -- 47, Miami vs. WAS, 3/10
 Fewest Free Throws -- 1, Golden State vs. PHI, 2/3
 FT Attempts -- 59, Miami vs. WAS, 3/10
 Fewest FT Attempts -- 2, Golden State vs. PHI, 2/3
-Free Throw Pct. -- 1.000, (29 times, most recently) Golden State vs. LAL, 4/9
+Free Throw Pct. -- 1.000, (30 times, most recently) L.A. Clippers at POR, 4/10
 Lowest Free Throw Pct. -- .357, Houston at DEN, 3/11
 Off. Rebounds -- 29, Portland at WAS, 1/27
 Fewest Off. Rebounds -- 1, (4 times, most recently) Chicago at MIA, 1/31
