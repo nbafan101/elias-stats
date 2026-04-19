@@ -1,4 +1,53 @@
 
+PLAYOFFS / INCLUDES GAMES OF SATURDAY, APRIL 18, 2026
+
+SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
+Mitchell, Cle.         1   11   6   32 32.0     Hart, N.Y.            1    0   14   14 14.0     L. James, LA-L         1   13 13.0
+Murray, Den.           1    7  16   30 30.0     Jokic, Den.           1    1   12   13 13.0     Daniels, Atl.          1   11 11.0
+Brunson, N.Y.          1    9   7   28 28.0     Smith Jr., Hou.       1    5    7   12 12.0     Jokic, Den.            1   11 11.0
+Kennard, LA-L          1    9   4   27 27.0     Ayton, LA-L           1    3    8   11 11.0     Harden, Cle.           1   10 10.0
+McCollum, Atl.         1   11   0   26 26.0     Eason, Hou.           1    3    7   10 10.0     Sheppard, Hou.         1    8  8.0
+Jokic, Den.            1   11   1   25 25.0     Gobert, Min.          1    3    7   10 10.0     Smart, LA-L            1    8  8.0
+Towns, N.Y.            1    6  10   25 25.0     Daniels, Atl.         1    1    8    9  9.0     Barnes, Tor.           1    7  7.0
+Barrett, Tor.          1    7   7   24 24.0     Edwards, Min.         1    0    9    9  9.0     Brunson, N.Y.          1    7  7.0
+Strus, Cle.            1    8   4   24 24.0     Anunoby, N.Y.         1    0    8    8  8.0     Edwards, Min.          1    7  7.0
+Johnson, Atl.          1    8   4   23 23.0     Braun, Den.           1    1    7    8  8.0     Murray, Den.           1    7  7.0
+Edwards, Min.          1    7   6   22 22.0     Gordon, Den.          1    4    4    8  8.0     Thompson, Hou.         1    7  7.0
+Harden, Cle.           1    8   2   22 22.0     L. James, LA-L        1    0    8    8  8.0     Sengun, Hou.           1    6  6.0
+Barnes, Tor.           1    6   6   21 21.0     Mamukelashvili, Tor.  1    3    5    8  8.0     Hart, N.Y.             1    5  5.0
+Ayton, LA-L            1    8   3   19 19.0     McDaniels, Min.       1    3    5    8  8.0     Alexander-Walker, Atl. 1    4  4.0
+L. James, LA-L         1    9   0   19 19.0     Okongwu, Atl.         1    1    7    8  8.0     Ingram, Tor.           1    4  4.0
+Okongwu, Atl.          1    6   3   19 19.0     Sengun, Hou.          1    4    4    8  8.0     Mitchell, Cle.         1    4  4.0
+Sengun, Hou.           1    6   7   19 19.0     Towns, N.Y.           1    2    6    8  8.0     Mobley, Cle.           1    4  4.0
+Anunoby, N.Y.          1    6   4   18 18.0     6 tied                                  7.0     Murray-Boyles, Tor.    1    4  4.0
+8 tied                 1    8   1   17 17.0                                                     Towns, N.Y.            1    4  4.0
+                                                                                                8 tied                         3.0
+
+FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
+Eason, Hou.              7    7 1.000     Conley, Min.             1   1 1.000     Anunoby, N.Y.            4   4 1.000
+Gobert, Min.             8    9  .889     Eason, Hou.              2   2 1.000     Ayton, LA-L              3   3 1.000
+Murray-Boyles, Tor.      7    8  .875     Ellis, Cle.              1   1 1.000     Braun, Den.              2   2 1.000
+Ayton, LA-L              8   10  .800     Kennard, LA-L            5   5 1.000     Hardaway Jr., Den.       2   2 1.000
+Strus, Cle.              8   10  .800     S. Jones, Den.           1   1 1.000     Harden, Cle.             2   2 1.000
+Allen, Cle.              5    7  .714     Shead, Tor.              5   6  .833     Jackson-Davis, Tor.      2   2 1.000
+Kennard, LA-L            9   13  .692     Barnes, Tor.             3   4  .750     Johnson, Atl.            4   4 1.000
+Anunoby, N.Y.            6    9  .667     Brunson, N.Y.            3   4  .750     LaRavia, LA-L            4   4 1.000
+Clarkson, N.Y.           4    6  .667     Towns, N.Y.              3   4  .750     McDaniels, Min.          4   4 1.000
+Mobley, Cle.             6    9  .667     Anunoby, N.Y.            2   3  .667     Merrill, Cle.            4   4 1.000
+
+STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
+Brown, Den.                1    5 5.00     Edwards, Min.             1   3 3.00     Thompson, Hou.            1   43 43.1
+Daniels, Atl.              1    3 3.00     Towns, N.Y.               1   3 3.00     Smith Jr., Hou.           1   43 43.0
+Eason, Hou.                1    3 3.00     Hachimura, LA-L           1   2 2.00     Hachimura, LA-L           1   42 41.5
+Hachimura, LA-L            1    3 3.00     Poeltl, Tor.              1   2 2.00     Jokic, Den.               1   40 40.1
+Hart, N.Y.                 1    3 3.00     Robinson, N.Y.            1   2 2.00     Murray, Den.              1   39 39.5
+Thompson, Hou.             1    3 3.00     Smart, LA-L               1   2 2.00     Alexander-Walker, Atl.    1   39 39.3
+DiVincenzo, Min.           1    2 2.00     Alexander-Walker, Atl.    1   1 1.00     Johnson, Atl.             1   39 38.9
+Harden, Cle.               1    2 2.00     Ayton, LA-L               1   1 1.00     L. James, LA-L            1   38 38.4
+L. James, LA-L             1    2 2.00     Hardaway Jr., Den.        1   1 1.00     Kennard, LA-L             1   38 38.3
+Mitchell, Cle.             1    2 2.00     Hayes, LA-L               1   1 1.00     Edwards, Min.             1   38 38.0
+
+
 INCLUDES GAMES OF SUNDAY, APRIL 12, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
