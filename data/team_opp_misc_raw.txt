@@ -1,19 +1,27 @@
 
-PLAYOFFS / INCLUDES GAMES OF SATURDAY, APRIL 18, 2026
+PLAYOFFS / INCLUDES GAMES OF SUNDAY, APRIL 19, 2026
                                                                                                          DECIDED  DECIDED
                           POINTS       FIELD GOAL    TURNOVERS         REBOUND         BELOW   OVERTIME   3 PTS.  10 PTS.
                           PER GAME     PERCENTAGE     PER GAME       PERCENTAGES      100 PTS.   GAMES   OR LESS  OR MORE
 TEAM                    OWN    OPP.    OWN   OPP.    OWN   OPP.    OFF.  DEF.  TOT.   OWN OPP.    W  L     W  L     W  L
 Atlanta               102.0  113.0    .437  .475    12.0  11.0    .170  .842  .506      0   0     0  0     0  0     0  1
+Boston                123.0   91.0    .500  .389    10.0  15.0    .147  .776  .461      0   1     0  0     0  0     1  0
 Cleveland             126.0* 113.0    .543  .521    17.0  18.0    .233  .867  .550      0   0     0  0     0  0     1  0
 Denver                116.0  105.0    .437  .460    14.0  13.0    .182  .848  .515      0   0     0  0     0  0     1  0
+Detroit               101.0  112.0    .403  .489    14.0  12.0    .150  .750  .450      0   0     0  0     0  0     0  1
 Houston                98.0  107.0    .376  .606    13.0  20.0*   .396* .885* .640*     1   0     0  0     0  0     0  0
-L.A. Lakers           107.0   98.0*   .606* .376*   20.0  13.0    .115  .604  .360      0   1     0  0     0  0     0  0
+L.A. Lakers           107.0   98.0    .606* .376    20.0  13.0    .115  .604  .360      0   1     0  0     0  0     0  0
 Minnesota             105.0  116.0    .460  .437    13.0  14.0    .152  .818  .485      0   0     0  0     0  0     0  1
-New York              113.0  102.0    .475  .437    11.0* 12.0    .158  .830  .494      0   0     0  0     0  0     1  0
+New York              113.0  102.0    .475  .437    11.0  12.0    .158  .830  .494      0   0     0  0     0  0     1  0
+Oklahoma City         119.0   84.0*   .452  .349*    8.0* 19.0    .380  .714  .547      0   1     0  0     0  0     1  0
+Orlando               112.0  101.0    .489  .403    12.0  14.0    .250  .850  .550      0   0     0  0     0  0     1  0
+Philadelphia           91.0  123.0    .389  .500    15.0  10.0    .224  .853  .539      1   0     0  0     0  0     0  1
+Phoenix                84.0  119.0    .349  .452    19.0   8.0    .286  .620  .453      1   0     0  0     0  0     0  1
+Portland               98.0  111.0    .429  .476    11.0  14.0    .190  .732  .461      1   0     0  0     0  0     0  1
+San Antonio           111.0   98.0    .476  .429    14.0  11.0    .268  .810  .539      0   1     0  0     0  0     1  0
 Toronto               113.0  126.0    .521  .543    18.0  17.0    .133  .767  .450      0   0     0  0     0  0     0  1
 
-COMPOSITE; 8     games   110.0           .475          14.8       .204  .796            1   1        0        0        3
+COMPOSITE; 16    games   107.4           .456          13.8       .225  .775            4   4        0        0        7
 
 * - League Leader
 
