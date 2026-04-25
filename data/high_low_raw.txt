@@ -1,11 +1,14 @@
 
-PLAYOFFS / INCLUDES GAMES OF THURSDAY, APRIL 23, 2026
+PLAYOFFS / INCLUDES GAMES OF FRIDAY, APRIL 24, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
+Minutes -- 48, Thompson, HOU vs. LAL, 4/24 (OT)
 Minutes -- 43, Thompson, HOU at LAL, 4/18
+Field Goals -- 15, Sengun, HOU vs. LAL, 4/24 (OT)
 Field Goals -- 13, (4 times, most recently) Gilgeous-Alexander, OKC vs. PHO, 4/22
-FG Attempts -- 28, Maxey, PHI at BOS, 4/21
+FG Attempts -- 31, Maxey, PHI vs. BOS, 4/24
+3-Pt. Field Goals -- 6, Smith Jr., HOU vs. LAL, 4/24 (OT)
 3-Pt. Field Goals -- 6, (3 times, most recently) Barrett, TOR vs. CLE, 4/23
 3-Pt. FG Attempts -- 14, Sheppard, HOU at LAL, 4/18
 3-Pt. FG Attempts -- 14, Murray, DEN vs. MIN, 4/20
@@ -15,6 +18,7 @@ Off. Rebounds -- 7, Ighodaro, PHO at OKC, 4/19
 Def. Rebounds -- 15, Jokic, DEN vs. MIN, 4/20
 Rebounds -- 17, Towns, NY at ATL, 4/23
 Assists -- 13, L. James, LAL vs. HOU, 4/18
+Steals -- 5, Smart, LAL at HOU, 4/24 (OT)
 Steals -- 5, (4 times, most recently) Shead, TOR vs. CLE, 4/23
 Turnovers -- 9, Durant, HOU at LAL, 4/21
 Blocks -- 4, Holmgren, OKC vs. PHO, 4/22
@@ -24,18 +28,19 @@ SINGLE-GAME HIGHS AND LOWS / TEAMS
 
 Field Goals -- 50, Toronto vs. CLE, 4/23
 Fewest Field Goals -- 26, Orlando at DET, 4/22
+FG Attempts -- 98, Houston vs. LAL, 4/24 (OT)
 FG Attempts -- 93, (4 times, most recently) Minnesota vs. DEN, 4/23
 Fewest FG Attempts -- 66, L.A. Lakers vs. HOU, 4/18
 Field Goal Pct. -- .606, L.A. Lakers vs. HOU, 4/18
 Lowest Field Goal Pct. -- .325, Orlando at DET, 4/22
-3-Pt. Field Goals -- 19, Philadelphia at BOS, 4/21
+3-Pt. Field Goals -- 20, Boston at PHI, 4/24
 3-Pt. FG Attempts -- 50, Boston vs. PHI, 4/21
 3-Pt. FG Pct. -- .609, Toronto vs. CLE, 4/23
 Free Throws -- 32, Denver at MIN, 4/23
 Fewest Free Throws -- 6, Philadelphia at BOS, 4/21
 FT Attempts -- 40, Denver at MIN, 4/23
 Fewest FT Attempts -- 11, Philadelphia at BOS, 4/21
-Free Throw Pct. -- .913, Oklahoma City vs. PHO, 4/19
+Free Throw Pct. -- .941, Boston at PHI, 4/24
 Lowest Free Throw Pct. -- .545, Philadelphia at BOS, 4/21
 Off. Rebounds -- 21, Houston at LAL, 4/18
 Fewest Off. Rebounds -- 3, L.A. Lakers vs. HOU, 4/18
@@ -52,8 +57,7 @@ Fewest Personal Fouls -- 15, Cleveland at TOR, 4/23
 Steals -- 16, Orlando at DET, 4/22
 Turnovers -- 23, Detroit vs. ORL, 4/22
 Fewest Turnovers -- 8, Oklahoma City vs. PHO, 4/19
-Blocks -- 11, Portland at SA, 4/21
-Blocks -- 11, Detroit vs. ORL, 4/22
+Blocks -- 11, (3 times, most recently) Boston at PHI, 4/24
 Points -- 126, Cleveland vs. TOR, 4/18
 Points -- 126, Toronto vs. CLE, 4/23
 Fewest Points -- 83, Orlando at DET, 4/22

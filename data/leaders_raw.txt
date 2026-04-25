@@ -1,51 +1,51 @@
 
-PLAYOFFS / INCLUDES GAMES OF THURSDAY, APRIL 23, 2026
+PLAYOFFS / INCLUDES GAMES OF FRIDAY, APRIL 24, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Cunningham, Det.       2   24  14   66 33.0     Jokic, Den.           3    3   40   43 14.3     Holiday, Por.          2   20 10.0
-Gilgeous-Alexander, OK 2   18  24   62 31.0     Tatum, Bos.           2    3   22   25 12.5     L. James, LA-L         2   20 10.0
-J. Brown, Bos.         2   22  11   62 31.0     Hart, N.Y.            3    3   33   36 12.0     Maxey, Phi.            2   17  8.5
+Cunningham, Det.       2   24  14   66 33.0     Jokic, Den.           3    3   40   43 14.3     L. James, LA-L         3   26  8.7
+Gilgeous-Alexander, OK 2   18  24   62 31.0     Hart, N.Y.            3    3   33   36 12.0     Holiday, Por.          3   25  8.3
+J. Brown, Bos.         3   31  17   87 29.0     Sengun, Hou.          3   14   21   35 11.7     Smart, LA-L            3   25  8.3
 Brunson, N.Y.          3   30  16   83 27.7     Towns, N.Y.           3    9   24   33 11.0     Gilgeous-Alexander, OK 2   16  8.0
-McCollum, Atl.         3   31  10   81 27.0     Gobert, Min.          3    9   20   29  9.7     Tatum, Bos.            2   16  8.0
-Barnes, Tor.           3   28  17   80 26.7     Sengun, Hou.          2    9   10   19  9.5     Thompson, Hou.         2   16  8.0
-Barrett, Tor.          3   29  12   79 26.3     Eason, Hou.           2    8   10   18  9.0     Barnes, Tor.           3   23  7.7
-Mitchell, Cle.         3   31   6   77 25.7     Hartenstein, OKC.     2   10    8   18  9.0     Cunningham, Det.       2   15  7.5
-Jokic, Den.            3   26  19   76 25.3     Smith Jr., Hou.       2    6   12   18  9.0     Smart, LA-L            2   15  7.5
-Murray, Den.           3   23  24   76 25.3     Daniels, Atl.         3    5   21   26  8.7     Jokic, Den.            3   22  7.3
-Kennard, LA-L          2   17   8   50 25.0     Clingan, Por.         2    6   11   17  8.5     Daniels, Atl.          3   19  6.3
-Maxey, Phi.            2   19   6   50 25.0     Harris, Det.          2    5   12   17  8.5     Banchero, Orl.         2   12  6.0
-Henderson, Por.        2   18   6   49 24.5     Ighodaro, Pho.        2   11    6   17  8.5     Brunson, N.Y.          3   18  6.0
-Brooks, Pho.           2   18   4   48 24.0     Anunoby, N.Y.         3    4   21   25  8.3     Castle, S.A.           2   12  6.0
-L. James, LA-L         2   17  10   47 23.5     Johnson, Atl.         3    2   23   25  8.3     Fox, S.A.              2   12  6.0
-Edwards, Min.          3   23  16   69 23.0     Ayton, LA-L           2    4   12   16  8.0     Harden, Cle.           3   18  6.0
-Harden, Cle.           3   22  14   68 22.7     Duren, Det.           2    5   11   16  8.0     Murray, Den.           3   18  6.0
-Booker, Pho.           2   15  13   45 22.5     Edwards, Min.         3    1   23   24  8.0     Hart, N.Y.             3   17  5.7
-Avdija, Por.           2   17   7   44 22.0     L. James, LA-L        2    1   15   16  8.0     3 tied                         5.5
-Tatum, Bos.            2   17   7   44 22.0     Okongwu, Atl.         3    4   19   23  7.7                                       
+Maxey, Phi.            3   31   8   81 27.0     Tatum, Bos.           3    3   27   30 10.0     Barnes, Tor.           3   23  7.7
+McCollum, Atl.         3   31  10   81 27.0     Gobert, Min.          3    9   20   29  9.7     Maxey, Phi.            3   23  7.7
+Barnes, Tor.           3   28  17   80 26.7     L. James, LA-L        3    1   28   29  9.7     Tatum, Bos.            3   23  7.7
+Barrett, Tor.          3   29  12   79 26.3     Clingan, Por.         3    9   19   28  9.3     Cunningham, Det.       2   15  7.5
+Mitchell, Cle.         3   31   6   77 25.7     Hartenstein, OKC.     2   10    8   18  9.0     Jokic, Den.            3   22  7.3
+Jokic, Den.            3   26  19   76 25.3     Daniels, Atl.         3    5   21   26  8.7     Thompson, Hou.         3   20  6.7
+L. James, LA-L         3   27  15   76 25.3     Harris, Det.          2    5   12   17  8.5     Daniels, Atl.          3   19  6.3
+Murray, Den.           3   23  24   76 25.3     Ighodaro, Pho.        2   11    6   17  8.5     Banchero, Orl.         2   12  6.0
+Brooks, Pho.           2   18   4   48 24.0     Anunoby, N.Y.         3    4   21   25  8.3     Brunson, N.Y.          3   18  6.0
+Sengun, Hou.           3   30  11   72 24.0     Johnson, Atl.         3    2   23   25  8.3     Fox, S.A.              3   18  6.0
+Henderson, Por.        3   26   6   70 23.3     Kornet, S.A.          3   12   13   25  8.3     Harden, Cle.           3   18  6.0
+Edwards, Min.          3   23  16   69 23.0     Duren, Det.           2    5   11   16  8.0     Murray, Den.           3   18  6.0
+Tatum, Bos.            3   26   9   69 23.0     Edwards, Min.         3    1   23   24  8.0     Sheppard, Hou.         3   18  6.0
+Castle, S.A.           3   21  20   68 22.7     Smith Jr., Hou.       3    7   17   24  8.0     4 tied                         5.7
+Harden, Cle.           3   22  14   68 22.7     Williams III, Por.    3   12   12   24  8.0                                       
+Booker, Pho.           2   15  13   45 22.5     3 tied                                  7.7                                       
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Queta, Bos.              8    9  .889     Fleming, Pho.            3   3 1.000     Barnes, S.A.             4   4 1.000
-Kornet, S.A.             9   11  .818     Richardson, Orl.         2   2 1.000     Brooks, Pho.             4   4 1.000
-Williams III, Por.      10   13  .769     S. Jones, Den.           3   3 1.000     Camara, Por.             4   4 1.000
-Murray-Boyles, Tor.     24   33  .727     Battle, Tor.             4   5  .800     Garza, Bos.              4   4 1.000
-Allen, Cle.             14   20  .700     Kennard, LA-L            8  11  .727     Jokic, Den.             19  19 1.000
-Kennard, LA-L           17   26  .654     O'Neale, Pho.            5   7  .714     LaRavia, LA-L            4   4 1.000
-Barrett, Tor.           29   45  .644     Wembanyama, S.A.         5   7  .714     Sharpe, Por.             4   4 1.000
-Henderson, Por.         18   28  .643     Champagnie, S.A.         4   6  .667     Towns, N.Y.             16  16 1.000
-Okongwu, Atl.           16   25  .640     Barrett, Tor.            9  15  .600     Murray, Den.            24  25  .960
-Jal. Williams, OKC.     16   26  .615     Grimes, Phi.             3   5  .600     Gilgeous-Alexander, O   24  26  .923
+Kornet, S.A.            15   20  .750     Fleming, Pho.            3   3 1.000     Brooks, Pho.             4   4 1.000
+Murray-Boyles, Tor.     24   33  .727     Richardson, Orl.         2   2 1.000     Grant, Por.              6   6 1.000
+Williams III, Por.      15   21  .714     S. Jones, Den.           3   3 1.000     Jokic, Den.             19  19 1.000
+Allen, Cle.             14   20  .700     Battle, Tor.             4   5  .800     Towns, N.Y.             16  16 1.000
+Barrett, Tor.           29   45  .644     Drummond, Phi.           3   4  .750     Murray, Den.            24  25  .960
+Okongwu, Atl.           16   25  .640     O'Neale, Pho.            5   7  .714     Gilgeous-Alexander, O   24  26  .923
+Harper, S.A.            16   26  .615     Wembanyama, S.A.         5   7  .714     Queta, Bos.              9  10  .900
+Jal. Williams, OKC.     16   26  .615     Barrett, Tor.            9  15  .600     Bane, Orl.               8   9  .889
+Carter Jr., Orl.         9   15  .600     Champagnie, S.A.         6  10  .600     Durant, Hou.             8   9  .889
+Gobert, Min.            12   20  .600     Harper, S.A.             4   7  .571     F. Wagner, Orl.          8   9  .889
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-F. Wagner, Orl.            2    6 3.00     Holmgren, OKC.            2   6 3.00     Thompson, Hou.            2   85 42.6
-Smart, LA-L                2    6 3.00     Towns, N.Y.               3   7 2.33     Hachimura, LA-L           2   84 42.0
-Daniels, Atl.              3    8 2.67     Allen, Cle.               3   6 2.00     Smith Jr., Hou.           2   82 41.1
-Camara, Por.               2    5 2.50     Bitadze, Orl.             2   4 2.00     Kennard, LA-L             2   80 40.1
-Jay. Williams, OKC.        2    5 2.50     Harris, Det.              2   4 2.00     Murray, Den.              3  117 39.0
-Sengun, Hou.               2    5 2.50     Alexander-Walker, Atl.    3   5 1.67     Cunningham, Det.          2   78 38.9
-Thompson, Det.             2    5 2.50     Edwards, Min.             3   5 1.67     L. James, LA-L            2   78 38.8
-Wallace, OKC.              2    5 2.50     Carter Jr., Orl.          2   3 1.50     Jokic, Den.               3  116 38.5
-DiVincenzo, Min.           3    7 2.33     Champagnie, S.A.          2   3 1.50     Alexander-Walker, Atl.    3  115 38.3
-Harden, Cle.               3    7 2.33     Green, Det.               2   3 1.50     Maxey, Phi.               2   76 38.1
+Smart, LA-L                3   11 3.67     Holmgren, OKC.            2   6 3.00     Thompson, Hou.            3  134 44.6
+F. Wagner, Orl.            2    6 3.00     Towns, N.Y.               3   7 2.33     Hachimura, LA-L           3  128 42.6
+Daniels, Atl.              3    8 2.67     Allen, Cle.               3   6 2.00     Smith Jr., Hou.           3  126 42.0
+Sengun, Hou.               3    8 2.67     Bitadze, Orl.             2   4 2.00     Kennard, LA-L             3  126 41.9
+Jay. Williams, OKC.        2    5 2.50     Harris, Det.              2   4 2.00     L. James, LA-L            3  123 40.9
+Thompson, Det.             2    5 2.50     Alexander-Walker, Atl.    3   5 1.67     Maxey, Phi.               3  119 39.6
+Wallace, OKC.              2    5 2.50     Edwards, Min.             3   5 1.67     Sengun, Hou.              3  118 39.3
+DiVincenzo, Min.           3    7 2.33     Hayes, LA-L               3   5 1.67     Murray, Den.              3  117 39.0
+Eason, Hou.                3    7 2.33     Smart, LA-L               3   5 1.67     Cunningham, Det.          2   78 38.9
+Harden, Cle.               3    7 2.33     White, Bos.               3   5 1.67     Jokic, Den.               3  116 38.5
 
 
 INCLUDES GAMES OF SUNDAY, APRIL 12, 2026
