@@ -1,58 +1,64 @@
 
-ROOKIE LEADERS / PLAYOFFS / INCLUDES GAMES OF SATURDAY, APRIL 25, 2026
+ROOKIE LEADERS / PLAYOFFS / INCLUDES GAMES OF SUNDAY, APRIL 26, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Edgecombe, Phi.        3   23   1   53 17.7     Edgecombe, Phi.       3   11   12   23  7.7     Edgecombe, Phi.        3   10  3.3
-Murray-Boyles, Tor.    3   24   5   53 17.7     Murray-Boyles, Tor.   3    8   11   19  6.3     Harper, S.A.           3    7  2.3
-Harper, S.A.           3   16   7   43 14.3     Harper, S.A.          3    4   10   14  4.7     Murray-Boyles, Tor.    3    7  2.3
-Bryant, S.A.           3    4   0   10  3.3     Bryant, S.A.          3    5    5   10  3.3     Bryant, S.A.           3    6  2.0
-Fleming, Pho.          3    3   0    9  3.0     Maluach, Pho.         3    1    6    7  2.3     Topic, OKC.            2    1  0.5
-Maluach, Pho.          3    3   0    6  2.0     Holmes II, Den.       2    0    2    2  1.0     Fleming, Pho.          3    0  0.0
-Holmes II, Den.        2    0   0    0  0.0     Yang, Por.            2    0    1    1  0.5     Holmes II, Den.        2    0  0.0
-Topic, OKC.            2    0   0    0  0.0     Fleming, Pho.         3    0    0    0  0.0     Maluach, Pho.          3    0  0.0
-Yang, Por.             2    0   0    0  0.0     Topic, OKC.           2    0    0    0  0.0     Yang, Por.             2    0  0.0
+Murray-Boyles, Tor.    4   29  10   68 17.0     Murray-Boyles, Tor.   4   13   16   29  7.3     Edgecombe, Phi.        4   11  2.8
+Edgecombe, Phi.        4   25   3   59 14.8     Edgecombe, Phi.       4   13   14   27  6.8     Murray-Boyles, Tor.    4   10  2.5
+Harper, S.A.           4   17   8   46 11.5     Harper, S.A.          4    4   12   16  4.0     Harper, S.A.           4    8  2.0
+Bryant, S.A.           4    6   0   16  4.0     Bryant, S.A.          4    6    5   11  2.8     Bryant, S.A.           4    7  1.8
+Fleming, Pho.          3    3   0    9  3.0     Maluach, Pho.         3    1    6    7  2.3     Gonzalez, Bos.         2    2  1.0
+Maluach, Pho.          3    3   0    6  2.0     Holmes II, Den.       2    0    2    2  1.0     Topic, OKC.            2    1  0.5
+Shulga, Bos.           2    1   0    3  1.5     Gonzalez, Bos.        2    0    1    1  0.5     Fleming, Pho.          3    0  0.0
+Gonzalez, Bos.         2    0   0    0  0.0     Yang, Por.            3    0    1    1  0.3     Holmes II, Den.        2    0  0.0
+Holmes II, Den.        2    0   0    0  0.0     Fleming, Pho.         3    0    0    0  0.0     Maluach, Pho.          3    0  0.0
+Topic, OKC.            2    0   0    0  0.0     Shulga, Bos.          2    0    0    0  0.0     Shulga, Bos.           2    0  0.0
+Yang, Por.             3    0   0    0  0.0     Topic, OKC.           2    0    0    0  0.0     Yang, Por.             3    0  0.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Murray-Boyles, Tor.     24   33  .727     Fleming, Pho.            3   3 1.000     Harper, S.A.             7   8  .875
-Harper, S.A.            16   26  .615     Richardson, Orl.         2   2 1.000     Murray-Boyles, Tor.      5   6  .833
-Edgecombe, Phi.         23   53  .434     Harper, S.A.             4   7  .571                                         
-                                          Bryant, S.A.             2   6  .333                                         
-                                          Edgecombe, Phi.          6  22  .273                                         
+Murray-Boyles, Tor.     29   44  .659     Fleming, Pho.            3   3 1.000     Harper, S.A.             8  10  .800
+Harper, S.A.            17   32  .531     Richardson, Orl.         2   2 1.000     Murray-Boyles, Tor.     10  13  .769
+Edgecombe, Phi.         25   62  .403     Bryant, S.A.             4   9  .444                                         
+                                          Harper, S.A.             4   9  .444                                         
+                                          Edgecombe, Phi.          6  26  .231                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Edgecombe, Phi.            3    5 1.67     Bryant, S.A.              3   3 1.00     Edgecombe, Phi.           3  111 36.9
-Harper, S.A.               3    2 0.67     Murray-Boyles, Tor.       3   2 0.67     Harper, S.A.              3   76 25.5
-Murray-Boyles, Tor.        3    2 0.67     Edgecombe, Phi.           3   1 0.33     Murray-Boyles, Tor.       3   75 24.9
-Bryant, S.A.               3    0 0.00     Harper, S.A.              3   1 0.33     Maluach, Pho.             3   40 13.4
-Fleming, Pho.              3    0 0.00     Fleming, Pho.             3   0 0.00     Bryant, S.A.              3   39 13.2
-Holmes II, Den.            2    0 0.00     Holmes II, Den.           2   0 0.00     Fleming, Pho.             3    9  2.9
-Maluach, Pho.              3    0 0.00     Maluach, Pho.             3   0 0.00     Topic, OKC.               2    5  2.6
-Topic, OKC.                2    0 0.00     Topic, OKC.               2   0 0.00     Holmes II, Den.           2    4  2.1
-Yang, Por.                 2    0 0.00     Yang, Por.                2   0 0.00     Yang, Por.                2    2  0.9
+Edgecombe, Phi.            4    6 1.50     Bryant, S.A.              4   3 0.75     Edgecombe, Phi.           4  147 36.8
+Murray-Boyles, Tor.        4    4 1.00     Gonzalez, Bos.            2   1 0.50     Murray-Boyles, Tor.       4  102 25.4
+Harper, S.A.               4    3 0.75     Murray-Boyles, Tor.       4   2 0.50     Harper, S.A.              4  101 25.4
+Bryant, S.A.               4    0 0.00     Edgecombe, Phi.           4   1 0.25     Maluach, Pho.             3   40 13.4
+Fleming, Pho.              3    0 0.00     Harper, S.A.              4   1 0.25     Bryant, S.A.              4   45 11.3
+Gonzalez, Bos.             2    0 0.00     Fleming, Pho.             3   0 0.00     Fleming, Pho.             3    9  2.9
+Holmes II, Den.            2    0 0.00     Holmes II, Den.           2   0 0.00     Topic, OKC.               2    5  2.6
+Maluach, Pho.              3    0 0.00     Maluach, Pho.             3   0 0.00     Shulga, Bos.              2    5  2.3
+Shulga, Bos.               2    0 0.00     Shulga, Bos.              2   0 0.00     Holmes II, Den.           2    4  2.1
+Topic, OKC.                2    0 0.00     Topic, OKC.               2   0 0.00     Gonzalez, Bos.            2    4  1.9
 
 
-ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PLAYOFFS / INCLUDES GAMES OF SATURDAY, APRIL 25, 2026
+ROOKIE LEADERS (SAME QUALIFIERS AS REGULAR LEADERS) / PLAYOFFS / INCLUDES GAMES OF SUNDAY, APRIL 26, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Edgecombe, Phi.        3   23   1   53 17.7     Edgecombe, Phi.       3   11   12   23  7.7     Edgecombe, Phi.        3   10  3.3
-Murray-Boyles, Tor.    3   24   5   53 17.7     Murray-Boyles, Tor.   3    8   11   19  6.3     Harper, S.A.           3    7  2.3
-Harper, S.A.           3   16   7   43 14.3     Harper, S.A.          3    4   10   14  4.7     Murray-Boyles, Tor.    3    7  2.3
-Bryant, S.A.           3    4   0   10  3.3     Bryant, S.A.          3    5    5   10  3.3     Bryant, S.A.           3    6  2.0
+Murray-Boyles, Tor.    4   29  10   68 17.0     Murray-Boyles, Tor.   4   13   16   29  7.3     Edgecombe, Phi.        4   11  2.8
+Edgecombe, Phi.        4   25   3   59 14.8     Edgecombe, Phi.       4   13   14   27  6.8     Murray-Boyles, Tor.    4   10  2.5
+Harper, S.A.           4   17   8   46 11.5     Harper, S.A.          4    4   12   16  4.0     Harper, S.A.           4    8  2.0
+Bryant, S.A.           4    6   0   16  4.0     Bryant, S.A.          4    6    5   11  2.8     Bryant, S.A.           4    7  1.8
 Fleming, Pho.          3    3   0    9  3.0     Maluach, Pho.         3    1    6    7  2.3     Fleming, Pho.          3    0  0.0
-Maluach, Pho.          3    3   0    6  2.0     Fleming, Pho.         3    0    0    0  0.0     Maluach, Pho.          3    0  0.0
+Maluach, Pho.          3    3   0    6  2.0     Yang, Por.            3    0    1    1  0.3     Maluach, Pho.          3    0  0.0
+Yang, Por.             3    0   0    0  0.0     Fleming, Pho.         3    0    0    0  0.0     Yang, Por.             3    0  0.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Murray-Boyles, Tor.     24   33  .727     Fleming, Pho.            3   3 1.000     Harper, S.A.             7   8  .875
-Harper, S.A.            16   26  .615     Harper, S.A.             4   7  .571     Murray-Boyles, Tor.      5   6  .833
-Edgecombe, Phi.         23   53  .434     Edgecombe, Phi.          6  22  .273                                         
+Murray-Boyles, Tor.     29   44  .659     Fleming, Pho.            3   3 1.000     Harper, S.A.             8  10  .800
+Harper, S.A.            17   32  .531     Bryant, S.A.             4   9  .444     Murray-Boyles, Tor.     10  13  .769
+Edgecombe, Phi.         25   62  .403     Harper, S.A.             4   9  .444                                         
+                                          Edgecombe, Phi.          6  26  .231                                         
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Edgecombe, Phi.            3    5 1.67     Bryant, S.A.              3   3 1.00     Edgecombe, Phi.           3  111 36.9
-Harper, S.A.               3    2 0.67     Murray-Boyles, Tor.       3   2 0.67     Harper, S.A.              3   76 25.5
-Murray-Boyles, Tor.        3    2 0.67     Edgecombe, Phi.           3   1 0.33     Murray-Boyles, Tor.       3   75 24.9
-Bryant, S.A.               3    0 0.00     Harper, S.A.              3   1 0.33     Maluach, Pho.             3   40 13.4
-Fleming, Pho.              3    0 0.00     Fleming, Pho.             3   0 0.00     Bryant, S.A.              3   39 13.2
+Edgecombe, Phi.            4    6 1.50     Bryant, S.A.              4   3 0.75     Edgecombe, Phi.           4  147 36.8
+Murray-Boyles, Tor.        4    4 1.00     Murray-Boyles, Tor.       4   2 0.50     Murray-Boyles, Tor.       4  102 25.4
+Harper, S.A.               4    3 0.75     Edgecombe, Phi.           4   1 0.25     Harper, S.A.              4  101 25.4
+Bryant, S.A.               4    0 0.00     Harper, S.A.              4   1 0.25     Maluach, Pho.             3   40 13.4
+Fleming, Pho.              3    0 0.00     Fleming, Pho.             3   0 0.00     Bryant, S.A.              4   45 11.3
 Maluach, Pho.              3    0 0.00     Maluach, Pho.             3   0 0.00     Fleming, Pho.             3    9  2.9
+Yang, Por.                 3    0 0.00     Yang, Por.                3   0 0.00     Yang, Por.                3    3  1.1
 
 
 ROOKIE LEADERS / INCLUDES GAMES OF SUNDAY, APRIL 12, 2026
