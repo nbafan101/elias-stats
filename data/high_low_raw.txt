@@ -1,12 +1,13 @@
 
-PLAYOFFS / INCLUDES GAMES OF MONDAY, APRIL 27, 2026
+PLAYOFFS / INCLUDES GAMES OF TUESDAY, APRIL 28, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 48, Thompson, HOU vs. LAL, 4/24 (OT)
-Minutes -- 43, Thompson, HOU at LAL, 4/18
+Minutes -- 43, George, PHI at BOS, 4/28
 Field Goals -- 15, Sengun, HOU vs. LAL, 4/24 (OT)
 Field Goals -- 15, Gilgeous-Alexander, OKC at PHO, 4/25
+Field Goals -- 15, Brunson, NY vs. ATL, 4/28
 FG Attempts -- 31, Maxey, PHI vs. BOS, 4/24
 3-Pt. Field Goals -- 7, Bane, ORL vs. DET, 4/25
 3-Pt. FG Attempts -- 14, Sheppard, HOU at LAL, 4/18
@@ -46,10 +47,11 @@ Lowest Free Throw Pct. -- .545, Philadelphia at BOS, 4/21
 Off. Rebounds -- 21, Houston at LAL, 4/18
 Off. Rebounds -- 21, Toronto vs. CLE, 4/26
 Fewest Off. Rebounds -- 3, L.A. Lakers vs. HOU, 4/18
-Def. Rebounds -- 41, Minnesota vs. DEN, 4/23
-Fewest Def. Rebounds -- 23, (3 times, most recently) Phoenix vs. OKC, 4/27
+Def. Rebounds -- 42, Philadelphia at BOS, 4/28
+Fewest Def. Rebounds -- 22, Atlanta at NY, 4/28
 Rebounds -- 59, Toronto vs. CLE, 4/26
 Fewest Rebounds -- 27, Toronto at CLE, 4/18
+Fewest Rebounds -- 27, Atlanta at NY, 4/28
 Assists -- 35, Denver vs. MIN, 4/27
 Fewest Assists -- 12, Denver at MIN, 4/23
 Personal Fouls -- 30, Minnesota at DEN, 4/20
