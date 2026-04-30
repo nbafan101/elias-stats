@@ -1,30 +1,28 @@
 
-PLAYOFFS / INCLUDES GAMES OF TUESDAY, APRIL 28, 2026
+PLAYOFFS / INCLUDES GAMES OF WEDNESDAY, APRIL 29, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
 Minutes -- 48, Thompson, HOU vs. LAL, 4/24 (OT)
-Minutes -- 43, George, PHI at BOS, 4/28
-Field Goals -- 15, Sengun, HOU vs. LAL, 4/24 (OT)
-Field Goals -- 15, Gilgeous-Alexander, OKC at PHO, 4/25
-Field Goals -- 15, Brunson, NY vs. ATL, 4/28
+Minutes -- 46, Thompson, HOU at LAL, 4/29
+Field Goals -- 17, Banchero, ORL at DET, 4/29
 FG Attempts -- 31, Maxey, PHI vs. BOS, 4/24
+FG Attempts -- 31, Banchero, ORL at DET, 4/29
 3-Pt. Field Goals -- 7, Bane, ORL vs. DET, 4/25
-3-Pt. FG Attempts -- 14, Sheppard, HOU at LAL, 4/18
-3-Pt. FG Attempts -- 14, Murray, DEN vs. MIN, 4/20
+3-Pt. FG Attempts -- 14, (3 times, most recently) Walter, TOR at CLE, 4/29
 Free Throws -- 16, Murray, DEN vs. MIN, 4/18
 FT Attempts -- 17, Gilgeous-Alexander, OKC vs. PHO, 4/19
-Off. Rebounds -- 8, Carter Jr., ORL vs. DET, 4/25
+Off. Rebounds -- 10, Ayton, LAL vs. HOU, 4/29
 Def. Rebounds -- 15, Jokic, DEN vs. MIN, 4/20
-Rebounds -- 17, Towns, NY at ATL, 4/23
-Rebounds -- 17, Carter Jr., ORL vs. DET, 4/25
+Rebounds -- 17, (3 times, most recently) Ayton, LAL vs. HOU, 4/29
 Assists -- 16, Jokic, DEN vs. MIN, 4/27
 Steals -- 5, Smart, LAL at HOU, 4/24 (OT)
-Steals -- 5, (5 times, most recently) Eason, HOU vs. LAL, 4/26
+Steals -- 5, (6 times, most recently) Thompson, DET vs. ORL, 4/29
 Turnovers -- 9, Durant, HOU at LAL, 4/21
 Turnovers -- 9, Cunningham, DET at ORL, 4/25
 Blocks -- 8, Stewart, DET at ORL, 4/27
-Points -- 43, Dosunmu, MIN vs. DEN, 4/25
+Points -- 45, Cunningham, DET vs. ORL, 4/29
+Points -- 45, Banchero, ORL at DET, 4/29
 
 SINGLE-GAME HIGHS AND LOWS / TEAMS
 
@@ -43,7 +41,7 @@ Fewest Free Throws -- 6, Philadelphia at BOS, 4/21
 FT Attempts -- 40, Denver at MIN, 4/23
 Fewest FT Attempts -- 11, Philadelphia at BOS, 4/21
 Free Throw Pct. -- .962, Minnesota vs. DEN, 4/25
-Lowest Free Throw Pct. -- .545, Philadelphia at BOS, 4/21
+Lowest Free Throw Pct. -- .533, Orlando at DET, 4/29
 Off. Rebounds -- 21, Houston at LAL, 4/18
 Off. Rebounds -- 21, Toronto vs. CLE, 4/26
 Fewest Off. Rebounds -- 3, L.A. Lakers vs. HOU, 4/18
