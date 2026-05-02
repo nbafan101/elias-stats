@@ -1,51 +1,51 @@
 
-PLAYOFFS / INCLUDES GAMES OF THURSDAY, APRIL 30, 2026
+PLAYOFFS / INCLUDES GAMES OF FRIDAY, MAY 1, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
 Gilgeous-Alexander, OK 4   43  44  135 33.8     Jokic, Den.           6    9   70   79 13.2     Jokic, Den.            6   57  9.5
-Cunningham, Det.       5   52  44  163 32.6     Towns, N.Y.           6   17   51   68 11.3     L. James, LA-L         5   42  8.4
-Brunson, N.Y.          6   58  28  158 26.3     Gobert, Min.          6   22   42   64 10.7     Barnes, Tor.           5   40  8.0
-Maxey, Phi.            6   59  19  158 26.3     Tatum, Bos.           6    6   58   64 10.7     Gilgeous-Alexander, OK 4   32  8.0
-Brooks, Pho.           4   39  12  104 26.0     Sengun, Hou.          5   18   32   50 10.0     Holiday, Por.          5   36  7.2
-Jokic, Den.            6   54  40  155 25.8     Ayton, LA-L           5   18   31   49  9.8     Cunningham, Det.       5   35  7.0
-Banchero, Orl.         5   42  35  129 25.8     Thompson, Det.        5   18   29   47  9.4     Tatum, Bos.            6   41  6.8
-J. Brown, Bos.         6   53  27  147 24.5     Hart, N.Y.            6    4   51   55  9.2     Fox, S.A.              5   34  6.8
-Barrett, Tor.          5   46  18  122 24.4     Banchero, Orl.        5    6   38   44  8.8     Maxey, Phi.            6   39  6.5
-Barnes, Tor.           5   40  33  120 24.0     Carter Jr., Orl.      5   18   26   44  8.8     Banchero, Orl.         5   32  6.4
-Murray, Den.           6   46  39  142 23.7     Wembanyama, S.A.      4    3   32   35  8.8     Smart, LA-L            5   32  6.4
-Tatum, Bos.            6   48  25  140 23.3     Anunoby, N.Y.         6    7   45   52  8.7     Harden, Cle.           5   31  6.2
-Mitchell, Cle.         5   44  12  116 23.2     Holmgren, OKC.        4    5   29   34  8.5     Thompson, Hou.         5   31  6.2
-Avdija, Por.           5   35  34  111 22.2     Duren, Det.           5   17   25   42  8.4     Brunson, N.Y.          6   37  6.2
-L. James, LA-L         5   38  28  111 22.2     Hartenstein, OKC.     4   18   15   33  8.3     Castle, S.A.           5   30  6.0
-Harden, Cle.           5   35  24  110 22.0     Queta, Bos.           6   11   37   48  8.0     Towns, N.Y.            6   36  6.0
-Dosunmu, Min.          5   39  19  109 21.8     Clingan, Por.         5   14   25   39  7.8     Murray, Den.           6   34  5.7
-Green, Pho.            4   32  16   87 21.8     Mobley, Cle.          5   12   27   39  7.8     Sengun, Hou.           5   27  5.4
-Anunoby, N.Y.          6   44  24  129 21.5     Smith Jr., Hou.       5   10   29   39  7.8     Sheppard, Hou.         5   27  5.4
-Booker, Pho.           4   29  22   85 21.3     Johnson, Atl.         6    6   40   46  7.7     Johnson, Atl.          6   31  5.2
+Cunningham, Det.       6   62  54  195 32.5     Towns, N.Y.           6   17   51   68 11.3     Barnes, Tor.           6   54  9.0
+Brunson, N.Y.          6   58  28  158 26.3     Ayton, LA-L           6   21   44   65 10.8     L. James, LA-L         6   50  8.3
+Maxey, Phi.            6   59  19  158 26.3     Gobert, Min.          6   22   42   64 10.7     Gilgeous-Alexander, OK 4   32  8.0
+Brooks, Pho.           4   39  12  104 26.0     Tatum, Bos.           6    6   58   64 10.7     Holiday, Por.          5   36  7.2
+Jokic, Den.            6   54  40  155 25.8     Sengun, Hou.          6   21   40   61 10.2     Tatum, Bos.            6   41  6.8
+J. Brown, Bos.         6   53  27  147 24.5     Thompson, Det.        6   23   34   57  9.5     Fox, S.A.              5   34  6.8
+Banchero, Orl.         6   46  44  146 24.3     Hart, N.Y.            6    4   51   55  9.2     Harden, Cle.           6   40  6.7
+Barrett, Tor.          6   54  22  146 24.3     Banchero, Orl.        6    7   47   54  9.0     Maxey, Phi.            6   39  6.5
+Barnes, Tor.           6   51  36  145 24.2     Mobley, Cle.          6   16   37   53  8.8     Banchero, Orl.         6   38  6.3
+Murray, Den.           6   46  39  142 23.7     Wembanyama, S.A.      4    3   32   35  8.8     Cunningham, Det.       6   38  6.3
+Mitchell, Cle.         6   55  12  140 23.3     Anunoby, N.Y.         6    7   45   52  8.7     Brunson, N.Y.          6   37  6.2
+Tatum, Bos.            6   48  25  140 23.3     Duren, Det.           6   22   29   51  8.5     Castle, S.A.           5   30  6.0
+L. James, LA-L         6   48  34  139 23.2     Holmgren, OKC.        4    5   29   34  8.5     Towns, N.Y.            6   36  6.0
+Avdija, Por.           5   35  34  111 22.2     Smith Jr., Hou.       6   12   39   51  8.5     Murray, Den.           6   34  5.7
+Dosunmu, Min.          5   39  19  109 21.8     Hartenstein, OKC.     4   18   15   33  8.3     Thompson, Hou.         6   34  5.7
+Green, Pho.            4   32  16   87 21.8     Harris, Det.          6    6   42   48  8.0     Smart, LA-L            6   33  5.5
+Anunoby, N.Y.          6   44  24  129 21.5     Queta, Bos.           6   11   37   48  8.0     Johnson, Atl.          6   31  5.2
+Booker, Pho.           4   29  22   85 21.3     Clingan, Por.         5   14   25   39  7.8     Daniels, Atl.          6   30  5.0
+2 tied                 6   40  29  126 21.0     Johnson, Atl.         6    6   40   46  7.7     Pritchard, Bos.        6   29  4.8
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Hartenstein, OKC.       15   21  .714     Battle, Tor.             5   7  .714     Brooks, Pho.            12  12 1.000
-Murray-Boyles, Tor.     33   49  .673     S. Jones, Den.           9  13  .692     Murray, Den.            39  40  .975
-Ayton, LA-L             30   47  .638     Champagnie, S.A.        13  21  .619     Dosunmu, Min.           19  20  .950
-Allen, Cle.             19   30  .633     O'Neale, Pho.            8  13  .615     Maxey, Phi.             19  20  .950
-Williams III, Por.      22   35  .629     Anunoby, N.Y.           17  30  .567     Grant, Por.             17  18  .944
-Jal. Williams, OKC.     16   26  .615     Dosunmu, Min.           12  22  .545     F. Wagner, Orl.         14  15  .933
-Anunoby, N.Y.           44   72  .611     Hachimura, LA-L         12  22  .545     Jokic, Den.             40  43  .930
-Dosunmu, Min.           39   64  .609     George, Phi.            19  35  .543     Towns, N.Y.             38  41  .927
-Holmgren, OKC.          26   44  .591     Wembanyama, S.A.         7  13  .538     Reaves, LA-L            12  13  .923
-Okongwu, Atl.           28   48  .583     Harper, S.A.             5  10  .500     Mitchell, OKC.          11  12  .917
+Hartenstein, OKC.       15   21  .714     S. Jones, Den.           9  13  .692     Brooks, Pho.            12  12 1.000
+Murray-Boyles, Tor.     39   59  .661     Battle, Tor.             6   9  .667     Murray, Den.            39  40  .975
+Allen, Cle.             25   38  .658     Champagnie, S.A.        13  21  .619     Dosunmu, Min.           19  20  .950
+Williams III, Por.      22   35  .629     O'Neale, Pho.            8  13  .615     Maxey, Phi.             19  20  .950
+Jal. Williams, OKC.     16   26  .615     Hachimura, LA-L         17  29  .586     Grant, Por.             17  18  .944
+Anunoby, N.Y.           44   72  .611     Anunoby, N.Y.           17  30  .567     F. Wagner, Orl.         14  15  .933
+Dosunmu, Min.           39   64  .609     Dosunmu, Min.           12  22  .545     Jokic, Den.             40  43  .930
+Ayton, LA-L             32   53  .604     George, Phi.            19  35  .543     Reaves, LA-L            13  14  .929
+Holmgren, OKC.          26   44  .591     Wembanyama, S.A.         7  13  .538     Towns, N.Y.             38  41  .927
+Okongwu, Atl.           28   48  .583     Harper, S.A.             5  10  .500     Schroder, Cle.          12  13  .923
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Smart, LA-L                5   14 2.80     Wembanyama, S.A.          4  16 4.00     Thompson, Hou.            5  220 44.0
-F. Wagner, Orl.            4   11 2.75     Stewart, Det.             5  13 2.60     Smith Jr., Hou.           5  210 41.9
-Thompson, Det.             5   13 2.60     Allen, Cle.               5  11 2.20     Cunningham, Det.          5  201 40.3
-Eason, Hou.                5   12 2.40     Holmgren, OKC.            4   8 2.00     Maxey, Phi.               6  241 40.2
-Thompson, Hou.             5   12 2.40     Thompson, Det.            5  10 2.00     Murray, Den.              6  238 39.7
-Sengun, Hou.               5   11 2.20     Bitadze, Orl.             5   9 1.80     Jokic, Den.               6  237 39.5
-Sheppard, Hou.             5   11 2.20     Carter Jr., Orl.          5   9 1.80     L. James, LA-L            5  195 39.1
-Black, Orl.                5   10 2.00     Duren, Det.               5   9 1.80     Sengun, Hou.              5  194 38.9
-Green, Pho.                4    8 2.00     Towns, N.Y.               6  10 1.67     Hachimura, LA-L           5  194 38.8
-Harden, Cle.               5   10 2.00     Barnes, Tor.              5   8 1.60     Holiday, Por.             5  192 38.3
+Smart, LA-L                6   16 2.67     Wembanyama, S.A.          4  16 4.00     Thompson, Hou.            6  264 44.1
+Eason, Hou.                6   15 2.50     Thompson, Det.            6  14 2.33     Smith Jr., Hou.           6  252 41.9
+Thompson, Det.             6   14 2.33     Allen, Cle.               6  13 2.17     Cunningham, Det.          6  243 40.6
+Sheppard, Hou.             6   13 2.17     Stewart, Det.             6  13 2.17     Maxey, Phi.               6  241 40.2
+Green, Pho.                4    8 2.00     Holmgren, OKC.            4   8 2.00     Murray, Den.              6  238 39.7
+Harden, Cle.               6   12 2.00     Barnes, Tor.              6  11 1.83     Jokic, Den.               6  237 39.5
+Thompson, Hou.             6   12 2.00     Carter Jr., Orl.          6  11 1.83     Barnes, Tor.              6  236 39.3
+Wallace, OKC.              4    8 2.00     Bitadze, Orl.             6  10 1.67     L. James, LA-L            6  232 38.7
+Anunoby, N.Y.              6   11 1.83     Smart, LA-L               6  10 1.67     Sengun, Hou.              6  232 38.7
+Bane, Orl.                 6   11 1.83     Towns, N.Y.               6  10 1.67     Banchero, Orl.            6  231 38.5
 
 
 INCLUDES GAMES OF SUNDAY, APRIL 12, 2026
