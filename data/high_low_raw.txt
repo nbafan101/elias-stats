@@ -1,5 +1,5 @@
 
-PLAYOFFS / INCLUDES GAMES OF FRIDAY, MAY 1, 2026
+PLAYOFFS / INCLUDES GAMES OF SATURDAY, MAY 2, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -9,7 +9,7 @@ Field Goals -- 17, Banchero, ORL at DET, 4/29
 FG Attempts -- 31, Maxey, PHI vs. BOS, 4/24
 FG Attempts -- 31, Banchero, ORL at DET, 4/29
 3-Pt. Field Goals -- 7, Bane, ORL vs. DET, 4/25
-3-Pt. FG Attempts -- 14, (3 times, most recently) Walter, TOR at CLE, 4/29
+3-Pt. FG Attempts -- 16, White, BOS vs. PHI, 5/2
 Free Throws -- 16, Murray, DEN vs. MIN, 4/18
 FT Attempts -- 17, Gilgeous-Alexander, OKC vs. PHO, 4/19
 Off. Rebounds -- 10, Ayton, LAL vs. HOU, 4/29
@@ -46,6 +46,7 @@ Lowest Free Throw Pct. -- .533, Orlando at DET, 4/29
 Off. Rebounds -- 21, Houston at LAL, 4/18
 Off. Rebounds -- 21, Toronto vs. CLE, 4/26
 Fewest Off. Rebounds -- 3, L.A. Lakers vs. HOU, 4/18
+Fewest Off. Rebounds -- 3, Philadelphia at BOS, 5/2
 Def. Rebounds -- 42, Philadelphia at BOS, 4/28
 Fewest Def. Rebounds -- 22, Atlanta at NY, 4/28
 Rebounds -- 59, Toronto vs. CLE, 4/26
@@ -58,7 +59,7 @@ Fewest Personal Fouls -- 15, Cleveland at TOR, 4/23
 Fewest Personal Fouls -- 15, Philadelphia vs. BOS, 4/30
 Steals -- 17, Houston vs. LAL, 4/26
 Turnovers -- 25, Minnesota at DEN, 4/27
-Fewest Turnovers -- 8, (3 times, most recently) Minnesota vs. DEN, 4/30
+Fewest Turnovers -- 5, Boston vs. PHI, 5/2
 Blocks -- 18, Detroit at ORL, 4/27
 Points -- 140, New York at ATL, 4/30
 Fewest Points -- 78, Houston vs. LAL, 5/1
