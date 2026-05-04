@@ -1,76 +1,10 @@
-
-PLAYOFFS / INCLUDES GAMES OF SATURDAY, MAY 2, 2026
-                                                                                                         DECIDED  DECIDED
-                          POINTS       FIELD GOAL    TURNOVERS         REBOUND         BELOW   OVERTIME   3 PTS.  10 PTS.
-                          PER GAME     PERCENTAGE     PER GAME       PERCENTAGES      100 PTS.   GAMES   OR LESS  OR MORE
-TEAM                    OWN    OPP.    OWN   OPP.    OWN   OPP.    OFF.  DEF.  TOT.   OWN OPP.    W  L     W  L     W  L
-Atlanta               100.3  117.8    .436  .499    14.7  13.2    .206  .725  .465      3   0     0  0     2  0     0  4
-Boston                106.6  103.7    .434  .446    11.9  10.7    .270  .807  .539      3   2     0  0     0  0     2  3
-Cleveland             111.5  111.5    .472  .469    17.3  15.8    .285  .715  .500      1   1     0  1     0  1     2  1
-Denver                107.5  112.0    .436  .468    12.0  13.5    .166  .723  .445      3   0     0  0     0  0     2  3
-Detroit               100.2   98.3*   .427  .395*   16.8  14.0    .285  .753  .519      3   3     0  0     0  0     2  1
-Houston                98.7  101.2    .409  .474    13.8  17.7*   .299  .740  .519      4   3     0  1     0  0     1  1
-L.A. Lakers           101.2   98.7    .474  .409    17.7  13.8    .260  .701  .481      3   4     1  0     0  0     1  1
-Minnesota             112.0  107.5    .468  .436    13.5  12.0    .277  .834* .555*     0   3     0  0     0  0     3  2
-New York              117.8  100.3    .499* .436    13.2  14.7    .275  .794  .535      0   3     0  0     0  2     4  0
-Oklahoma City         122.8* 105.5    .487  .446    10.8  16.0    .315* .721  .518      0   1     0  0     0  0     3  0
-Orlando                98.3  100.2    .395  .427    14.0  16.8    .247  .715  .481      3   3     0  0     0  0     1  2
-Philadelphia          103.7  106.6    .446  .434    10.7* 11.9    .193  .730  .461      2   3     0  0     0  0     3  2
-Phoenix               105.5  122.8    .446  .487    16.0  10.8    .279  .685  .482      1   0     0  0     0  0     0  3
-Portland              100.0  112.4    .403  .484    12.8  15.2    .262  .730  .496      3   0     0  0     1  0     0  4
-San Antonio           112.4  100.0    .484  .403    15.2  12.8    .270  .738  .504      0   3     0  0     0  1     4  0
-Toronto               111.5  111.5    .469  .472    15.8  17.3    .285  .715  .500      1   1     1  0     1  0     1  2
-
-COMPOSITE; 92    games   106.5           .448          14.1       .258  .742           30   30       2        4       29
-
-* - League Leader
-
-REBOUND PERCENTAGES
-OFF. - Percentage of a given team's missed shots which that team rebounds.
-DEF. - Percentage of opponents' missed shots which a given team rebounds.
-TOT. - Average of offensive and defensive rebound percentages.
-
-INCLUDES GAMES OF SUNDAY, APRIL 12, 2026
-                                                                                                         DECIDED  DECIDED
-                          POINTS       FIELD GOAL    TURNOVERS         REBOUND         BELOW   OVERTIME   3 PTS.  10 PTS.
-                          PER GAME     PERCENTAGE     PER GAME       PERCENTAGES      100 PTS.   GAMES   OR LESS  OR MORE
-TEAM                    OWN    OPP.    OWN   OPP.    OWN   OPP.    OFF.  DEF.  TOT.   OWN OPP.    W  L     W  L     W  L
-Atlanta               118.5  116.0    .474  .474    14.2  16.1    .244  .745  .494      7   8     2  0     7  8    33 19
-Boston                114.8  107.2*   .467  .442    12.4* 12.4    .292  .757  .524      9  18     1  0     5  7    38 10
-Brooklyn              105.9  115.9    .443  .497    15.8  14.5    .236  .740  .488     26   6     0  2     2  4    12 43
-Charlotte             116.0  111.2    .460  .467    15.4  12.7    .305  .766  .535      6  19     2  1     3  6    32 19
-Chicago               116.3  121.5    .469  .478    15.3  13.0    .231  .755  .493      7   3     1  1    10  6    13 33
-Cleveland             119.5  115.4    .482  .464    14.0  15.0    .269  .744  .506      4   8     0  3     2  5    27 17
-Dallas                114.1  119.6    .466  .478    14.6  13.4    .232  .741  .487     10   3     2  4     5  7     9 30
-Denver                122.1* 116.9    .496  .468    12.9  11.8    .236  .753  .494      2   6     5  4     9 11    28  9
-Detroit               117.8  109.6    .485  .443    15.1  16.9*   .309  .742  .526      5  13     2  3    10  6    34  8
-Golden State          114.6  115.2    .461  .480    15.7  15.9    .258  .729  .493     12  11     3  2     5  6    20 23
-Houston               115.2  110.0    .479  .460    15.4  13.4    .348* .745  .547*     7  14     1  7     5  9    27 11
-Indiana               112.4  120.4    .458  .489    14.5  13.5    .217  .741  .479     11   5     1  1     7  6     7 38
-L.A. Clippers         113.8  112.6    .484  .469    14.3  14.3    .237  .729  .483      9  12     3  0     7  8    25 23
-L.A. Lakers           116.3  114.6    .502* .483    14.5  14.6    .239  .743  .491      8   7     1  0     8  3    28 21
-Memphis               114.7  120.7    .456  .485    15.1  15.5    .247  .709  .478      6   5     1  1     3  5     9 32
-Miami                 120.9  118.5    .468  .465    13.7  15.0    .254  .749  .501      6   6     1  0     6  4    29 23
-Milwaukee             110.6  116.8    .477  .473    15.2  13.1    .211  .741  .476     16   8     2  1     6  6    19 33
-Minnesota             118.0  114.7    .481  .462    14.8  15.0    .257  .737  .497      5   7     2  2     6  4    28 18
-New Orleans           115.5  120.0    .466  .477    14.2  14.5    .270  .714  .492      7   4     1  4     2  5    15 25
-New York              116.5  110.1    .478  .460    13.7  14.4    .293  .767  .530     10  17     1  1     9  4    32 19
-Oklahoma City         119.0  107.9    .484  .437*   12.6  16.7    .223  .744  .484      2  18     5  0     5  6    43  9
-Orlando               115.7  115.1    .464  .476    14.2  14.9    .250  .756  .503      8   7     3  2    11  5    19 19
-Philadelphia          115.9  116.1    .462  .467    13.6  15.4    .262  .725  .494      7   5     4  3     6  8    26 20
-Phoenix               112.6  111.1    .455  .470    14.5  16.3    .289  .719  .504     11  12     1  1     7 10    25 17
-Portland              115.5  115.8    .453  .471    17.3  15.6    .313  .727  .520     12   7     1  2     6  5    23 18
-Sacramento            111.0  121.0    .467  .494    14.3  14.0    .259  .735  .497     15   2     2  1     3  4     6 40
-San Antonio           119.8  111.5    .483  .451    13.4  13.0    .262  .773* .518      3  11     1  1     8  5    43  8
-Toronto               114.6  111.8    .482  .467    13.7  16.1    .255  .740  .497     14  13     2  2     7  4    33 23
-Utah                  117.6  126.0    .467  .494    15.5  14.6    .262  .729  .495      5   2     3  2     5  8     9 41
-Washington            112.9  124.9    .463  .488    15.7  13.8    .241  .702  .471     10   3     0  3     2  2     8 51
-
-COMPOSITE; 2460  games   115.6           .471          14.5       .260  .740          260   260     54      177      700
-
-* - League Leader
-
-REBOUND PERCENTAGES
-OFF. - Percentage of a given team's missed shots which that team rebounds.
-DEF. - Percentage of opponents' missed shots which a given team rebounds.
-TOT. - Average of offensive and defensive rebound percentages.
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;team&#95;opp&#95;misc&#46;txt" on this server.<P>
+Reference&#32;&#35;18&#46;70743617&#46;1777903933&#46;a871af56
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;70743617&#46;1777903933&#46;a871af56</P>
+</BODY>
+</HTML>
