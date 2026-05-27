@@ -1,5 +1,5 @@
 
-PLAYOFFS / INCLUDES GAMES OF MONDAY, MAY 25, 2026
+PLAYOFFS / INCLUDES GAMES OF TUESDAY, MAY 26, 2026
 
 SINGLE-GAME HIGHS / PLAYERS
 
@@ -13,7 +13,9 @@ FG Attempts -- 31, Banchero, ORL at DET, 4/29
 3-Pt. Field Goals -- 7, McBride, NY at PHI, 5/10
 3-Pt. FG Attempts -- 16, White, BOS vs. PHI, 5/2
 Free Throws -- 16, Murray, DEN vs. MIN, 4/18
+Free Throws -- 16, Gilgeous-Alexander, OKC vs. SA, 5/26
 FT Attempts -- 17, Gilgeous-Alexander, OKC vs. PHO, 4/19
+FT Attempts -- 17, Gilgeous-Alexander, OKC vs. SA, 5/26
 Off. Rebounds -- 10, Ayton, LAL vs. HOU, 4/29
 Def. Rebounds -- 15, Wembanyama, SA at OKC, 5/18 (2 OT)
 Def. Rebounds -- 15, Jokic, DEN vs. MIN, 4/20
@@ -41,7 +43,7 @@ Lowest Field Goal Pct. -- .320, Toronto vs. CLE, 4/26
 3-Pt. Field Goals -- 25, New York at PHI, 5/10
 3-Pt. FG Attempts -- 53, Boston at PHI, 4/26
 3-Pt. FG Pct. -- .609, Toronto vs. CLE, 4/23
-Free Throws -- 32, Denver at MIN, 4/23
+Free Throws -- 33, Oklahoma City vs. SA, 5/26
 Fewest Free Throws -- 6, Philadelphia at BOS, 4/21
 FT Attempts -- 44, Cleveland at DET, 5/17
 Fewest FT Attempts -- 10, Oklahoma City at LAL, 5/9
