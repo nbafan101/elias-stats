@@ -46,8 +46,8 @@ Maluach, Pho.          4    4   0    8  2.0     Fleming, Pho.         4    1    
 Yang, Por.             4    0   0    0  0.0     Yang, Por.            4    0    1    1  0.3     Yang, Por.             4    0  0.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
-Murray-Boyles, Tor.     42   64  .656     Harper, S.A.            16  44  .364     Harper, S.A.            49  58  .845
-Harper, S.A.            85  162  .525     Edgecombe, Phi.         21  72  .292     Murray-Boyles, Tor.     17  22  .773
+Murray-Boyles, Tor.     42   64  .656     Edgecombe, Phi.         21  72  .292     Harper, S.A.            49  58  .845
+Harper, S.A.            85  162  .525                                              Murray-Boyles, Tor.     17  22  .773
 Edgecombe, Phi.         60  145  .414                                                                                  
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
