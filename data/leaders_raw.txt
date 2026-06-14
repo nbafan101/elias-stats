@@ -1,42 +1,42 @@
 
-PLAYOFFS / INCLUDES GAMES OF WEDNESDAY, JUNE 10, 2026
+PLAYOFFS / INCLUDES GAMES OF SATURDAY, JUNE 13, 2026
 
 SCORING AVERAGE        G   FG  FT  PTS  AVG     REBOUNDS PER GAME     G  OFF  DEF  TOT  AVG     ASSISTS PER GAME       G  AST  AVG
-Cunningham, Det.      14  127  99  394 28.1     Jokic, Den.           6    9   70   79 13.2     Jokic, Den.            6   57  9.5
-Gilgeous-Alexander, OK15  132 132  414 27.6     Wembanyama, S.A.     21   49  176  225 10.7     Barnes, Tor.           7   60  8.6
-Brunson, N.Y.         18  178  97  494 27.4     Tatum, Bos.           6    6   58   64 10.7     Gilgeous-Alexander, OK15  119  7.9
-Banchero, Orl.         7   60  50  184 26.3     Towns, N.Y.          18   47  144  191 10.6     Cunningham, Det.      14  105  7.5
+Brunson, N.Y.         19  192 110  539 28.4     Jokic, Den.           6    9   70   79 13.2     Jokic, Den.            6   57  9.5
+Cunningham, Det.      14  127  99  394 28.1     Wembanyama, S.A.     22   55  184  239 10.9     Barnes, Tor.           7   60  8.6
+Gilgeous-Alexander, OK15  132 132  414 27.6     Tatum, Bos.           6    6   58   64 10.7     Gilgeous-Alexander, OK15  119  7.9
+Banchero, Orl.         7   60  50  184 26.3     Towns, N.Y.          19   48  153  201 10.6     Cunningham, Det.      14  105  7.5
 Brooks, Pho.           4   39  12  104 26.0     Sengun, Hou.          6   21   40   61 10.2     L. James, LA-L        10   73  7.3
 Mitchell, Cle.        18  171  75  468 26.0     Ayton, LA-L          10   37   59   96  9.6     Holiday, Por.          5   36  7.2
 Jokic, Den.            6   54  40  155 25.8     Gobert, Min.         12   42   70  112  9.3     Tatum, Bos.            6   41  6.8
 J. Brown, Bos.         7   65  33  180 25.7     Banchero, Orl.        7    9   54   63  9.0     Banchero, Orl.         7   44  6.3
-Barnes, Tor.           7   59  43  169 24.1     Hart, N.Y.           18   19  140  159  8.8     Castle, S.A.          22  137  6.2
-Barrett, Tor.          7   63  26  169 24.1     Queta, Bos.           7   12   48   60  8.6     Brunson, N.Y.         18  112  6.2
-Wembanyama, S.A.      21  169 129  505 24.0     Duren, Det.          14   46   73  119  8.5     Fox, S.A.             20  120  6.0
+Barnes, Tor.           7   59  43  169 24.1     Hart, N.Y.           19   22  148  170  8.9     Castle, S.A.          23  141  6.1
+Barrett, Tor.          7   63  26  169 24.1     Queta, Bos.           7   12   48   60  8.6     Brunson, N.Y.         19  115  6.1
+Wembanyama, S.A.      22  176 133  524 23.8     Duren, Det.          14   46   73  119  8.5     Fox, S.A.             21  125  6.0
 Maxey, Phi.           11   96  43  261 23.7     Smith Jr., Hou.       6   12   39   51  8.5     Maxey, Phi.           11   65  5.9
 Murray, Den.           6   46  39  142 23.7     Hartenstein, OKC.    15   50   75  125  8.3     Murray, Den.           6   34  5.7
 Tatum, Bos.            6   48  25  140 23.3     Holmgren, OKC.       15   30   93  123  8.2     Thompson, Hou.         6   34  5.7
 L. James, LA-L        10   84  47  232 23.2     Mobley, Cle.         18   37  108  145  8.1     Harden, Cle.          18   99  5.5
 Avdija, Por.           5   35  34  111 22.2     Thompson, Det.       14   45   65  110  7.9     Johnson, Atl.          6   31  5.2
-Green, Pho.            4   32  16   87 21.8     Clingan, Por.         5   14   25   39  7.8     Towns, N.Y.           18   93  5.2
-Edwards, Min.         10   77  42  216 21.6     Johnson, Atl.         6    6   40   46  7.7     Pritchard, Bos.        7   36  5.1
-Booker, Pho.           4   29  22   85 21.3     Randle, Min.         12   30   60   90  7.5     Smart, LA-L           10   51  5.1
-Anunoby, N.Y.         16  108  72  331 20.7     Williams III, Por.    5   16   21   37  7.4     2 tied                         5.0
+Green, Pho.            4   32  16   87 21.8     Clingan, Por.         5   14   25   39  7.8     Pritchard, Bos.        7   36  5.1
+Edwards, Min.         10   77  42  216 21.6     Johnson, Atl.         6    6   40   46  7.7     Smart, LA-L           10   51  5.1
+Booker, Pho.           4   29  22   85 21.3     Randle, Min.         12   30   60   90  7.5     Daniels, Atl.          6   30  5.0
+Sengun, Hou.           6   46  29  122 20.3     Williams III, Por.    5   16   21   37  7.4     Shead, Tor.            7   35  5.0
 
 FIELD GOAL PCT.         FG  FGA   PCT     3-PT FIELD GOAL PCT.   3FG 3GA   PCT     FREE THROW PCT.         FT FTA   PCT
 Murray-Boyles, Tor.     42   64  .656     S. Jones, Den.           9  13  .692     Brooks, Pho.            12  12 1.000
 Allen, Cle.             87  137  .635     Battle, Tor.             7  11  .636     Murray, Den.            39  40  .975
 Hartenstein, OKC.       57   90  .633     O'Neale, Pho.            8  13  .615     Grant, Por.             17  18  .944
 Williams III, Por.      22   35  .629     Hachimura, LA-L         33  58  .569     F. Wagner, Orl.         14  15  .933
-Okongwu, Atl.           28   48  .583     Anunoby, N.Y.           43  85  .506     Jokic, Den.             40  43  .930
-Anunoby, N.Y.          108  187  .578     Conley, Min.            13  26  .500     Suggs, Orl.             13  14  .929
-Holmgren, OKC.          83  146  .568     George, Phi.            35  71  .493     Dosunmu, Min.           25  27  .926
-Towns, N.Y.            102  180  .567     Shamet, N.Y.            28  57  .491     Shannon Jr., Min.       22  24  .917
-Bridges, N.Y.          100  178  .562     Wallace, OKC.           30  62  .484     Walter, Tor.            11  12  .917
+Okongwu, Atl.           28   48  .583     Conley, Min.            13  26  .500     Jokic, Den.             40  43  .930
+Holmgren, OKC.          83  146  .568     George, Phi.            35  71  .493     Suggs, Orl.             13  14  .929
+Anunoby, N.Y.          111  198  .561     Anunoby, N.Y.           44  90  .489     Dosunmu, Min.           25  27  .926
+Bridges, N.Y.          105  188  .559     Wallace, OKC.           30  62  .484     Shannon Jr., Min.       22  24  .917
+Towns, N.Y.            103  187  .551     Shamet, N.Y.            29  61  .475     Walter, Tor.            11  12  .917
 Hachimura, LA-L         67  122  .549     Kennard, LA-L           18  38  .474     Towns, N.Y.             70  77  .909
 
 STEALS PER GAME            G  STL  AVG     BLOCKS PER GAME           G BLK  AVG     MINUTES PER GAME          G  MIN  AVG
-Eason, Hou.                6   15 2.50     Wembanyama, S.A.         21  73 3.48     Thompson, Hou.            6  264 44.1
+Eason, Hou.                6   15 2.50     Wembanyama, S.A.         22  78 3.55     Thompson, Hou.            6  264 44.1
 Smart, LA-L               10   24 2.40     Thompson, Det.           14  25 1.79     Smith Jr., Hou.           6  252 41.9
 Sheppard, Hou.             6   13 2.17     Mobley, Cle.             18  32 1.78     Cunningham, Det.         14  572 40.8
 Black, Orl.                7   15 2.14     Allen, Cle.              18  31 1.72     Maxey, Phi.              11  437 39.7
