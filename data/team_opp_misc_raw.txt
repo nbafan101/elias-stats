@@ -4,7 +4,7 @@
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;team&#95;opp&#95;misc&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;73743617&#46;1782226661&#46;d206a2e5
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;73743617&#46;1782226661&#46;d206a2e5</P>
+Reference&#32;&#35;18&#46;cd643017&#46;1782311991&#46;591c8954
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;cd643017&#46;1782311991&#46;591c8954</P>
 </BODY>
 </HTML>
